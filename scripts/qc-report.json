@@ -1,0 +1,41 @@
+{
+  "issues": {
+    "critical": [
+      "Q33 (Opioid OD - Naloxone): Expected answer 1, got 3",
+      "Q34 (Alcohol withdrawal - Benzos): Expected answer 1, got 3",
+      "Q99 (Adjustment disorder - 3 months): Expected answer 1, got 3"
+    ],
+    "major": [],
+    "minor": [
+      "Q218: Correct answer stands out (all caps)",
+      "Q399: Correct answer stands out (all caps)",
+      "Q400: Correct answer stands out (all caps)",
+      "Q414: Correct answer stands out (all caps)",
+      "Q422: Correct answer stands out (all caps)",
+      "Q429: Correct answer stands out (all caps)",
+      "Q437: Correct answer stands out (all caps)",
+      "Q438: Correct answer stands out (all caps)",
+      "Q439: Correct answer stands out (all caps)",
+      "Q441: Correct answer stands out (all caps)",
+      "Q444: Correct answer stands out (all caps)",
+      "Q445: Correct answer stands out (all caps)",
+      "Q446: Correct answer stands out (all caps)",
+      "Q457: Correct answer stands out (all caps)",
+      "Q461: Correct answer stands out (all caps)",
+      "Q462: Correct answer stands out (all caps)",
+      "Q464: Correct answer stands out (all caps)",
+      "Q466: Correct answer stands out (all caps)",
+      "Q467: Correct answer stands out (all caps)",
+      "Q469: Correct answer stands out (all caps)",
+      "Q472: Correct answer stands out (all caps)",
+      "Q473: Correct answer stands out (all caps)",
+      "Q474: Correct answer stands out (all caps)",
+      "Q368: Simple format - \"What is the highest level of evidence in research?...\""
+    ],
+    "warnings": []
+  },
+  "stats": {
+    "total": 500,
+    "categories": 151
+  }
+}

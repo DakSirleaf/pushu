@@ -1,0 +1,3102 @@
+[
+  {
+    "id": 1,
+    "type": "TOPIC_MISMATCH",
+    "question": "A patient is taking Tegretol (carbamazepine). What medication interaction should you be aware of?",
+    "questionTopics": [
+      "carbamazepine"
+    ],
+    "rationaleTopics": [
+      "lithium",
+      "carbamazepine",
+      "NMS"
+    ],
+    "rationale": "CYP3A4 INHIBITORS (Cipro, erythromycin, grapefruit) + carbamazepine = TOXICITY. PHARMACOKINETICS = b"
+  },
+  {
+    "id": 4,
+    "type": "TOPIC_MISMATCH",
+    "question": "What medication is contraindicated in a patient with eating disorder (bulimia)?",
+    "questionTopics": [
+      "lithium"
+    ],
+    "rationaleTopics": [
+      "lithium",
+      "clozapine"
+    ],
+    "rationale": "Wellbutrin lowers seizure threshold. In bulimia, electrolyte imbalances from purging further increas"
+  },
+  {
+    "id": 5,
+    "type": "TOPIC_MISMATCH",
+    "question": "A PMHNP is selecting an antipsychotic for a patient with schizophrenia who has a BMI of 32 and predi",
+    "questionTopics": [
+      "lithium",
+      "antipsychotic"
+    ],
+    "rationaleTopics": [
+      "lithium",
+      "clozapine"
+    ],
+    "rationale": "Clozapine carries the highest metabolic risk: weight gain, diabetes, dyslipidemia. Teach patient: Mo"
+  },
+  {
+    "id": 8,
+    "type": "TOPIC_MISMATCH",
+    "question": "A patient on lithium develops elevated TSH. What does this indicate?",
+    "questionTopics": [
+      "lithium"
+    ],
+    "rationaleTopics": [
+      "lithium",
+      "clozapine",
+      "NMS"
+    ],
+    "rationale": "Elevated TSH = hypothyroidism. Lithium blocks thyroid hormone release. Teach patient: Report fatigue"
+  },
+  {
+    "id": 12,
+    "type": "TOPIC_MISMATCH",
+    "question": "A PMHNP is considering clozapine for a patient with treatment-resistant schizophrenia. When discussi",
+    "questionTopics": [
+      "clozapine",
+      "NMS",
+      "antipsychotic"
+    ],
+    "rationaleTopics": [
+      "lithium",
+      "clozapine",
+      "NMS"
+    ],
+    "rationale": "Clozapine black box: agranulocytosis (dangerously low WBCs). Requires weekly-to-monthly ANC monitori"
+  },
+  {
+    "id": 13,
+    "type": "TOPIC_MISMATCH",
+    "question": "A patient on clozapine has an ANC of 1200. What should you do?",
+    "questionTopics": [
+      "clozapine"
+    ],
+    "rationaleTopics": [
+      "clozapine",
+      "NMS"
+    ],
+    "rationale": "ANC 1000–1499 = moderate neutropenia. Hold clozapine, check ANC daily. Resume only when ANC ≥1500. T"
+  },
+  {
+    "id": 14,
+    "type": "TOPIC_MISMATCH",
+    "question": "A patient on clozapine quits smoking. What should you do?",
+    "questionTopics": [
+      "clozapine"
+    ],
+    "rationaleTopics": [
+      "lithium",
+      "carbamazepine",
+      "clozapine"
+    ],
+    "rationale": "CYP1A2: Smoking INDUCES (speeds up) metabolism of clozapine/olanzapine. Quit smoking → levels RISE 5"
+  },
+  {
+    "id": 17,
+    "type": "TOPIC_MISMATCH",
+    "question": "What antidepressant is BEST for a patient with depression and insomnia?",
+    "questionTopics": [
+      "depression"
+    ],
+    "rationaleTopics": [
+      "NMS",
+      "depression"
+    ],
+    "rationale": "DEPRESSION + INSOMNIA: Mirtazapine (Remeron) or trazodone—sedating. SLEEP NEUROANATOMY: PINEAL GLAND"
+  },
+  {
+    "id": 19,
+    "type": "TOPIC_MISMATCH",
+    "question": "A patient on phenelzine (Nardil) presents to the emergency department with severe occipital headache",
+    "questionTopics": [
+      "MAOIs"
+    ],
+    "rationaleTopics": [
+      "NMS",
+      "MAOIs"
+    ],
+    "rationale": "Phentolamine (alpha-blocker) treats MAOI hypertensive crisis from tyramine reaction. This is an emer"
+  },
+  {
+    "id": 20,
+    "type": "TOPIC_MISMATCH",
+    "question": "A patient on sertraline requires surgery and will receive opioid pain management. The PMHNP should a",
+    "questionTopics": [
+      "lithium",
+      "serotonin syndrome"
+    ],
+    "rationaleTopics": [
+      "lithium",
+      "serotonin syndrome",
+      "MAOIs"
+    ],
+    "rationale": "Meperidine (Demerol) inhibits serotonin reuptake. Combined with MAOIs or SSRIs, it causes serotonin "
+  },
+  {
+    "id": 21,
+    "type": "TOPIC_MISMATCH",
+    "question": "A PMHNP is educating a nursing student about antidepressant mechanisms. When explaining how SSRIs wo",
+    "questionTopics": [
+      "depression"
+    ],
+    "rationaleTopics": [
+      "NMS"
+    ],
+    "rationale": "SSRIs block serotonin reuptake, increasing serotonin in the synapse. Teach patient: Takes 2–4 weeks "
+  },
+  {
+    "id": 23,
+    "type": "TOPIC_MISMATCH",
+    "question": "A PMHNP is evaluating a patient who developed depression after starting a new medication for hyperte",
+    "questionTopics": [
+      "depression"
+    ],
+    "rationaleTopics": [
+      "NMS",
+      "depression"
+    ],
+    "rationale": "Beta-blockers, steroids, interferon, and Accutane can cause depression. Teach patient: Report mood c"
+  },
+  {
+    "id": 24,
+    "type": "TOPIC_MISMATCH",
+    "question": "A patient with bipolar I disorder is admitted to the hospital in a manic episode. The PMHNP reviews ",
+    "questionTopics": [
+      "bipolar"
+    ],
+    "rationaleTopics": [
+      "depression",
+      "bipolar"
+    ],
+    "rationale": "MANIA-INDUCING MEDICATIONS (SAID mnemonic): Steroids, Antidepressants, INH (isoniazid), Disulfiram. "
+  },
+  {
+    "id": 28,
+    "type": "TOPIC_MISMATCH",
+    "question": "Before initiating carbamazepine (Tegretol) in a patient of Asian descent, the PMHNP should order whi",
+    "questionTopics": [
+      "carbamazepine"
+    ],
+    "rationaleTopics": [
+      "carbamazepine",
+      "NMS"
+    ],
+    "rationale": "HLA-B*1502 SCREENING: FDA Black Box Warning requires testing in patients of ASIAN descent before sta"
+  },
+  {
+    "id": 29,
+    "type": "TOPIC_MISMATCH",
+    "question": "A patient presents to the emergency department in acute mania. The PMHNP decides to use valproate (D",
+    "questionTopics": [
+      "valproate",
+      "bipolar"
+    ],
+    "rationaleTopics": [
+      "lithium",
+      "valproate",
+      "bipolar",
+      "psychotherapy"
+    ],
+    "rationale": "VALPROATE LOADING DOSE: 20-30 mg/kg/day for acute mania achieves therapeutic levels rapidly (1-2 day"
+  },
+  {
+    "id": 30,
+    "type": "TOPIC_MISMATCH",
+    "question": "A patient on lithium is prescribed a new medication by their primary care provider. The PMHNP should",
+    "questionTopics": [
+      "lithium"
+    ],
+    "rationaleTopics": [
+      "lithium",
+      "clozapine"
+    ],
+    "rationale": "ACE INHIBITORS and NSAIDs can approximately DOUBLE lithium levels. NSAIDs reduce renal prostaglandin"
+  },
+  {
+    "id": 31,
+    "type": "TOPIC_MISMATCH",
+    "question": "A patient on lithium reports starting ibuprofen for knee pain. The PMHNP should advise that NSAIDs a",
+    "questionTopics": [
+      "lithium"
+    ],
+    "rationaleTopics": [
+      "lithium",
+      "clozapine"
+    ],
+    "rationale": "NSAIDs DECREASE RENAL CLEARANCE of lithium by inhibiting prostaglandin synthesis in kidneys. This re"
+  },
+  {
+    "id": 32,
+    "type": "TOPIC_MISMATCH",
+    "question": "A patient presents to the emergency department after a benzodiazepine overdose with respiratory depr",
+    "questionTopics": [
+      "benzodiazepine",
+      "depression"
+    ],
+    "rationaleTopics": [
+      "clozapine",
+      "NMS",
+      "benzodiazepine"
+    ],
+    "rationale": "Flumazenil reverses benzodiazepine overdose by blocking GABA receptors. Caution: Can precipitate sei"
+  },
+  {
+    "id": 33,
+    "type": "TOPIC_MISMATCH",
+    "question": "Emergency medical services brings in an unresponsive patient with pinpoint pupils and respiratory ra",
+    "questionTopics": [
+      "NMS"
+    ],
+    "rationaleTopics": [
+      "SSRI discontinuation",
+      "lithium",
+      "clozapine",
+      "benzodiazepine",
+      "antipsychotic",
+      "depression",
+      "anxiety"
+    ],
+    "rationale": "FLUMAZENIL for BENZO OVERDOSE. INTOX vs WITHDRAWAL TABLE: BENZODIAZEPINES—Intoxication: sedation, at"
+  },
+  {
+    "id": 34,
+    "type": "TOPIC_MISMATCH",
+    "question": "A patient presents with tremors, diaphoresis, and tachycardia 24 hours after his last alcoholic drin",
+    "questionTopics": [
+      "SSRI discontinuation",
+      "lithium"
+    ],
+    "rationaleTopics": [
+      "SSRI discontinuation",
+      "lithium",
+      "NMS"
+    ],
+    "rationale": "ALCOHOL WITHDRAWAL + WERNICKE'S PREVENTION: Give THIAMINE (B1) BEFORE glucose in alcoholics! Glucose"
+  },
+  {
+    "id": 34,
+    "type": "RATIONALE_ANSWER_MISMATCH",
+    "correctOption": "Anticonvulsants",
+    "rationale": "ALCOHOL WITHDRAWAL + WERNICKE'S PREVENTION: Give THIAMINE (B1) BEFORE glucose in alcoholics! Glucose"
+  },
+  {
+    "id": 35,
+    "type": "TOPIC_MISMATCH",
+    "question": "A patient with opioid use disorder presents in moderate withdrawal with COWS score of 16. Which medi",
+    "questionTopics": [
+      "SSRI discontinuation"
+    ],
+    "rationaleTopics": [
+      "lithium"
+    ],
+    "rationale": "Buprenorphine or methadone treat opioid use disorder. Buprenorphine can be prescribed in office; met"
+  },
+  {
+    "id": 36,
+    "type": "RATIONALE_ANSWER_MISMATCH",
+    "correctOption": "Malignant hyperthermia",
+    "rationale": "NMS tetrad: lead pipe rigidity, high fever (>104°F), altered mental status, autonomic instability. F"
+  },
+  {
+    "id": 37,
+    "type": "RATIONALE_ANSWER_MISMATCH",
+    "correctOption": "Bradyreflexia",
+    "rationale": "Key difference: NMS has lead pipe rigidity; serotonin syndrome has hyperreflexia and clonus. NMS fro"
+  },
+  {
+    "id": 38,
+    "type": "TOPIC_MISMATCH",
+    "question": "A PMHNP is comparing first-generation antipsychotics. Which typical antipsychotic has the HIGHEST ri",
+    "questionTopics": [
+      "EPS",
+      "antipsychotic"
+    ],
+    "rationaleTopics": [
+      "lithium",
+      "NMS",
+      "EPS",
+      "antipsychotic"
+    ],
+    "rationale": "Haldol has highest EPS risk due to strong D2 blockade. Teach patient: Report muscle stiffness, tremo"
+  },
+  {
+    "id": 38,
+    "type": "RATIONALE_ANSWER_MISMATCH",
+    "correctOption": "Thioridazine (Mellaril)",
+    "rationale": "Haldol has highest EPS risk due to strong D2 blockade. Teach patient: Report muscle stiffness, tremo"
+  },
+  {
+    "id": 39,
+    "type": "TOPIC_MISMATCH",
+    "question": "A patient with schizophrenia has significant weight gain and metabolic concerns. The PMHNP wants to ",
+    "questionTopics": [
+      "lithium",
+      "antipsychotic"
+    ],
+    "rationaleTopics": [
+      "QTc",
+      "lithium"
+    ],
+    "rationale": "Ziprasidone and lurasidone have lowest metabolic risk—minimal weight gain. Lurasidone must be taken "
+  },
+  {
+    "id": 40,
+    "type": "RATIONALE_ANSWER_MISMATCH",
+    "correctOption": "Tardive dyskinesia",
+    "rationale": "Rhabdomyolysis: muscle breakdown releases myoglobin, which damages kidneys. Occurs in NMS. Labs: ele"
+  },
+  {
+    "id": 41,
+    "type": "TOPIC_MISMATCH",
+    "question": "A PMHNP administers the PHQ-9 to a patient presenting with depressed mood. The patient scores 12. Ba",
+    "questionTopics": [
+      "depression"
+    ],
+    "rationaleTopics": [
+      "clozapine",
+      "depression"
+    ],
+    "rationale": "PHQ-9 (0-27): Depression screening. 0-4=minimal, 5-9=mild, 10-14=moderate, 15-19=mod-severe, 20-27=s"
+  },
+  {
+    "id": 42,
+    "type": "RATIONALE_ANSWER_MISMATCH",
+    "correctOption": "≥10",
+    "rationale": "PHQ-9 ≥10: 88% sensitivity/specificity for major depression. CRITICAL: SUD can inflate depression sc"
+  },
+  {
+    "id": 43,
+    "type": "RATIONALE_ANSWER_MISMATCH",
+    "correctOption": "<24",
+    "rationale": "MMSE (0-30): 24-30=normal, 18-23=mild, 10-17=moderate, <10=severe. LIMITATION: ceiling effect misses"
+  },
+  {
+    "id": 45,
+    "type": "TOPIC_MISMATCH",
+    "question": "A patient with alcohol use disorder presents 18 hours after his last drink with tremors and anxiety.",
+    "questionTopics": [
+      "lithium",
+      "anxiety"
+    ],
+    "rationaleTopics": [
+      "SSRI discontinuation",
+      "lithium",
+      "valproate",
+      "NMS"
+    ],
+    "rationale": "CIWA-Ar (0-67) for alcohol WITHDRAWAL severity. ALWAYS give THIAMINE (100mg IV/IM) to prevent WERNIC"
+  },
+  {
+    "id": 45,
+    "type": "RATIONALE_ANSWER_MISMATCH",
+    "correctOption": ">8",
+    "rationale": "CIWA-Ar (0-67) for alcohol WITHDRAWAL severity. ALWAYS give THIAMINE (100mg IV/IM) to prevent WERNIC"
+  },
+  {
+    "id": 46,
+    "type": "RATIONALE_ANSWER_MISMATCH",
+    "correctOption": ">8",
+    "rationale": "COWS for OPIOID WITHDRAWAL. INTOX vs WITHDRAWAL COMPARISON: OPIOID INTOXICATION: pinpoint pupils (MI"
+  },
+  {
+    "id": 47,
+    "type": "TOPIC_MISMATCH",
+    "question": "A PMHNP is screening a patient for anxiety using the GAD-7. The patient scores 11. What does this sc",
+    "questionTopics": [
+      "anxiety"
+    ],
+    "rationaleTopics": [
+      "clozapine",
+      "depression",
+      "anxiety"
+    ],
+    "rationale": "GAD-7 (0-21): Anxiety screening. 0-4=minimal, 5-9=mild, 10-14=moderate, 15-21=severe. Treat ≥10. REM"
+  },
+  {
+    "id": 48,
+    "type": "TOPIC_MISMATCH",
+    "question": "A patient completes the Beck Depression Inventory-II (BDI-II) and scores 24. How should the PMHNP cl",
+    "questionTopics": [
+      "NMS",
+      "depression"
+    ],
+    "rationaleTopics": [
+      "depression",
+      "anxiety"
+    ],
+    "rationale": "BDI-II (0-63): Self-report depression scale. 0-13=minimal, 14-19=mild, 20-28=moderate, 29-63=severe."
+  },
+  {
+    "id": 52,
+    "type": "TOPIC_MISMATCH",
+    "question": "A patient in alcohol withdrawal scores 18 on the CIWA-Ar. The PMHNP should order which treatment reg",
+    "questionTopics": [
+      "SSRI discontinuation"
+    ],
+    "rationaleTopics": [
+      "SSRI discontinuation",
+      "clozapine",
+      "benzodiazepine"
+    ],
+    "rationale": "CIWA ≥16: moderate-severe withdrawal with seizure risk. Give scheduled benzodiazepines (not just PRN"
+  },
+  {
+    "id": 53,
+    "type": "TOPIC_MISMATCH",
+    "question": "A patient in opioid withdrawal has a COWS score of 15. What treatment is indicated?",
+    "questionTopics": [
+      "SSRI discontinuation"
+    ],
+    "rationaleTopics": [
+      "SSRI discontinuation",
+      "lithium"
+    ],
+    "rationale": "COWS 13-24: moderate opioid withdrawal. Safe to start buprenorphine. Higher scores may need higher i"
+  },
+  {
+    "id": 55,
+    "type": "TOPIC_MISMATCH",
+    "question": "A PMHNP is using the clinician-administered Hamilton Anxiety Rating Scale (HAM-A) to monitor treatme",
+    "questionTopics": [
+      "lithium",
+      "anxiety"
+    ],
+    "rationaleTopics": [
+      "lithium",
+      "clozapine",
+      "anxiety"
+    ],
+    "rationale": "HAM-A (0-56): Clinician-rated anxiety. <17=mild, 18-24=moderate, ≥25=severe. SCALE SELECTION: GAD-7="
+  },
+  {
+    "id": 68,
+    "type": "RATIONALE_ANSWER_MISMATCH",
+    "correctOption": "Integrity vs. Despair",
+    "rationale": "Hop on one foot by 4 years—gross motor milestone requiring balance and coordination. Teach parents: "
+  },
+  {
+    "id": 69,
+    "type": "RATIONALE_ANSWER_MISMATCH",
+    "correctOption": "Sitting without support",
+    "rationale": "Ride tricycle by 3 years—gross motor milestone requiring pedaling coordination. Board tip: Remember "
+  },
+  {
+    "id": 70,
+    "type": "RATIONALE_ANSWER_MISMATCH",
+    "correctOption": "Babbling with no meaning",
+    "rationale": "Copy circle by 3 years—fine motor milestone showing visual-motor integration. Progression: circle (3"
+  },
+  {
+    "id": 71,
+    "type": "TOPIC_MISMATCH",
+    "question": "A patient with borderline personality disorder reports chronic feelings of emptiness, unstable relat",
+    "questionTopics": [
+      "lithium",
+      "psychotherapy"
+    ],
+    "rationaleTopics": [
+      "lithium",
+      "clozapine",
+      "psychotherapy"
+    ],
+    "rationale": "DBT is gold standard for BPD—reduces self-harm and suicidality. Four modules: mindfulness, distress "
+  },
+  {
+    "id": 71,
+    "type": "RATIONALE_ANSWER_MISMATCH",
+    "correctOption": "Dialectical Behavior Therapy (DBT)",
+    "rationale": "DBT is gold standard for BPD—reduces self-harm and suicidality. Four modules: mindfulness, distress "
+  },
+  {
+    "id": 72,
+    "type": "TOPIC_MISMATCH",
+    "question": "A veteran presents with nightmares, hypervigilance, and avoidance behaviors following combat deploym",
+    "questionTopics": [
+      "lithium",
+      "clozapine",
+      "psychotherapy"
+    ],
+    "rationaleTopics": [
+      "lithium",
+      "benzodiazepine",
+      "antipsychotic",
+      "depression",
+      "bipolar",
+      "psychotherapy"
+    ],
+    "rationale": "BORDERLINE PD: Unstable relationships, self-image, affect. Fear of abandonment, impulsivity, self-ha"
+  },
+  {
+    "id": 74,
+    "type": "TOPIC_MISMATCH",
+    "question": "A PMHNP is using CBT with a depressed patient who states, 'If I fail this test, my life is ruined.' ",
+    "questionTopics": [
+      "lithium",
+      "psychotherapy"
+    ],
+    "rationaleTopics": [
+      "lithium",
+      "NMS",
+      "depression",
+      "anxiety"
+    ],
+    "rationale": "Cognitive distortions are thinking errors that maintain depression/anxiety: catastrophizing, all-or-"
+  },
+  {
+    "id": 75,
+    "type": "TOPIC_MISMATCH",
+    "question": "A PMHNP is explaining DBT components to a patient newly diagnosed with borderline personality disord",
+    "questionTopics": [
+      "lithium",
+      "psychotherapy"
+    ],
+    "rationaleTopics": [
+      "lithium",
+      "clozapine",
+      "psychotherapy"
+    ],
+    "rationale": "DBT four modules: Mindfulness (present moment), Distress Tolerance (crisis survival), Emotion Regula"
+  },
+  {
+    "id": 76,
+    "type": "TOPIC_MISMATCH",
+    "question": "During supervision, a PMHNP notices she feels irritated by a patient who reminds her of her critical",
+    "questionTopics": [
+      "psychotherapy"
+    ],
+    "rationaleTopics": [
+      "lithium",
+      "psychotherapy"
+    ],
+    "rationale": "Transference: patient projects feelings (often from past relationships) onto therapist. Countertrans"
+  },
+  {
+    "id": 79,
+    "type": "TOPIC_MISMATCH",
+    "question": "A patient with agoraphobia has been avoiding leaving home. The PMHNP recommends gradually accompanyi",
+    "questionTopics": [
+      "anxiety",
+      "psychotherapy"
+    ],
+    "rationaleTopics": [
+      "lithium",
+      "anxiety",
+      "psychotherapy"
+    ],
+    "rationale": "Exposure therapy gradually exposes patients to feared stimuli until anxiety decreases (habituation)."
+  },
+  {
+    "id": 81,
+    "type": "TOPIC_MISMATCH",
+    "question": "A PMHNP is implementing a recovery-oriented approach with a patient with schizophrenia. Which princi",
+    "questionTopics": [
+      "antipsychotic"
+    ],
+    "rationaleTopics": [
+      "lithium"
+    ],
+    "rationale": "Recovery model: patient empowerment, hope, person-centered care. Focus on meaningful life, not just "
+  },
+  {
+    "id": 85,
+    "type": "TOPIC_MISMATCH",
+    "question": "A 10-year-old child is diagnosed with moderate OCD causing significant impairment. What is the first",
+    "questionTopics": [
+      "lithium"
+    ],
+    "rationaleTopics": [
+      "lithium",
+      "psychotherapy"
+    ],
+    "rationale": "Pediatric OCD: CBT with ERP is first-line. Add SSRI for moderate-severe cases. Teach parents: Help c"
+  },
+  {
+    "id": 87,
+    "type": "TOPIC_MISMATCH",
+    "question": "A patient with PTSD has exaggerated startle response and hypervigilance. Which brain structure is hy",
+    "questionTopics": [
+      "clozapine",
+      "anxiety"
+    ],
+    "rationaleTopics": [
+      "lithium",
+      "anxiety",
+      "psychotherapy"
+    ],
+    "rationale": "AMYGDALA: Emotional center in LIMBIC SYSTEM (primitive brain). Fear/threat detection, fight-or-fligh"
+  },
+  {
+    "id": 91,
+    "type": "TOPIC_MISMATCH",
+    "question": "A patient with right parietal lobe damage ignores objects and people on his left side and cannot fin",
+    "questionTopics": [
+      "lithium"
+    ],
+    "rationaleTopics": [
+      "lithium",
+      "NMS"
+    ],
+    "rationale": "PARIETAL LOBE: Sensory processing, spatial awareness, proprioception. RIGHT PARIETAL damage=HEMISPAT"
+  },
+  {
+    "id": 92,
+    "type": "TOPIC_MISMATCH",
+    "question": "A patient with occipital lobe damage reports being unable to see despite intact eye function. Which ",
+    "questionTopics": [
+      "lithium"
+    ],
+    "rationaleTopics": [
+      "lithium",
+      "clozapine"
+    ],
+    "rationale": "OCCIPITAL LOBE: Visual processing (primary visual cortex). Damage=CORTICAL BLINDNESS (eyes work but "
+  },
+  {
+    "id": 105,
+    "type": "TOPIC_MISMATCH",
+    "question": "A patient presents with pervasive distrust of others, interpreting benign remarks as threatening. Sh",
+    "questionTopics": [
+      "lithium"
+    ],
+    "rationaleTopics": [
+      "lithium",
+      "clozapine",
+      "antipsychotic"
+    ],
+    "rationale": "CLUSTER A (Odd/Eccentric): Paranoid, Schizoid, Schizotypal. Mnemonic: 'MAD'—Mistrustful (Paranoid), "
+  },
+  {
+    "id": 106,
+    "type": "TOPIC_MISMATCH",
+    "question": "A patient presents with impulsive self-harm behaviors, chronic emptiness, and tumultuous relationshi",
+    "questionTopics": [
+      "lithium"
+    ],
+    "rationaleTopics": [
+      "lithium",
+      "psychotherapy"
+    ],
+    "rationale": "CLUSTER B (Dramatic/Emotional): Antisocial, Borderline, Histrionic, Narcissistic. Mnemonic: 'BAD'—Be"
+  },
+  {
+    "id": 107,
+    "type": "TOPIC_MISMATCH",
+    "question": "A patient is extremely anxious about social situations, fears rejection, but desperately wants relat",
+    "questionTopics": [
+      "anxiety"
+    ],
+    "rationaleTopics": [
+      "lithium",
+      "anxiety",
+      "psychotherapy"
+    ],
+    "rationale": "CLUSTER C (Anxious/Fearful): Avoidant, Dependent, OCPD. Mnemonic: 'SAD'—Scared (Avoidant), Attached "
+  },
+  {
+    "id": 108,
+    "type": "TOPIC_MISMATCH",
+    "question": "When evaluating a patient with borderline personality disorder who reports chaotic relationships and",
+    "questionTopics": [
+      "lithium"
+    ],
+    "rationaleTopics": [
+      "lithium",
+      "depression"
+    ],
+    "rationale": "CLUSTER B includes HISTRIONIC PD: Excessive emotionality, attention-seeking, seductive behavior. 'Dr"
+  },
+  {
+    "id": 108,
+    "type": "RATIONALE_ANSWER_MISMATCH",
+    "correctOption": "History of childhood trauma or sexual abuse",
+    "rationale": "CLUSTER B includes HISTRIONIC PD: Excessive emotionality, attention-seeking, seductive behavior. 'Dr"
+  },
+  {
+    "id": 109,
+    "type": "TOPIC_MISMATCH",
+    "question": "A 30-year-old male with antisocial personality disorder reports heavy alcohol use. Research indicate",
+    "questionTopics": [
+      "lithium",
+      "clozapine"
+    ],
+    "rationaleTopics": [
+      "lithium",
+      "depression",
+      "anxiety",
+      "psychotherapy"
+    ],
+    "rationale": "CLUSTER C includes DEPENDENT PD: Excessive need to be cared for, submissive, clinging, fear of separ"
+  },
+  {
+    "id": 109,
+    "type": "RATIONALE_ANSWER_MISMATCH",
+    "correctOption": "Alcohol use disorder",
+    "rationale": "CLUSTER C includes DEPENDENT PD: Excessive need to be cared for, submissive, clinging, fear of separ"
+  },
+  {
+    "id": 110,
+    "type": "TOPIC_MISMATCH",
+    "question": "A patient presents to the ED with sudden onset chest tightness, palpitations, diaphoresis, and fear ",
+    "questionTopics": [
+      "lithium"
+    ],
+    "rationaleTopics": [
+      "lithium",
+      "clozapine"
+    ],
+    "rationale": "ANTISOCIAL PD: Requires ≥18 years + history of CONDUCT DISORDER before age 15. TRAJECTORY: ODD(child"
+  },
+  {
+    "id": 110,
+    "type": "RATIONALE_ANSWER_MISMATCH",
+    "correctOption": "Panic attack",
+    "rationale": "ANTISOCIAL PD: Requires ≥18 years + history of CONDUCT DISORDER before age 15. TRAJECTORY: ODD(child"
+  },
+  {
+    "id": 111,
+    "type": "TOPIC_MISMATCH",
+    "question": "A patient avoids shopping malls, public transportation, and being in crowds because she fears being ",
+    "questionTopics": [
+      "lithium",
+      "NMS",
+      "anxiety"
+    ],
+    "rationaleTopics": [
+      "lithium",
+      "clozapine",
+      "NMS",
+      "anxiety",
+      "psychotherapy"
+    ],
+    "rationale": "Agoraphobia: fear/avoidance of situations where escape is difficult—crowds, public transport, open s"
+  },
+  {
+    "id": 112,
+    "type": "TOPIC_MISMATCH",
+    "question": "A patient avoids public speaking, eating in front of others, and meeting new people due to fear of e",
+    "questionTopics": [
+      "lithium"
+    ],
+    "rationaleTopics": [
+      "clozapine",
+      "anxiety",
+      "psychotherapy"
+    ],
+    "rationale": "Social anxiety disorder: fear of being judged/scrutinized in social situations leading to avoidance."
+  },
+  {
+    "id": 114,
+    "type": "TOPIC_MISMATCH",
+    "question": "A patient with schizophrenia has flat affect, rarely speaks, has no motivation, and no longer enjoys",
+    "questionTopics": [
+      "antipsychotic"
+    ],
+    "rationaleTopics": [
+      "lithium"
+    ],
+    "rationale": "Negative symptoms (the 5 A's): Affect flat, Avolition (no motivation), Alogia (poverty of speech), A"
+  },
+  {
+    "id": 115,
+    "type": "RATIONALE_ANSWER_MISMATCH",
+    "correctOption": "Positive symptoms (additions to normal functioning)",
+    "rationale": "OCD vs OCPD: OCD = intrusive thoughts + compulsions, EGO-DYSTONIC (patient knows it's irrational, wa"
+  },
+  {
+    "id": 124,
+    "type": "TOPIC_MISMATCH",
+    "question": "A 14-year-old presents alone requesting treatment for anxiety. The PMHNP reviews state law regarding",
+    "questionTopics": [
+      "anxiety"
+    ],
+    "rationaleTopics": [
+      "clozapine"
+    ],
+    "rationale": "Minor consent for mental health typically ages 12-14 depending on state. Know YOUR state's laws. Man"
+  },
+  {
+    "id": 125,
+    "type": "TOPIC_MISMATCH",
+    "question": "A family asks the PMHNP to determine if their elderly mother is 'competent' to manage her finances. ",
+    "questionTopics": [
+      "clozapine"
+    ],
+    "rationaleTopics": [
+      "lithium"
+    ],
+    "rationale": "COMPETENCE: legal determination made by a JUDGE. CAPACITY: clinical assessment made by CLINICIAN. Yo"
+  },
+  {
+    "id": 129,
+    "type": "RATIONALE_ANSWER_MISMATCH",
+    "correctOption": "Ethical framework guiding nursing practice (beneficence, autonomy, justice)",
+    "rationale": "Yes—involuntary commitment ≠ forced medication. Patients retain right to refuse medication UNLESS: c"
+  },
+  {
+    "id": 132,
+    "type": "TOPIC_MISMATCH",
+    "question": "A PMHNP is establishing a new practice and needs to prescribe controlled substances for patients wit",
+    "questionTopics": [
+      "lithium",
+      "clozapine",
+      "stimulant",
+      "anxiety"
+    ],
+    "rationaleTopics": [
+      "clozapine",
+      "NMS"
+    ],
+    "rationale": "Yes—NPs can prescribe controlled substances with DEA registration. Schedules allowed vary by state ("
+  },
+  {
+    "id": 133,
+    "type": "TOPIC_MISMATCH",
+    "question": "A PMHNP wants to provide telepsychiatry services to patients in rural areas of a neighboring state. ",
+    "questionTopics": [
+      "EPS"
+    ],
+    "rationaleTopics": [
+      "lithium",
+      "EPS"
+    ],
+    "rationale": "Telepsychiatry requires: license in PATIENT'S state (not just yours), HIPAA-compliant video platform"
+  },
+  {
+    "id": 138,
+    "type": "TOPIC_MISMATCH",
+    "question": "A PMHNP receives feedback from a peer review committee regarding her documentation practices. She is",
+    "questionTopics": [
+      "NMS"
+    ],
+    "rationaleTopics": [
+      "lithium",
+      "NMS"
+    ],
+    "rationale": "Peer review: quality improvement and professional development—NOT punishment. Protected process for "
+  },
+  {
+    "id": 142,
+    "type": "TOPIC_MISMATCH",
+    "question": "A Native American patient wants to use traditional healing. What should you do?",
+    "questionTopics": [
+      "lithium"
+    ],
+    "rationaleTopics": [
+      "lithium",
+      "NMS"
+    ],
+    "rationale": "Integrate traditional healing with Western medicine if safe. Ask about herbs (check interactions), c"
+  },
+  {
+    "id": 144,
+    "type": "TOPIC_MISMATCH",
+    "question": "A 16-year-old patient who identifies as transgender presents with depression and social withdrawal. ",
+    "questionTopics": [
+      "SSRI discontinuation",
+      "depression"
+    ],
+    "rationaleTopics": [
+      "clozapine"
+    ],
+    "rationale": "LGBTQ+ youth: 4x higher suicide attempt rate. Family rejection = biggest risk factor; family accepta"
+  },
+  {
+    "id": 147,
+    "type": "TOPIC_MISMATCH",
+    "question": "A PMHNP is prescribing sertraline 25mg for an 82-year-old patient with depression. The patient's dau",
+    "questionTopics": [
+      "lithium",
+      "depression"
+    ],
+    "rationaleTopics": [
+      "lithium",
+      "valproate",
+      "NMS"
+    ],
+    "rationale": "'Start low, go slow' in elderly: decreased hepatic/renal function, increased fat stores, more drug i"
+  },
+  {
+    "id": 148,
+    "type": "TOPIC_MISMATCH",
+    "question": "A 28-year-old woman with bipolar II disorder discovers she is pregnant at 8 weeks gestation. She is ",
+    "questionTopics": [
+      "valproate",
+      "bipolar"
+    ],
+    "rationaleTopics": [
+      "clozapine",
+      "antipsychotic",
+      "depression"
+    ],
+    "rationale": "Pregnancy: weigh untreated illness vs. medication risks. Untreated depression/psychosis also harms f"
+  },
+  {
+    "id": 151,
+    "type": "TOPIC_MISMATCH",
+    "question": "An 8-year-old is diagnosed with ADHD and the PMHNP plans to start methylphenidate. Before initiating",
+    "questionTopics": [
+      "stimulant",
+      "psychotherapy"
+    ],
+    "rationaleTopics": [
+      "lithium",
+      "stimulant"
+    ],
+    "rationale": "Before stimulants: cardiac history, family history of sudden death, baseline BP/HR. Stimulants can r"
+  },
+  {
+    "id": 154,
+    "type": "TOPIC_MISMATCH",
+    "question": "A 14-year-old presents with depressed mood, anhedonia, sleep disturbance, and declining grades for 3",
+    "questionTopics": [
+      "lithium",
+      "clozapine",
+      "depression"
+    ],
+    "rationaleTopics": [
+      "lithium",
+      "NMS",
+      "depression"
+    ],
+    "rationale": "SSRIs first-line for pediatric depression (fluoxetine, escitalopram FDA-approved). BLACK BOX WARNING"
+  },
+  {
+    "id": 155,
+    "type": "TOPIC_MISMATCH",
+    "question": "A patient is brought to the emergency department by police after being found wandering in traffic an",
+    "questionTopics": [
+      "lithium"
+    ],
+    "rationaleTopics": [
+      "lithium",
+      "psychotherapy"
+    ],
+    "rationale": "SAFETY FIRST in crisis—always assess suicide/homicide risk before anything else. Use Columbia Protoc"
+  },
+  {
+    "id": 166,
+    "type": "TOPIC_MISMATCH",
+    "question": "A 55-year-old woman presents with fatigue, weight gain, depressed mood, and difficulty concentrating",
+    "questionTopics": [
+      "depression"
+    ],
+    "rationaleTopics": [
+      "lithium",
+      "clozapine",
+      "depression"
+    ],
+    "rationale": "Medical depression mimics: hypothyroidism (fatigue, weight gain), anemia (fatigue), B12/folate defic"
+  },
+  {
+    "id": 167,
+    "type": "TOPIC_MISMATCH",
+    "question": "A 45-year-old patient presents with palpitations, trembling, and feeling of impending doom. Physical",
+    "questionTopics": [
+      "lithium",
+      "anxiety"
+    ],
+    "rationaleTopics": [
+      "QTc",
+      "lithium",
+      "NMS",
+      "stimulant",
+      "anxiety"
+    ],
+    "rationale": "Medical anxiety mimics: hyperthyroidism (racing heart, tremor), arrhythmias (palpitations), hypoglyc"
+  },
+  {
+    "id": 168,
+    "type": "TOPIC_MISMATCH",
+    "question": "A 42-year-old patient presents with depressed mood, anhedonia, and fatigue for 4 weeks. Before initi",
+    "questionTopics": [
+      "depression",
+      "psychotherapy"
+    ],
+    "rationaleTopics": [
+      "lithium",
+      "depression"
+    ],
+    "rationale": "Depression workup labs: TSH (thyroid), CBC (anemia), CMP (electrolytes, glucose, kidney/liver), Vita"
+  },
+  {
+    "id": 175,
+    "type": "TOPIC_MISMATCH",
+    "question": "A nursing student asks the PMHNP to explain how SSRIs work differently from older antidepressants. W",
+    "questionTopics": [
+      "depression"
+    ],
+    "rationaleTopics": [
+      "lithium",
+      "depression",
+      "anxiety"
+    ],
+    "rationale": "SSRIs: SELECTIVELY inhibit serotonin reuptake → more serotonin in synapse. Examples: fluoxetine, ser"
+  },
+  {
+    "id": 176,
+    "type": "TOPIC_MISMATCH",
+    "question": "A PMHNP is explaining to a patient why amitriptyline causes more side effects than sertraline. What ",
+    "questionTopics": [
+      "lithium",
+      "depression"
+    ],
+    "rationaleTopics": [
+      "lithium",
+      "NMS"
+    ],
+    "rationale": "TCAs block presynaptic reuptake of BOTH serotonin AND norepinephrine. Also block histamine, alpha-1,"
+  },
+  {
+    "id": 177,
+    "type": "TOPIC_MISMATCH",
+    "question": "A patient taking phenelzine is admitted after eating aged cheese at a party. He presents with severe",
+    "questionTopics": [
+      "MAOIs"
+    ],
+    "rationaleTopics": [
+      "MAOIs",
+      "antipsychotic"
+    ],
+    "rationale": "MAOIs inhibit MAO enzyme (which breaks down serotonin, norepinephrine, dopamine) → more neurotransmi"
+  },
+  {
+    "id": 179,
+    "type": "TOPIC_MISMATCH",
+    "question": "A patient reports that bupropion has not caused the sexual side effects she experienced with sertral",
+    "questionTopics": [
+      "lithium"
+    ],
+    "rationaleTopics": [
+      "clozapine",
+      "NMS",
+      "antipsychotic"
+    ],
+    "rationale": "NDRIs (bupropion/Wellbutrin) block norepinephrine and dopamine reuptake. NO serotonin effect → no se"
+  },
+  {
+    "id": 180,
+    "type": "TOPIC_MISMATCH",
+    "question": "A patient is taking trazodone 50mg at bedtime for insomnia but is not experiencing antidepressant ef",
+    "questionTopics": [
+      "depression"
+    ],
+    "rationaleTopics": [
+      "NMS"
+    ],
+    "rationale": "SARIs (trazodone): block 5HT-2 receptors AND inhibit serotonin reuptake. Very sedating (often used a"
+  },
+  {
+    "id": 182,
+    "type": "TOPIC_MISMATCH",
+    "question": "A patient who was non-compliant with sertraline presents with nausea, dizziness, and brain zaps. She",
+    "questionTopics": [
+      "SSRI discontinuation",
+      "lithium"
+    ],
+    "rationaleTopics": [
+      "SSRI discontinuation",
+      "lithium",
+      "clozapine"
+    ],
+    "rationale": "SSRI discontinuation symptoms (FINISH): Flu-like, Insomnia, Nausea, Imbalance, Sensory disturbances "
+  },
+  {
+    "id": 183,
+    "type": "TOPIC_MISMATCH",
+    "question": "A patient on SSRIs presents with myalgia, nausea/vomiting, impaired memory, paresthesias, shock-like",
+    "questionTopics": [
+      "lithium",
+      "NMS",
+      "anxiety"
+    ],
+    "rationaleTopics": [
+      "SSRI discontinuation",
+      "lithium",
+      "serotonin syndrome",
+      "NMS"
+    ],
+    "rationale": "These are classic discontinuation symptoms: 'brain zaps' (shock-like sensations), emotional lability"
+  },
+  {
+    "id": 184,
+    "type": "TOPIC_MISMATCH",
+    "question": "A PMHNP is educating a patient about the importance of tapering SSRIs rather than stopping abruptly.",
+    "questionTopics": [
+      "SSRI discontinuation",
+      "clozapine"
+    ],
+    "rationaleTopics": [
+      "SSRI discontinuation",
+      "lithium"
+    ],
+    "rationale": "High-risk factors: SHORT half-life (paroxetine worst, fluoxetine safest), abrupt stop, high dose, lo"
+  },
+  {
+    "id": 185,
+    "type": "TOPIC_MISMATCH",
+    "question": "A patient on antidepressants presents with confusion, delirium, agitation, irritability, ataxia, and",
+    "questionTopics": [
+      "lithium",
+      "depression"
+    ],
+    "rationaleTopics": [
+      "lithium",
+      "serotonin syndrome",
+      "NMS"
+    ],
+    "rationale": "Serotonin Syndrome key features: agitation, confusion, hyperreflexia, tremor, hyperthermia, diaphore"
+  },
+  {
+    "id": 186,
+    "type": "TOPIC_MISMATCH",
+    "question": "A patient on fluoxetine and tramadol presents with fever of 104°F, muscle rigidity, autonomic instab",
+    "questionTopics": [
+      "lithium",
+      "serotonin syndrome",
+      "NMS"
+    ],
+    "rationaleTopics": [
+      "clozapine",
+      "serotonin syndrome",
+      "depression"
+    ],
+    "rationale": "Severe serotonin syndrome: high fever (>104°F), seizures, respiratory depression, coma. Can be fatal"
+  },
+  {
+    "id": 188,
+    "type": "TOPIC_MISMATCH",
+    "question": "A patient with depression asks about taking L-tryptophan supplements to boost her mood. She is curre",
+    "questionTopics": [
+      "lithium",
+      "depression"
+    ],
+    "rationaleTopics": [
+      "lithium",
+      "serotonin syndrome",
+      "MAOIs"
+    ],
+    "rationale": "L-tryptophan is a serotonin precursor—high risk for serotonin syndrome when combined with SSRIs/MAOI"
+  },
+  {
+    "id": 192,
+    "type": "TOPIC_MISMATCH",
+    "question": "A patient on lithium for 6 months reports a fine hand tremor that is interfering with her work as a ",
+    "questionTopics": [
+      "lithium"
+    ],
+    "rationaleTopics": [
+      "lithium",
+      "NMS"
+    ],
+    "rationale": "Lithium CNS effects: fine hand tremor (most common—may improve with beta-blocker), cognitive dulling"
+  },
+  {
+    "id": 194,
+    "type": "TOPIC_MISMATCH",
+    "question": "A patient recently started on lithium reports persistent nausea and diarrhea. Her lithium level is 0",
+    "questionTopics": [
+      "lithium"
+    ],
+    "rationaleTopics": [
+      "lithium",
+      "NMS"
+    ],
+    "rationale": "Lithium GI effects: nausea, diarrhea, stomach cramps, vomiting—especially early in treatment. Taking"
+  },
+  {
+    "id": 197,
+    "type": "TOPIC_MISMATCH",
+    "question": "A patient on lithium has routine labs showing WBC of 12,000/μL. She is afebrile with no signs of inf",
+    "questionTopics": [
+      "lithium"
+    ],
+    "rationaleTopics": [
+      "lithium",
+      "clozapine",
+      "psychotherapy"
+    ],
+    "rationale": "Lithium causes LEUKOCYTOSIS (elevated WBC)—benign increase in neutrophils. NOT a sign of infection. "
+  },
+  {
+    "id": 198,
+    "type": "TOPIC_MISMATCH",
+    "question": "A patient presents with depression that began 2 weeks after starting propranolol for hypertension. T",
+    "questionTopics": [
+      "depression"
+    ],
+    "rationaleTopics": [
+      "NMS",
+      "benzodiazepine",
+      "depression"
+    ],
+    "rationale": "Medications causing depression (BABI RAPS): Beta-blockers, Accutane (isotretinoin), Benzodiazepines,"
+  },
+  {
+    "id": 201,
+    "type": "TOPIC_MISMATCH",
+    "question": "A patient with bipolar disorder presents to the ED in a manic episode. She was started on prednisone",
+    "questionTopics": [
+      "bipolar"
+    ],
+    "rationaleTopics": [
+      "lithium",
+      "depression",
+      "bipolar"
+    ],
+    "rationale": "SAID causes mania: Steroids, Antidepressants, INH (isoniazid), Disulfiram, and certain antibiotics. "
+  },
+  {
+    "id": 203,
+    "type": "TOPIC_MISMATCH",
+    "question": "A patient on lithium for bipolar I disorder has blood drawn for routine monitoring. Which serum conc",
+    "questionTopics": [
+      "lithium",
+      "bipolar",
+      "psychotherapy"
+    ],
+    "rationaleTopics": [
+      "lithium",
+      "clozapine",
+      "NMS",
+      "bipolar",
+      "psychotherapy"
+    ],
+    "rationale": "Lithium therapeutic level: 0.6-1.2 mEq/L. Check levels 5 days after dose change (steady state). Draw"
+  },
+  {
+    "id": 204,
+    "type": "TOPIC_MISMATCH",
+    "question": "A patient starting lithium asks about common side effects to expect. Which side effects should the P",
+    "questionTopics": [
+      "lithium"
+    ],
+    "rationaleTopics": [
+      "lithium",
+      "NMS"
+    ],
+    "rationale": "Lithium common side effects: nausea, fine hand tremor, polyuria (increased urination), polydipsia (i"
+  },
+  {
+    "id": 205,
+    "type": "TOPIC_MISMATCH",
+    "question": "A patient on lithium presents with slurred speech, confusion, vomiting, and ataxia. Her lithium leve",
+    "questionTopics": [
+      "lithium",
+      "psychotherapy"
+    ],
+    "rationaleTopics": [
+      "QTc",
+      "lithium",
+      "clozapine"
+    ],
+    "rationale": "Lithium TOXICITY (>1.5 mEq/L): slurred speech, confusion, ataxia, coarse tremor, severe GI symptoms,"
+  },
+  {
+    "id": 206,
+    "type": "TOPIC_MISMATCH",
+    "question": "A woman with bipolar disorder on lithium discovers she is 6 weeks pregnant. She asks if she can cont",
+    "questionTopics": [
+      "lithium",
+      "bipolar"
+    ],
+    "rationaleTopics": [
+      "lithium",
+      "clozapine"
+    ],
+    "rationale": "Lithium pregnancy warning: Category D, causes Ebstein's anomaly (cardiac defect) especially in first"
+  },
+  {
+    "id": 207,
+    "type": "TOPIC_MISMATCH",
+    "question": "A patient on lithium reports that her primary care provider started lisinopril for hypertension and ",
+    "questionTopics": [
+      "lithium"
+    ],
+    "rationaleTopics": [
+      "lithium",
+      "NMS",
+      "antipsychotic",
+      "depression"
+    ],
+    "rationale": "Wellbutrin (bupropion): CYP2D6 INHIBITOR—can raise levels of drugs metabolized by 2D6 (TCAs, antipsy"
+  },
+  {
+    "id": 208,
+    "type": "TOPIC_MISMATCH",
+    "question": "A patient on carbamazepine for bipolar disorder has a level drawn. Which serum concentration indicat",
+    "questionTopics": [
+      "carbamazepine",
+      "bipolar",
+      "psychotherapy"
+    ],
+    "rationaleTopics": [
+      "lithium",
+      "carbamazepine",
+      "clozapine",
+      "NMS",
+      "psychotherapy"
+    ],
+    "rationale": "Carbamazepine (Tegretol) therapeutic level: 6-12 mcg/mL. Check levels 1-2 weeks after initiation. Al"
+  },
+  {
+    "id": 209,
+    "type": "RATIONALE_ANSWER_MISMATCH",
+    "correctOption": "Severe hypertension",
+    "rationale": "Carbamazepine side effects: sedation, dizziness, ataxia, diplopia, nausea, rash. Does NOT typically "
+  },
+  {
+    "id": 210,
+    "type": "TOPIC_MISMATCH",
+    "question": "A PMHNP is counseling a patient starting carbamazepine about SERIOUS adverse effects that require im",
+    "questionTopics": [
+      "lithium",
+      "carbamazepine"
+    ],
+    "rationaleTopics": [
+      "lithium",
+      "carbamazepine",
+      "clozapine"
+    ],
+    "rationale": "Carbamazepine SERIOUS effects: Agranulocytosis (low WBC), aplastic anemia, Stevens-Johnson syndrome "
+  },
+  {
+    "id": 211,
+    "type": "TOPIC_MISMATCH",
+    "question": "A woman on carbamazepine for bipolar disorder asks about pregnancy risks. She also takes oral contra",
+    "questionTopics": [
+      "carbamazepine",
+      "clozapine",
+      "bipolar"
+    ],
+    "rationaleTopics": [
+      "lithium",
+      "carbamazepine",
+      "clozapine",
+      "antipsychotic"
+    ],
+    "rationale": "Carbamazepine = potent CYP3A4 INDUCER. PHARMACOKINETICS: Inducers SPEED UP metabolism → LOWER drug l"
+  },
+  {
+    "id": 212,
+    "type": "TOPIC_MISMATCH",
+    "question": "A PMHNP is initiating carbamazepine in a patient of Korean descent. What screening is REQUIRED befor",
+    "questionTopics": [
+      "carbamazepine"
+    ],
+    "rationaleTopics": [
+      "carbamazepine",
+      "NMS"
+    ],
+    "rationale": "HLA-B*1502 screening REQUIRED before carbamazepine in Asian patients (FDA Black Box Warning). This a"
+  },
+  {
+    "id": 213,
+    "type": "TOPIC_MISMATCH",
+    "question": "A PMHNP is selecting a mood stabilizer for a patient with rapid cycling bipolar disorder. Which stat",
+    "questionTopics": [
+      "lithium",
+      "depression",
+      "bipolar"
+    ],
+    "rationaleTopics": [
+      "lithium",
+      "valproate",
+      "clozapine",
+      "antipsychotic",
+      "bipolar"
+    ],
+    "rationale": "Valproate NOT effective for schizophrenia (no FDA approval). Effective for: bipolar disorder (especi"
+  },
+  {
+    "id": 214,
+    "type": "TOPIC_MISMATCH",
+    "question": "A patient on valproic acid for bipolar disorder has a level drawn. Which serum concentration indicat",
+    "questionTopics": [
+      "bipolar",
+      "psychotherapy"
+    ],
+    "rationaleTopics": [
+      "lithium",
+      "NMS",
+      "bipolar",
+      "psychotherapy"
+    ],
+    "rationale": "Valproic acid therapeutic level: 50-125 mcg/mL. Check levels 1-2 weeks after dose changes. Also moni"
+  },
+  {
+    "id": 216,
+    "type": "TOPIC_MISMATCH",
+    "question": "A PMHNP is counseling a patient starting valproic acid about SERIOUS adverse effects requiring immed",
+    "questionTopics": [
+      "lithium"
+    ],
+    "rationaleTopics": [
+      "lithium",
+      "valproate",
+      "carbamazepine",
+      "clozapine"
+    ],
+    "rationale": "Valproate SERIOUS effects: hepatotoxicity (elevated LFTs), pancreatitis, Stevens-Johnson syndrome, t"
+  },
+  {
+    "id": 217,
+    "type": "TOPIC_MISMATCH",
+    "question": "A patient presents in acute mania and the PMHNP decides to use valproic acid with a loading dose for",
+    "questionTopics": [
+      "bipolar"
+    ],
+    "rationaleTopics": [
+      "lithium",
+      "clozapine",
+      "bipolar",
+      "psychotherapy"
+    ],
+    "rationale": "Valproic acid loading dose: 20 mg/kg. Used for rapid control of acute mania or seizures. Achieves th"
+  },
+  {
+    "id": 217,
+    "type": "RATIONALE_ANSWER_MISMATCH",
+    "correctOption": "20 mg/kg",
+    "rationale": "Valproic acid loading dose: 20 mg/kg. Used for rapid control of acute mania or seizures. Achieves th"
+  },
+  {
+    "id": 218,
+    "type": "RATIONALE_ANSWER_MISMATCH",
+    "correctOption": "21-26 (MCI)",
+    "rationale": "SLUMS (0-30) and MoCA (0-30): Both MORE SENSITIVE than MMSE for mild cognitive impairment. MoCA: ≥26"
+  },
+  {
+    "id": 219,
+    "type": "RATIONALE_ANSWER_MISMATCH",
+    "correctOption": "Mild cognitive impairment (18-23)",
+    "rationale": "MMSE (0-30): 24-30=normal, 18-23=mild, 10-17=moderate, <10=severe. WHY MoCA OVER MMSE: (1) MoCA dete"
+  },
+  {
+    "id": 222,
+    "type": "TOPIC_MISMATCH",
+    "question": "A PMHNP uses the Beck Depression Inventory-II (BDI-II) to assess a patient. The score is 24. What se",
+    "questionTopics": [
+      "NMS",
+      "depression"
+    ],
+    "rationaleTopics": [
+      "lithium"
+    ],
+    "rationale": "BDI-II (0-63): 0-13=minimal, 14-19=mild, 20-28=moderate, 29-63=severe. Self-report. Distinguish from"
+  },
+  {
+    "id": 223,
+    "type": "TOPIC_MISMATCH",
+    "question": "A PMHNP administers the HAM-A to monitor a patient's anxiety treatment response. The score is 20. Wh",
+    "questionTopics": [
+      "anxiety"
+    ],
+    "rationaleTopics": [
+      "lithium",
+      "anxiety"
+    ],
+    "rationale": "HAM-A (0-56): <17=mild, 18-24=moderate, ≥25=severe. Clinician-rated. 14 items (psychic + somatic). U"
+  },
+  {
+    "id": 225,
+    "type": "TOPIC_MISMATCH",
+    "question": "A patient with opioid use disorder presents to the ED requesting treatment. The COWS score is 15. Wh",
+    "questionTopics": [
+      "lithium"
+    ],
+    "rationaleTopics": [
+      "SSRI discontinuation",
+      "serotonin syndrome",
+      "NMS",
+      "stimulant",
+      "depression"
+    ],
+    "rationale": "COWS (0-48): INTOXICATION vs WITHDRAWAL SIGNS: OPIOIDS—Intox: MIOSIS (pinpoint pupils), bradycardia,"
+  },
+  {
+    "id": 228,
+    "type": "TOPIC_MISMATCH",
+    "question": "A patient with depression has failed to respond to three adequate trials of different SSRIs. The PMH",
+    "questionTopics": [
+      "depression"
+    ],
+    "rationaleTopics": [
+      "lithium",
+      "antipsychotic",
+      "depression"
+    ],
+    "rationale": "Treatment-resistant depression: after 3 adequate SSRI trials fail, augment with lithium, atypical an"
+  },
+  {
+    "id": 229,
+    "type": "TOPIC_MISMATCH",
+    "question": "A PMHNP is assessing functional status in a 78-year-old patient with memory complaints. The family r",
+    "questionTopics": [
+      "clozapine",
+      "NMS"
+    ],
+    "rationaleTopics": [
+      "lithium",
+      "clozapine",
+      "NMS"
+    ],
+    "rationale": "Elderly functional assessment: IADL (Instrumental Activities of Daily Living) includes managing fina"
+  },
+  {
+    "id": 229,
+    "type": "RATIONALE_ANSWER_MISMATCH",
+    "correctOption": "Not clinically significant",
+    "rationale": "Elderly functional assessment: IADL (Instrumental Activities of Daily Living) includes managing fina"
+  },
+  {
+    "id": 233,
+    "type": "TOPIC_MISMATCH",
+    "question": "A patient on olanzapine has gained 25 pounds over 6 months. The PMHNP measures waist circumference a",
+    "questionTopics": [
+      "lithium"
+    ],
+    "rationaleTopics": [
+      "lithium",
+      "antipsychotic"
+    ],
+    "rationale": "Metabolic syndrome: waist circumference is FIRST indicator (central obesity). Criteria: waist >40\" m"
+  },
+  {
+    "id": 235,
+    "type": "TOPIC_MISMATCH",
+    "question": "A patient presents with fever, severe headache, and stiff neck. On exam, passive neck flexion is lim",
+    "questionTopics": [
+      "lithium",
+      "serotonin syndrome",
+      "NMS"
+    ],
+    "rationaleTopics": [
+      "clozapine",
+      "serotonin syndrome",
+      "NMS"
+    ],
+    "rationale": "Nuchal rigidity: meningitis sign—stiff neck, resistance to flexion. Other meningeal signs: Kernig (k"
+  },
+  {
+    "id": 236,
+    "type": "TOPIC_MISMATCH",
+    "question": "A patient with heart failure is started on lisinopril. The PMHNP notes that ACE inhibitors can inter",
+    "questionTopics": [
+      "lithium"
+    ],
+    "rationaleTopics": [
+      "lithium",
+      "clozapine",
+      "NMS"
+    ],
+    "rationale": "ACE inhibitors (lisinopril, enalapril): primary use = heart failure. Also hypertension, diabetic nep"
+  },
+  {
+    "id": 237,
+    "type": "TOPIC_MISMATCH",
+    "question": "A PMHNP is teaching nursing students about serotonin syndrome. Which finding is NOT consistent with ",
+    "questionTopics": [
+      "serotonin syndrome"
+    ],
+    "rationaleTopics": [
+      "lithium",
+      "serotonin syndrome",
+      "NMS"
+    ],
+    "rationale": "Serotonin syndrome does NOT cause bradycardia or hypothermia—causes TACHYcardia and HYPERthermia. Sy"
+  },
+  {
+    "id": 239,
+    "type": "TOPIC_MISMATCH",
+    "question": "A woman with generalized anxiety disorder tells you she is pregnant and takes Buspar and Klonopin. W",
+    "questionTopics": [
+      "lithium",
+      "anxiety"
+    ],
+    "rationaleTopics": [
+      "SSRI discontinuation",
+      "valproate",
+      "clozapine",
+      "benzodiazepine",
+      "anxiety"
+    ],
+    "rationale": "Pregnancy + GAD: stop Klonopin (benzodiazepine = Category D, teratogenic), continue Buspar (buspiron"
+  },
+  {
+    "id": 241,
+    "type": "TOPIC_MISMATCH",
+    "question": "What is the most concerning diagnosis for an adolescent male with substance abuse history who has be",
+    "questionTopics": [
+      "clozapine"
+    ],
+    "rationaleTopics": [
+      "clozapine",
+      "NMS",
+      "stimulant"
+    ],
+    "rationale": "Rhabdomyolysis in adolescent: suspect substance use (cocaine, amphetamines) plus intense exercise. C"
+  },
+  {
+    "id": 245,
+    "type": "TOPIC_MISMATCH",
+    "question": "A patient on multiple medications asks about drug interactions with his ranitidine (Zantac). The PMH",
+    "questionTopics": [
+      "NMS"
+    ],
+    "rationaleTopics": [
+      "lithium",
+      "NMS"
+    ],
+    "rationale": "Cimetidine = potent CYP INHIBITOR (multiple CYPs: 3A4, 2D6, 1A2). Causes MANY drug interactions. Fam"
+  },
+  {
+    "id": 247,
+    "type": "TOPIC_MISMATCH",
+    "question": "A patient with borderline personality disorder presents with chronic emptiness, unstable relationshi",
+    "questionTopics": [
+      "lithium",
+      "psychotherapy"
+    ],
+    "rationaleTopics": [
+      "lithium",
+      "benzodiazepine",
+      "antipsychotic",
+      "depression",
+      "anxiety",
+      "bipolar",
+      "psychotherapy"
+    ],
+    "rationale": "PERSONALITY DISORDER TREATMENT: NO FDA-approved medications for any PD. Meds target SYMPTOMS: SSRIs "
+  },
+  {
+    "id": 248,
+    "type": "TOPIC_MISMATCH",
+    "question": "A 7-year-old with Oppositional Defiant Disorder is referred for treatment. The parents ask how to pr",
+    "questionTopics": [
+      "lithium"
+    ],
+    "rationaleTopics": [
+      "lithium",
+      "clozapine",
+      "depression",
+      "psychotherapy"
+    ],
+    "rationale": "ODD→CONDUCT DISORDER PREVENTION: PARENT MANAGEMENT TRAINING (PMT) + BEHAVIOR THERAPY. Evidence-based"
+  },
+  {
+    "id": 249,
+    "type": "TOPIC_MISMATCH",
+    "question": "A patient with bipolar I disorder asks about the risk of her children developing bipolar disorder. W",
+    "questionTopics": [
+      "bipolar"
+    ],
+    "rationaleTopics": [
+      "lithium",
+      "depression",
+      "bipolar"
+    ],
+    "rationale": "Bipolar genetic risk: children of bipolar parent have 4x higher risk. First-degree relatives: 10-15%"
+  },
+  {
+    "id": 250,
+    "type": "TOPIC_MISMATCH",
+    "question": "A PMHNP is evaluating a 75-year-old patient presenting with fatigue and depressed mood. Before diagn",
+    "questionTopics": [
+      "depression"
+    ],
+    "rationaleTopics": [
+      "lithium"
+    ],
+    "rationale": "Elderly metabolic workup: fasting glucose (diabetes screening), thyroid panel (hypothyroidism common"
+  },
+  {
+    "id": 251,
+    "type": "TOPIC_MISMATCH",
+    "question": "A 55-year-old man with depression and erectile dysfunction is being evaluated. His primary care prov",
+    "questionTopics": [
+      "depression"
+    ],
+    "rationaleTopics": [
+      "lithium"
+    ],
+    "rationale": "Erectile dysfunction workup: assess for Cialis (tadalafil) appropriateness. PDE5 inhibitors: Cialis "
+  },
+  {
+    "id": 260,
+    "type": "TOPIC_MISMATCH",
+    "question": "A PMHNP is educating a nursing student about extrapyramidal symptoms. Which finding is NOT classifie",
+    "questionTopics": [
+      "EPS"
+    ],
+    "rationaleTopics": [
+      "lithium",
+      "serotonin syndrome",
+      "NMS",
+      "EPS"
+    ],
+    "rationale": "EPS does NOT include hypothermia/bradycardia (those are NMS signs). EPS includes: akathisia (restles"
+  },
+  {
+    "id": 262,
+    "type": "TOPIC_MISMATCH",
+    "question": "A PMHNP is prescribing an off-label medication to a 7-year-old patient for anxiety. Which documentat",
+    "questionTopics": [
+      "lithium",
+      "anxiety"
+    ],
+    "rationaleTopics": [
+      "NMS"
+    ],
+    "rationale": "OFF-LABEL PRESCRIBING IN MINORS: Must obtain and document INFORMED CONSENT from parent/legal guardia"
+  },
+  {
+    "id": 266,
+    "type": "TOPIC_MISMATCH",
+    "question": "A patient with specific phobia (fear of flying) asks about medication. Which medication approach sho",
+    "questionTopics": [
+      "anxiety"
+    ],
+    "rationaleTopics": [
+      "lithium",
+      "NMS",
+      "benzodiazepine",
+      "anxiety",
+      "psychotherapy"
+    ],
+    "rationale": "Phobic anxiety: discourage benzodiazepine use long-term. First-line: CBT with exposure therapy, SSRI"
+  },
+  {
+    "id": 268,
+    "type": "TOPIC_MISMATCH",
+    "question": "A PMHNP is formulating a clinical research question for an evidence-based practice project. What doe",
+    "questionTopics": [
+      "lithium"
+    ],
+    "rationaleTopics": [
+      "lithium",
+      "psychotherapy"
+    ],
+    "rationale": "PICOT framework: P=Population/Patient, I=Intervention, C=Comparison, O=Outcome, T=Time. Used to form"
+  },
+  {
+    "id": 269,
+    "type": "TOPIC_MISMATCH",
+    "question": "A patient on carbamazepine is started on a new medication by another provider. The PMHNP reviews dru",
+    "questionTopics": [
+      "carbamazepine"
+    ],
+    "rationaleTopics": [
+      "lithium",
+      "carbamazepine",
+      "psychotherapy"
+    ],
+    "rationale": "Carbamazepine INDUCER: speeds metabolism of OTHER drugs (OCPs, warfarin). ITSELF is metabolized by C"
+  },
+  {
+    "id": 271,
+    "type": "TOPIC_MISMATCH",
+    "question": "A PMHNP is counseling a patient starting carbamazepine about serious adverse effects. Which effect i",
+    "questionTopics": [
+      "lithium",
+      "carbamazepine"
+    ],
+    "rationaleTopics": [
+      "carbamazepine",
+      "clozapine",
+      "MAOIs"
+    ],
+    "rationale": "Carbamazepine does NOT cause hypertensive crisis (that's MAOIs). DOES cause: Stevens-Johnson syndrom"
+  },
+  {
+    "id": 272,
+    "type": "TOPIC_MISMATCH",
+    "question": "A pregnant woman discloses daily alcohol use. She asks about medication options for alcohol use diso",
+    "questionTopics": [
+      "clozapine"
+    ],
+    "rationaleTopics": [
+      "SSRI discontinuation",
+      "lithium",
+      "clozapine",
+      "benzodiazepine"
+    ],
+    "rationale": "Alcohol in pregnancy: FASD is leading preventable cause of intellectual disability. PMHNP managing p"
+  },
+  {
+    "id": 281,
+    "type": "TOPIC_MISMATCH",
+    "question": "A patient with asthma and depression is being evaluated. The PMHNP reviews her medication list inclu",
+    "questionTopics": [
+      "lithium",
+      "depression"
+    ],
+    "rationaleTopics": [
+      "NMS",
+      "depression"
+    ],
+    "rationale": "Inhaled corticosteroids (Qvar, Flovent): can cause mood changes, depression with long-term use. Also"
+  },
+  {
+    "id": 285,
+    "type": "TOPIC_MISMATCH",
+    "question": "A PMHNP is evaluating a patient with HIV and confusion. The team must differentiate HIV-associated d",
+    "questionTopics": [
+      "lithium"
+    ],
+    "rationaleTopics": [
+      "lithium",
+      "NMS"
+    ],
+    "rationale": "HIV dementia vs delirium: often confused due to similar presentation (confusion, attention deficits)"
+  },
+  {
+    "id": 291,
+    "type": "TOPIC_MISMATCH",
+    "question": "A pregnant woman with alcohol use disorder asks about pharmacological treatment options. What should",
+    "questionTopics": [
+      "clozapine"
+    ],
+    "rationaleTopics": [
+      "SSRI discontinuation",
+      "lithium",
+      "clozapine",
+      "benzodiazepine"
+    ],
+    "rationale": "Naltrexone for alcohol: CONTRAINDICATED in pregnancy (Category C, limited data). Benzodiazepines use"
+  },
+  {
+    "id": 292,
+    "type": "TOPIC_MISMATCH",
+    "question": "A mother is anxious about giving her child a new psychiatric medication. She appears tearful and dis",
+    "questionTopics": [
+      "anxiety"
+    ],
+    "rationaleTopics": [
+      "lithium",
+      "anxiety",
+      "psychotherapy"
+    ],
+    "rationale": "Parent medication anxiety: STOP and address anxiety before teaching. Learning cannot occur when anxi"
+  },
+  {
+    "id": 293,
+    "type": "TOPIC_MISMATCH",
+    "question": "During a home visit to assess an overweight child, the PMHNP observes uncooked chicken left on the c",
+    "questionTopics": [
+      "NMS"
+    ],
+    "rationaleTopics": [
+      "lithium",
+      "NMS"
+    ],
+    "rationale": "Home visit assessment: uncooked chicken out = food safety concern; ice cream for overweight child = "
+  },
+  {
+    "id": 294,
+    "type": "TOPIC_MISMATCH",
+    "question": "A patient on a TCA complains of constipation. The PMHNP explains that anticholinergic medications af",
+    "questionTopics": [
+      "lithium"
+    ],
+    "rationaleTopics": [
+      "lithium",
+      "NMS",
+      "antipsychotic"
+    ],
+    "rationale": "Anticholinergics slow gastric motility: block acetylcholine → decreased GI muscle contractions. Caus"
+  },
+  {
+    "id": 295,
+    "type": "TOPIC_MISMATCH",
+    "question": "A patient on olanzapine announces she is enrolling in a smoking cessation program. The PMHNP knows s",
+    "questionTopics": [
+      "lithium"
+    ],
+    "rationaleTopics": [
+      "lithium",
+      "clozapine"
+    ],
+    "rationale": "Olanzapine + smoking: CYP1A2 INDUCED by smoking → low olanzapine levels. QUIT SMOKING → levels RISE "
+  },
+  {
+    "id": 296,
+    "type": "TOPIC_MISMATCH",
+    "question": "A PMHNP is prescribing sertraline to a 78-year-old patient. What electrolyte abnormality should be m",
+    "questionTopics": [
+      "lithium"
+    ],
+    "rationaleTopics": [
+      "lithium",
+      "clozapine",
+      "NMS"
+    ],
+    "rationale": "SSRIs in elderly: HYPONATREMIA (SIADH) is major concern. Symptoms: confusion, falls, seizures. Check"
+  },
+  {
+    "id": 297,
+    "type": "TOPIC_MISMATCH",
+    "question": "A 16-year-old female is being treated with valproic acid for bipolar disorder. She has a boyfriend a",
+    "questionTopics": [
+      "bipolar"
+    ],
+    "rationaleTopics": [
+      "valproate",
+      "clozapine"
+    ],
+    "rationale": "Teenage girl on Depakote: test HCG (pregnancy test). Valproate is HIGHLY teratogenic—neural tube def"
+  },
+  {
+    "id": 303,
+    "type": "TOPIC_MISMATCH",
+    "question": "A patient asks if gabapentin could help her depression. She is currently taking it for neuropathic p",
+    "questionTopics": [
+      "benzodiazepine",
+      "depression"
+    ],
+    "rationaleTopics": [
+      "SSRI discontinuation",
+      "EPS",
+      "benzodiazepine",
+      "depression",
+      "anxiety"
+    ],
+    "rationale": "Gabapentin (Neurontin) NOT used for depression. FDA-approved for: epilepsy, postherpetic neuralgia. "
+  },
+  {
+    "id": 304,
+    "type": "TOPIC_MISMATCH",
+    "question": "A nursing student asks the PMHNP how gabapentin produces its calming effect. Which neurotransmitter ",
+    "questionTopics": [
+      "benzodiazepine"
+    ],
+    "rationaleTopics": [
+      "clozapine",
+      "benzodiazepine"
+    ],
+    "rationale": "Gabapentin: enhances GABA activity (inhibitory neurotransmitter). Binds to alpha-2-delta subunit of "
+  },
+  {
+    "id": 309,
+    "type": "TOPIC_MISMATCH",
+    "question": "A patient with fatigue, weight gain, and depression has a TSH of 8.5 mU/L. The PMHNP recognizes the ",
+    "questionTopics": [
+      "depression"
+    ],
+    "rationaleTopics": [
+      "lithium"
+    ],
+    "rationale": "Synthroid (levothyroxine): thyroid hormone replacement for HYPOTHYROIDISM. Take on empty stomach, sa"
+  },
+  {
+    "id": 311,
+    "type": "TOPIC_MISMATCH",
+    "question": "A PMHNP is evaluating a female patient with short stature, webbed neck, and primary amenorrhea. Gene",
+    "questionTopics": [
+      "NMS"
+    ],
+    "rationaleTopics": [
+      "lithium",
+      "NMS",
+      "stimulant",
+      "anxiety"
+    ],
+    "rationale": "TURNER SYNDROME (45,XO): Females only. Features: short stature, webbed neck, shield chest, ovarian f"
+  },
+  {
+    "id": 312,
+    "type": "TOPIC_MISMATCH",
+    "question": "A patient on haloperidol develops fever of 104°F, severe muscle rigidity, altered mental status, and",
+    "questionTopics": [
+      "serotonin syndrome",
+      "NMS"
+    ],
+    "rationaleTopics": [
+      "lithium",
+      "serotonin syndrome",
+      "NMS",
+      "antipsychotic"
+    ],
+    "rationale": "NMS: high fever, lead-pipe rigidity, altered mental status, autonomic instability. Labs show leukocy"
+  },
+  {
+    "id": 313,
+    "type": "TOPIC_MISMATCH",
+    "question": "A patient with NMS is transferred to the ICU. The antipsychotic has been discontinued. What pharmaco",
+    "questionTopics": [
+      "NMS",
+      "antipsychotic"
+    ],
+    "rationaleTopics": [
+      "lithium",
+      "NMS",
+      "antipsychotic"
+    ],
+    "rationale": "NMS treatment: STOP antipsychotic, supportive care (cooling, hydration), dantrolene (muscle relaxant"
+  },
+  {
+    "id": 314,
+    "type": "TOPIC_MISMATCH",
+    "question": "A patient on sertraline and tramadol develops fever, agitation, tremor, hyperreflexia, and diaphores",
+    "questionTopics": [
+      "lithium",
+      "serotonin syndrome"
+    ],
+    "rationaleTopics": [
+      "lithium",
+      "serotonin syndrome",
+      "NMS",
+      "benzodiazepine"
+    ],
+    "rationale": "Serotonin syndrome: tachycardia, hyperthermia, agitation, hyperreflexia, clonus, diaphoresis, dilate"
+  },
+  {
+    "id": 316,
+    "type": "RATIONALE_ANSWER_MISMATCH",
+    "correctOption": "Mild depression (14-19)",
+    "rationale": "BDI-II scoring: 0-13=minimal, 14-19=mild, 20-28=moderate, 29-63=severe. Alternative cutoffs exist (0"
+  },
+  {
+    "id": 317,
+    "type": "RATIONALE_ANSWER_MISMATCH",
+    "correctOption": "Mild depression (8-13)",
+    "rationale": "HAM-D 17-item: 0-7=normal, 8-13=mild, 14-18=moderate, 19-22=severe, ≥23=very severe. Clinician-admin"
+  },
+  {
+    "id": 318,
+    "type": "TOPIC_MISMATCH",
+    "question": "A patient in therapy has met treatment goals, shows improved coping skills, and functions well indep",
+    "questionTopics": [
+      "psychotherapy"
+    ],
+    "rationaleTopics": [
+      "lithium"
+    ],
+    "rationale": "Termination readiness: patient shows symptom improvement, increased coping skills, met treatment goa"
+  },
+  {
+    "id": 320,
+    "type": "TOPIC_MISMATCH",
+    "question": "During a psychiatric interview, the patient becomes silent and stops responding. What is the appropr",
+    "questionTopics": [
+      "psychotherapy"
+    ],
+    "rationaleTopics": [
+      "clozapine",
+      "psychotherapy"
+    ],
+    "rationale": "Patient silence in interview: use therapeutic silence, give space for processing. Don't rush to fill"
+  },
+  {
+    "id": 325,
+    "type": "TOPIC_MISMATCH",
+    "question": "As an NP, when you prescribe opioids for pain, what legal principle is of most concern regarding pri",
+    "questionTopics": [
+      "lithium"
+    ],
+    "rationaleTopics": [
+      "clozapine"
+    ],
+    "rationale": "Opioid prescribing and privacy: HIPAA protects all health information including substance use treatm"
+  },
+  {
+    "id": 326,
+    "type": "TOPIC_MISMATCH",
+    "question": "A patient on carbamazepine is prescribed erythromycin for a respiratory infection. The PMHNP is conc",
+    "questionTopics": [
+      "lithium",
+      "carbamazepine"
+    ],
+    "rationaleTopics": [
+      "lithium",
+      "carbamazepine",
+      "NMS"
+    ],
+    "rationale": "Erythromycin (inhibitor) + Tegretol (carbamazepine) = INCREASED Tegretol levels → TOXICITY. Inhibito"
+  },
+  {
+    "id": 327,
+    "type": "TOPIC_MISMATCH",
+    "question": "A patient started on sertraline 3 weeks ago reports persistent nausea and headache. How should the P",
+    "questionTopics": [
+      "lithium"
+    ],
+    "rationaleTopics": [
+      "SSRI discontinuation",
+      "lithium"
+    ],
+    "rationale": "SSRI side effects at 3 weeks: evaluate type/severity. Common early side effects (nausea, headache) o"
+  },
+  {
+    "id": 328,
+    "type": "TOPIC_MISMATCH",
+    "question": "A 5-year-old child recently experienced parental divorce. He has decreased appetite without weight l",
+    "questionTopics": [
+      "lithium"
+    ],
+    "rationaleTopics": [
+      "lithium",
+      "depression",
+      "psychotherapy"
+    ],
+    "rationale": "Adjustment disorder: emotional/behavioral symptoms in response to identifiable stressor, within 3 mo"
+  },
+  {
+    "id": 329,
+    "type": "TOPIC_MISMATCH",
+    "question": "A patient on risperidone develops NMS with fever, rigidity, and CK of 15,000. The antipsychotic has ",
+    "questionTopics": [
+      "serotonin syndrome",
+      "NMS",
+      "antipsychotic"
+    ],
+    "rationaleTopics": [
+      "NMS",
+      "benzodiazepine",
+      "antipsychotic"
+    ],
+    "rationale": "NMS treatment: STOP antipsychotic, monitor CK (for rhabdomyolysis) and WBC (leukocytosis common), gi"
+  },
+  {
+    "id": 332,
+    "type": "TOPIC_MISMATCH",
+    "question": "A patient with heart failure and depression asks why she was started on lisinopril. What is the PRIM",
+    "questionTopics": [
+      "lithium",
+      "depression"
+    ],
+    "rationaleTopics": [
+      "lithium",
+      "clozapine"
+    ],
+    "rationale": "ACE inhibitors: first-line for heart failure with reduced ejection fraction (HFrEF). Reduce mortalit"
+  },
+  {
+    "id": 335,
+    "type": "TOPIC_MISMATCH",
+    "question": "A patient with frontotemporal dementia exhibits social disinhibition and personality changes but rel",
+    "questionTopics": [
+      "lithium"
+    ],
+    "rationaleTopics": [
+      "lithium",
+      "tardive dyskinesia"
+    ],
+    "rationale": "Frontotemporal dementia (FTD): early SOCIAL SKILLS and PERSONALITY changes (disinhibition, apathy). "
+  },
+  {
+    "id": 345,
+    "type": "TOPIC_MISMATCH",
+    "question": "A researcher notes that bipolar treatment efficacy studies in children differ from adult studies. Wh",
+    "questionTopics": [
+      "clozapine",
+      "bipolar"
+    ],
+    "rationaleTopics": [
+      "lithium",
+      "depression",
+      "bipolar"
+    ],
+    "rationale": "Bipolar treatment in children vs adults: mood stabilizers less studied in children. Efficacy data pr"
+  },
+  {
+    "id": 347,
+    "type": "TOPIC_MISMATCH",
+    "question": "A teenage girl with bipolar disorder is on valproate (Depakote). She has a boyfriend. What laborator",
+    "questionTopics": [
+      "valproate",
+      "bipolar"
+    ],
+    "rationaleTopics": [
+      "lithium",
+      "valproate",
+      "clozapine"
+    ],
+    "rationale": "Depakote monitoring: pregnancy test (teratogenic), LFTs (hepatotoxicity), CBC with platelets (thromb"
+  },
+  {
+    "id": 348,
+    "type": "TOPIC_MISMATCH",
+    "question": "A PMHNP is starting a stimulant for ADHD in a child. The mother reports a family history of sudden c",
+    "questionTopics": [
+      "stimulant"
+    ],
+    "rationaleTopics": [
+      "QTc",
+      "stimulant"
+    ],
+    "rationale": "ADHD stimulant EKG: screen with EKG if family history of cardiovascular disease, sudden death, arrhy"
+  },
+  {
+    "id": 349,
+    "type": "TOPIC_MISMATCH",
+    "question": "A PMHNP is reviewing evidence for bipolar medication adherence interventions. What represents the HI",
+    "questionTopics": [
+      "bipolar"
+    ],
+    "rationaleTopics": [
+      "lithium",
+      "clozapine",
+      "bipolar",
+      "psychotherapy"
+    ],
+    "rationale": "Bipolar medication adherence: systematic reviews provide highest level evidence. Adherence critical—"
+  },
+  {
+    "id": 350,
+    "type": "TOPIC_MISMATCH",
+    "question": "A 75-year-old patient presents with depression, fatigue, weight gain, and cold intolerance. Labs sho",
+    "questionTopics": [
+      "clozapine",
+      "depression"
+    ],
+    "rationaleTopics": [
+      "lithium",
+      "clozapine",
+      "depression"
+    ],
+    "rationale": "Hypothyroidism causes depression: symptoms include fatigue, weight gain, cold intolerance, dry skin,"
+  },
+  {
+    "id": 353,
+    "type": "TOPIC_MISMATCH",
+    "question": "A patient develops depression after starting prednisone for an autoimmune condition. Which medicatio",
+    "questionTopics": [
+      "depression"
+    ],
+    "rationaleTopics": [
+      "NMS",
+      "benzodiazepine",
+      "depression"
+    ],
+    "rationale": "Medications causing depression: steroids, Accutane (isotretinoin), interferon, beta-blockers, benzod"
+  },
+  {
+    "id": 355,
+    "type": "TOPIC_MISMATCH",
+    "question": "A patient with bipolar disorder becomes manic after starting prednisone. Which medications are known",
+    "questionTopics": [
+      "bipolar"
+    ],
+    "rationaleTopics": [
+      "lithium",
+      "depression",
+      "bipolar"
+    ],
+    "rationale": "Mania-inducing medications: SAID mnemonic—Steroids, Antidepressants, INH (isoniazid), Disulfiram. An"
+  },
+  {
+    "id": 356,
+    "type": "TOPIC_MISMATCH",
+    "question": "A PMHNP is evaluating a patient who is suspicious, mistrustful, and socially isolated. She interpret",
+    "questionTopics": [
+      "lithium"
+    ],
+    "rationaleTopics": [
+      "clozapine",
+      "antipsychotic"
+    ],
+    "rationale": "CLUSTER A (Odd/Eccentric): Paranoid, Schizoid, Schizotypal. Mnemonic: 'MAD'—Mistrustful, Aloof, Diso"
+  },
+  {
+    "id": 357,
+    "type": "TOPIC_MISMATCH",
+    "question": "A patient presents with grandiosity, need for admiration, and lack of empathy. Which personality dis",
+    "questionTopics": [
+      "lithium",
+      "NMS"
+    ],
+    "rationaleTopics": [
+      "NMS",
+      "depression",
+      "psychotherapy"
+    ],
+    "rationale": "CLUSTER B includes NARCISSISTIC PD: Grandiosity, need for admiration, lack of empathy. Fragile self-"
+  },
+  {
+    "id": 358,
+    "type": "TOPIC_MISMATCH",
+    "question": "A patient is extremely fearful of rejection, desires social connection but avoids it, and is easily ",
+    "questionTopics": [
+      "lithium"
+    ],
+    "rationaleTopics": [
+      "anxiety",
+      "psychotherapy"
+    ],
+    "rationale": "CLUSTER C includes AVOIDANT PD: Wants social connection but fears rejection/criticism. Different fro"
+  },
+  {
+    "id": 360,
+    "type": "TOPIC_MISMATCH",
+    "question": "What brings a daughter and mother to therapy?",
+    "questionTopics": [
+      "psychotherapy"
+    ],
+    "rationaleTopics": [
+      "lithium",
+      "clozapine"
+    ],
+    "rationale": "Subclavicular mass: firm mass in subclavicular area requires medical workup. May indicate malignancy"
+  },
+  {
+    "id": 361,
+    "type": "TOPIC_MISMATCH",
+    "question": "An 80-year-old white male living alone expresses hopelessness. He has access to firearms. What suici",
+    "questionTopics": [
+      "lithium"
+    ],
+    "rationaleTopics": [
+      "lithium",
+      "depression"
+    ],
+    "rationale": "Elderly suicide prevention: reduce access to means (firearms, medications), treat depression, addres"
+  },
+  {
+    "id": 363,
+    "type": "TOPIC_MISMATCH",
+    "question": "A patient on an SSRI asks about osteoporosis prevention. What lifestyle modifications should the PMH",
+    "questionTopics": [
+      "lithium"
+    ],
+    "rationaleTopics": [
+      "antipsychotic"
+    ],
+    "rationale": "Osteoporosis management: weight-bearing EXERCISE, decrease caffeine (increases calcium excretion), a"
+  },
+  {
+    "id": 364,
+    "type": "TOPIC_MISMATCH",
+    "question": "A PMHNP is educating an elderly patient starting sertraline. Besides medication education, what life",
+    "questionTopics": [
+      "lithium"
+    ],
+    "rationaleTopics": [
+      "SSRI discontinuation",
+      "depression",
+      "anxiety"
+    ],
+    "rationale": "Elderly + SSRI education: exercise benefits mood and bone health. Reduce caffeine (can worsen anxiet"
+  },
+  {
+    "id": 365,
+    "type": "TOPIC_MISMATCH",
+    "question": "A parent asks when adolescents should be screened for ADHD. What screening recommendation should the",
+    "questionTopics": [
+      "stimulant"
+    ],
+    "rationaleTopics": [
+      "lithium",
+      "stimulant"
+    ],
+    "rationale": "ADHD screening in adolescents: screen those at risk (academic problems, behavioral issues, family hi"
+  },
+  {
+    "id": 372,
+    "type": "TOPIC_MISMATCH",
+    "question": "A patient asks about using kava kava supplements for anxiety. What is the PRIMARY safety concern the",
+    "questionTopics": [
+      "anxiety"
+    ],
+    "rationaleTopics": [
+      "lithium"
+    ],
+    "rationale": "Kava kava: PRIMARY concern is HEPATOTOXICITY (liver damage). FDA warning issued. Requires LFT monito"
+  },
+  {
+    "id": 374,
+    "type": "TOPIC_MISMATCH",
+    "question": "A 9-year-old is brought in for severe irritability, temper outbursts occurring daily, and persistent",
+    "questionTopics": [
+      "lithium"
+    ],
+    "rationaleTopics": [
+      "lithium",
+      "depression",
+      "bipolar"
+    ],
+    "rationale": "DMDD vs ODD vs CD COMPARISON: DMDD=severe CHRONIC irritability + temper outbursts ≥3x/week × 12 mont"
+  },
+  {
+    "id": 378,
+    "type": "TOPIC_MISMATCH",
+    "question": "A hospital implements a system where medical errors are analyzed for learning rather than punishment",
+    "questionTopics": [
+      "NMS"
+    ],
+    "rationaleTopics": [
+      "lithium",
+      "NMS"
+    ],
+    "rationale": "Just culture: learning from errors rather than punishing. Distinguishes human error (system), at-ris"
+  },
+  {
+    "id": 380,
+    "type": "TOPIC_MISMATCH",
+    "question": "Child tells you he is gay and tells you not to tell parents. What applies?",
+    "questionTopics": [
+      "lithium"
+    ],
+    "rationaleTopics": [
+      "lithium",
+      "clozapine"
+    ],
+    "rationale": "Minor sexual orientation disclosure: maintain confidentiality unless safety concern. Sexual orientat"
+  },
+  {
+    "id": 380,
+    "type": "RATIONALE_ANSWER_MISMATCH",
+    "correctOption": "B. Don't tell - Parents right to know VS patient's privacy",
+    "rationale": "Minor sexual orientation disclosure: maintain confidentiality unless safety concern. Sexual orientat"
+  },
+  {
+    "id": 381,
+    "type": "TOPIC_MISMATCH",
+    "question": "A PMHNP's electronic health record documentation is subpoenaed for court. How is the validity of EHR",
+    "questionTopics": [
+      "lithium"
+    ],
+    "rationaleTopics": [
+      "lithium",
+      "NMS"
+    ],
+    "rationale": "EHR validity in court: electronic/authorization SIGNATURE proves validity and accountability. Docume"
+  },
+  {
+    "id": 385,
+    "type": "TOPIC_MISMATCH",
+    "question": "A patient on risperidone needs metabolic monitoring. What parameters should the PMHNP assess?",
+    "questionTopics": [
+      "lithium"
+    ],
+    "rationaleTopics": [
+      "lithium",
+      "EPS",
+      "antipsychotic"
+    ],
+    "rationale": "Risperdal (risperidone) monitoring: metabolic panel—waist circumference, BMI, weight, hip-to-waist r"
+  },
+  {
+    "id": 387,
+    "type": "TOPIC_MISMATCH",
+    "question": "An 80-year-old patient with memory complaints has MMSE scores of 29 initially and 26 after 3 years. ",
+    "questionTopics": [
+      "lithium"
+    ],
+    "rationaleTopics": [
+      "lithium",
+      "NMS"
+    ],
+    "rationale": "Slow MMSE decline (29→26 over 3 years): too slow for Alzheimer's. Consider MoCA—more sensitive for M"
+  },
+  {
+    "id": 388,
+    "type": "TOPIC_MISMATCH",
+    "question": "A PMHNP is reviewing medications for a patient with comorbid depression and congestive heart failure",
+    "questionTopics": [
+      "lithium",
+      "depression"
+    ],
+    "rationaleTopics": [
+      "lithium",
+      "NMS"
+    ],
+    "rationale": "ACE inhibitors treat CHF: TRUE. First-line for heart failure with reduced EF. Reduce mortality. Also"
+  },
+  {
+    "id": 389,
+    "type": "TOPIC_MISMATCH",
+    "question": "A patient in the psychiatric ED remains agitated after receiving lorazepam. To prevent prolonged res",
+    "questionTopics": [
+      "benzodiazepine"
+    ],
+    "rationaleTopics": [
+      "QTc",
+      "benzodiazepine",
+      "antipsychotic"
+    ],
+    "rationale": "Acute agitation unresponsive to benzo: add IM antipsychotic (Geodon/ziprasidone, Haldol, or Zyprexa)"
+  },
+  {
+    "id": 390,
+    "type": "TOPIC_MISMATCH",
+    "question": "A 22-year-old woman on valproate (Depakote) for bipolar disorder is sexually active. What laboratory",
+    "questionTopics": [
+      "valproate",
+      "bipolar"
+    ],
+    "rationaleTopics": [
+      "valproate",
+      "clozapine"
+    ],
+    "rationale": "Young female on Depakote—order ALL: pregnancy test (teratogenic), LFTs (hepatotoxicity), CBC (thromb"
+  },
+  {
+    "id": 394,
+    "type": "TOPIC_MISMATCH",
+    "question": "A pregnant woman is taking sertraline and isotretinoin (Accutane). Which medication MUST be disconti",
+    "questionTopics": [
+      "lithium"
+    ],
+    "rationaleTopics": [
+      "lithium",
+      "valproate",
+      "clozapine"
+    ],
+    "rationale": "Pregnancy + Accutane: DISCONTINUE ACCUTANE immediately—highly teratogenic (Category X), causes sever"
+  },
+  {
+    "id": 395,
+    "type": "RATIONALE_ANSWER_MISMATCH",
+    "correctOption": "CLONUS and HYPERREFLEXIA (characteristic of serotonin syndrome)",
+    "rationale": "PDE5 inhibitors (sildenafil, tadalafil): RAPIDLY absorbed. Onset: 30-60 min. Take on empty stomach f"
+  },
+  {
+    "id": 399,
+    "type": "TOPIC_MISMATCH",
+    "question": "A patient presents with fever, altered mental status, and neuromuscular symptoms after starting an a",
+    "questionTopics": [
+      "NMS",
+      "antipsychotic"
+    ],
+    "rationaleTopics": [
+      "lithium",
+      "serotonin syndrome",
+      "NMS"
+    ],
+    "rationale": "NMS vs Serotonin Syndrome: NMS = lead-pipe rigidity, fever, autonomic instability, elevated CK/WBC. "
+  },
+  {
+    "id": 401,
+    "type": "TOPIC_MISMATCH",
+    "question": "A Native American patient is in restraints after refusing to give up his healing stick, which staff ",
+    "questionTopics": [
+      "lithium",
+      "NMS"
+    ],
+    "rationaleTopics": [
+      "lithium",
+      "clozapine",
+      "NMS"
+    ],
+    "rationale": "Cultural competency: teach staff about healing traditions. Native American healing stick has spiritu"
+  },
+  {
+    "id": 402,
+    "type": "TOPIC_MISMATCH",
+    "question": "A Hispanic patient who recently lost a parent presents with depression and somatic complaints (stoma",
+    "questionTopics": [
+      "depression",
+      "anxiety"
+    ],
+    "rationaleTopics": [
+      "lithium",
+      "depression",
+      "anxiety"
+    ],
+    "rationale": "Somatization in Hispanic culture: 'nervios' (nerves) manifests as GI symptoms. Grief + depression pr"
+  },
+  {
+    "id": 403,
+    "type": "TOPIC_MISMATCH",
+    "question": "A PMHNP is explaining the neurobiological basis of ADHD to a parent. Which brain region is primarily",
+    "questionTopics": [
+      "stimulant"
+    ],
+    "rationaleTopics": [
+      "antipsychotic",
+      "stimulant"
+    ],
+    "rationale": "ADHD + BRAIN: DORSOLATERAL PFC=executive dysfunction (planning, working memory). ORBITOFRONTAL=poor "
+  },
+  {
+    "id": 404,
+    "type": "TOPIC_MISMATCH",
+    "question": "A patient with anorexia nervosa has a BMI of 16 and heart rate of 45. What determines need for hospi",
+    "questionTopics": [
+      "lithium"
+    ],
+    "rationaleTopics": [
+      "QTc",
+      "lithium"
+    ],
+    "rationale": "Eating disorder hospitalization: any weight with MEDICAL INSTABILITY (not just BMI). Criteria: HR <5"
+  },
+  {
+    "id": 406,
+    "type": "TOPIC_MISMATCH",
+    "question": "A postmenopausal patient on sertraline is concerned about bone health. What intervention is MOST eff",
+    "questionTopics": [
+      "lithium"
+    ],
+    "rationaleTopics": [
+      "lithium",
+      "antipsychotic"
+    ],
+    "rationale": "Osteoporosis prevention: WEIGHT-BEARING EXERCISE + lifestyle changes (stop smoking, limit alcohol/ca"
+  },
+  {
+    "id": 416,
+    "type": "TOPIC_MISMATCH",
+    "question": "A patient with alcohol use disorder AND hepatic impairment presents in withdrawal. Which benzodiazep",
+    "questionTopics": [
+      "SSRI discontinuation",
+      "valproate",
+      "benzodiazepine"
+    ],
+    "rationaleTopics": [
+      "SSRI discontinuation",
+      "lithium",
+      "valproate",
+      "clozapine",
+      "benzodiazepine",
+      "anxiety"
+    ],
+    "rationale": "ALCOHOL WITHDRAWAL + HEPATIC DISEASE: Use LORAZEPAM (Ativan)—metabolized by glucuronidation, NOT CYP"
+  },
+  {
+    "id": 416,
+    "type": "RATIONALE_ANSWER_MISMATCH",
+    "correctOption": "Chlordiazepoxide",
+    "rationale": "ALCOHOL WITHDRAWAL + HEPATIC DISEASE: Use LORAZEPAM (Ativan)—metabolized by glucuronidation, NOT CYP"
+  },
+  {
+    "id": 417,
+    "type": "TOPIC_MISMATCH",
+    "question": "A patient in alcohol withdrawal has a CIWA-Ar score of 18. What treatment protocol should the PMHNP ",
+    "questionTopics": [
+      "SSRI discontinuation"
+    ],
+    "rationaleTopics": [
+      "lithium",
+      "valproate",
+      "NMS",
+      "benzodiazepine"
+    ],
+    "rationale": "CIWA PROTOCOL: 8-15=mild (PRN benzos). ≥16=moderate-severe (scheduled benzos q2h). CRITICAL: Give TH"
+  },
+  {
+    "id": 417,
+    "type": "RATIONALE_ANSWER_MISMATCH",
+    "correctOption": "PRN benzodiazepines only",
+    "rationale": "CIWA PROTOCOL: 8-15=mild (PRN benzos). ≥16=moderate-severe (scheduled benzos q2h). CRITICAL: Give TH"
+  },
+  {
+    "id": 424,
+    "type": "RATIONALE_ANSWER_MISMATCH",
+    "correctOption": "RESTRICT fluids in evening and give medication before bed",
+    "rationale": "Appreciative inquiry: TRUE—focuses on STRENGTHS, HOPE, what's working. Doesn't blame. Positive organ"
+  },
+  {
+    "id": 429,
+    "type": "RATIONALE_ANSWER_MISMATCH",
+    "correctOption": "Supportive care only",
+    "rationale": "Acute dystonia treatment: ALL anticholinergics work. Benztropine (Cogentin), diphenhydramine (Benadr"
+  },
+  {
+    "id": 430,
+    "type": "TOPIC_MISMATCH",
+    "question": "A patient taking kava kava for anxiety asks about drug interactions. What should the PMHNP advise?",
+    "questionTopics": [
+      "anxiety"
+    ],
+    "rationaleTopics": [
+      "benzodiazepine",
+      "depression"
+    ],
+    "rationale": "Kava + benzodiazepines: AVOID combination. Both are CNS depressants. Additive sedation, respiratory "
+  },
+  {
+    "id": 431,
+    "type": "TOPIC_MISMATCH",
+    "question": "A patient is using kava kava supplements for anxiety. What PRIMARY safety concern should the PMHNP d",
+    "questionTopics": [
+      "anxiety"
+    ],
+    "rationaleTopics": [
+      "lithium"
+    ],
+    "rationale": "Kava education: HEPATOTOXICITY main concern. FDA warning for liver damage. Can cause fulminant liver"
+  },
+  {
+    "id": 432,
+    "type": "TOPIC_MISMATCH",
+    "question": "A patient with fibromyalgia and depression asks about medication options that could help both condit",
+    "questionTopics": [
+      "depression"
+    ],
+    "rationaleTopics": [
+      "lithium",
+      "benzodiazepine",
+      "psychotherapy"
+    ],
+    "rationale": "Fibromyalgia treatment: TCAs (amitriptyline), SNRIs (duloxetine, milnacipran). Also: pregabalin (Lyr"
+  },
+  {
+    "id": 434,
+    "type": "TOPIC_MISMATCH",
+    "question": "A patient on risperidone requires metabolic syndrome screening. What is the BEST initial assessment ",
+    "questionTopics": [
+      "lithium"
+    ],
+    "rationaleTopics": [
+      "lithium",
+      "antipsychotic"
+    ],
+    "rationale": "Metabolic syndrome assessment: HIP-TO-WAIST ratio or waist circumference (central adiposity key mark"
+  },
+  {
+    "id": 435,
+    "type": "TOPIC_MISMATCH",
+    "question": "A patient on lithium reports taking indomethacin (Indocin) for back pain. What should the PMHNP do?",
+    "questionTopics": [
+      "lithium",
+      "NMS"
+    ],
+    "rationaleTopics": [
+      "lithium",
+      "clozapine"
+    ],
+    "rationale": "Lithium + NSAIDs (Indocin/Meloxicam): NSAIDs INCREASE lithium levels by decreasing renal clearance. "
+  },
+  {
+    "id": 440,
+    "type": "TOPIC_MISMATCH",
+    "question": "A child presents with weight loss, irritability, and increased energy. Before assuming a psychiatric",
+    "questionTopics": [
+      "lithium"
+    ],
+    "rationaleTopics": [
+      "lithium",
+      "NMS"
+    ],
+    "rationale": "Child with weight loss, irritability, increased energy: check LEAD LEVEL. Lead toxicity symptoms mim"
+  },
+  {
+    "id": 441,
+    "type": "TOPIC_MISMATCH",
+    "question": "A PMHNP wants to assess for formal thought disorder in a patient with schizophrenia. What is the BES",
+    "questionTopics": [
+      "antipsychotic"
+    ],
+    "rationaleTopics": [
+      "lithium",
+      "antipsychotic"
+    ],
+    "rationale": "Thought disorder assessment: PROVERB INTERPRETATION tests abstract thinking. Concrete interpretation"
+  },
+  {
+    "id": 443,
+    "type": "TOPIC_MISMATCH",
+    "question": "A patient on haloperidol develops acute neck stiffness and torticollis. What is the immediate treatm",
+    "questionTopics": [
+      "lithium",
+      "NMS"
+    ],
+    "rationaleTopics": [
+      "lithium",
+      "clozapine",
+      "NMS",
+      "EPS",
+      "antipsychotic"
+    ],
+    "rationale": "Acute dystonia: BENZTROPINE (Cogentin) IM/IV for rapid relief. Anticholinergic blocks acetylcholine,"
+  },
+  {
+    "id": 444,
+    "type": "TOPIC_MISMATCH",
+    "question": "A patient using kava kava for anxiety asks what side effects to watch for. What is the PRIMARY educa",
+    "questionTopics": [
+      "anxiety"
+    ],
+    "rationaleTopics": [
+      "lithium",
+      "NMS"
+    ],
+    "rationale": "Kava HEPATOTOXICITY: primary education point. FDA warning for liver damage. Can be fatal. Teach pati"
+  },
+  {
+    "id": 445,
+    "type": "TOPIC_MISMATCH",
+    "question": "A patient taking kava kava is prescribed medication for anxiety. Which medication should be AVOIDED?",
+    "questionTopics": [
+      "anxiety"
+    ],
+    "rationaleTopics": [
+      "benzodiazepine",
+      "depression"
+    ],
+    "rationale": "Kava + benzodiazepines: AVOID. Additive CNS depression, sedation, respiratory depression. Both affec"
+  },
+  {
+    "id": 447,
+    "type": "RATIONALE_ANSWER_MISMATCH",
+    "correctOption": "HIGH RISK for violence and homicide",
+    "rationale": "ANTISOCIAL PD: CANNOT diagnose <18 years—use CONDUCT DISORDER instead. CD CRITERIA: ≥3 behaviors in "
+  },
+  {
+    "id": 452,
+    "type": "TOPIC_MISMATCH",
+    "question": "An adolescent is newly diagnosed with bipolar disorder. What is the FIRST intervention priority?",
+    "questionTopics": [
+      "bipolar"
+    ],
+    "rationaleTopics": [
+      "clozapine",
+      "bipolar"
+    ],
+    "rationale": "New adolescent bipolar: EDUCATE patient and parents first. Explain illness course, medication, warni"
+  },
+  {
+    "id": 455,
+    "type": "TOPIC_MISMATCH",
+    "question": "A PMHNP is teaching about the neurobiological basis of EPS. Which dopamine pathway is involved?",
+    "questionTopics": [
+      "EPS",
+      "antipsychotic"
+    ],
+    "rationaleTopics": [
+      "lithium",
+      "NMS",
+      "EPS",
+      "antipsychotic"
+    ],
+    "rationale": "EPS mechanism: NIGROSTRIATAL PATHWAY dopamine blockade. Movement disorders result from dopamine redu"
+  },
+  {
+    "id": 456,
+    "type": "TOPIC_MISMATCH",
+    "question": "A PMHNP suspects thought disorder in a patient with schizophrenia. What assessment technique should ",
+    "questionTopics": [
+      "antipsychotic"
+    ],
+    "rationaleTopics": [
+      "lithium"
+    ],
+    "rationale": "Assess thought disorder: PROVERB INTERPRETATION tests abstract thinking. Concrete responses suggest "
+  },
+  {
+    "id": 457,
+    "type": "TOPIC_MISMATCH",
+    "question": "A child becomes fearful and worried about dying 2 weeks after a shooting incident near their home. W",
+    "questionTopics": [
+      "lithium"
+    ],
+    "rationaleTopics": [
+      "lithium",
+      "anxiety"
+    ],
+    "rationale": "Child fear after shooting: ACUTE STRESS DISORDER if <1 month since trauma (3 days to 1 month). PTSD "
+  },
+  {
+    "id": 462,
+    "type": "TOPIC_MISMATCH",
+    "question": "A nurse was attacked by a patient 3 weeks ago and is now fearful of returning to work. What is the d",
+    "questionTopics": [
+      "NMS"
+    ],
+    "rationaleTopics": [
+      "clozapine",
+      "NMS",
+      "depression",
+      "psychotherapy"
+    ],
+    "rationale": "Symptoms 3 weeks after attack: ACUTE STRESS DISORDER (3 days to 1 month duration). Features: intrusi"
+  },
+  {
+    "id": 464,
+    "type": "RATIONALE_ANSWER_MISMATCH",
+    "correctOption": "PSEUDODEMENTIA (depression-related, reversible)",
+    "rationale": "Staff feeding patient extra food: CONSULT and EDUCATE staff about treatment plan. Refeeding must be "
+  },
+  {
+    "id": 465,
+    "type": "TOPIC_MISMATCH",
+    "question": "A patient develops acute dystonia with neck stiffness after starting an antipsychotic. What medicati",
+    "questionTopics": [
+      "lithium",
+      "NMS",
+      "EPS",
+      "antipsychotic"
+    ],
+    "rationaleTopics": [
+      "lithium",
+      "EPS",
+      "benzodiazepine"
+    ],
+    "rationale": "Acute dystonia treatment: BENZTROPINE (anticholinergic) is correct. Diphenhydramine (Benadryl) also "
+  },
+  {
+    "id": 465,
+    "type": "RATIONALE_ANSWER_MISMATCH",
+    "correctOption": "Another antipsychotic",
+    "rationale": "Acute dystonia treatment: BENZTROPINE (anticholinergic) is correct. Diphenhydramine (Benadryl) also "
+  },
+  {
+    "id": 468,
+    "type": "TOPIC_MISMATCH",
+    "question": "A patient with fibromyalgia asks why benzodiazepines are not recommended. What should the PMHNP expl",
+    "questionTopics": [
+      "benzodiazepine"
+    ],
+    "rationaleTopics": [
+      "lithium",
+      "benzodiazepine",
+      "psychotherapy"
+    ],
+    "rationale": "Fibromyalgia treatment: DO NOT give benzos (worsen fatigue, dependence risk). Use: TCAs (amitriptyli"
+  },
+  {
+    "id": 471,
+    "type": "TOPIC_MISMATCH",
+    "question": "A patient on lithium is taking meloxicam (Mobic) for arthritis. What intervention is needed?",
+    "questionTopics": [
+      "lithium"
+    ],
+    "rationaleTopics": [
+      "lithium",
+      "clozapine"
+    ],
+    "rationale": "Lithium + NSAIDs: DECREASE LITHIUM dose. NSAIDs (Indocin, Mobic, ibuprofen) reduce renal clearance →"
+  },
+  {
+    "id": 472,
+    "type": "TOPIC_MISMATCH",
+    "question": "A patient on long-term metoclopramide (Reglan) develops involuntary facial movements. What complicat",
+    "questionTopics": [
+      "lithium"
+    ],
+    "rationaleTopics": [
+      "lithium",
+      "NMS",
+      "tardive dyskinesia",
+      "EPS",
+      "antipsychotic"
+    ],
+    "rationale": "Reglan (metoclopramide): causes TARDIVE DYSKINESIA. Dopamine blocker like antipsychotics. FDA Black "
+  },
+  {
+    "id": 477,
+    "type": "TOPIC_MISMATCH",
+    "question": "A patient with alcohol use disorder AND liver disease is in withdrawal. Which benzodiazepine is pref",
+    "questionTopics": [
+      "SSRI discontinuation",
+      "lithium",
+      "benzodiazepine"
+    ],
+    "rationaleTopics": [
+      "SSRI discontinuation",
+      "lithium",
+      "valproate",
+      "clozapine",
+      "NMS",
+      "benzodiazepine"
+    ],
+    "rationale": "ALCOHOL + LIVER: LORAZEPAM for withdrawal (glucuronidation metabolism). HEPATIC ENCEPHALOPATHY vs AL"
+  },
+  {
+    "id": 481,
+    "type": "TOPIC_MISMATCH",
+    "question": "A patient stabilized on carbamazepine (Tegretol) is prescribed erythromycin for a respiratory infect",
+    "questionTopics": [
+      "lithium",
+      "carbamazepine"
+    ],
+    "rationaleTopics": [
+      "carbamazepine",
+      "NMS"
+    ],
+    "rationale": "Tegretol + erythromycin = DECREASE Tegretol. High-yield CYP facts: (1) 3A4 = most common CYP, (2) 2D"
+  },
+  {
+    "id": 483,
+    "type": "TOPIC_MISMATCH",
+    "question": "A PMHNP is explaining the recovery model to a patient with schizophrenia. Which principle is CENTRAL",
+    "questionTopics": [
+      "antipsychotic"
+    ],
+    "rationaleTopics": [
+      "lithium"
+    ],
+    "rationale": "Recovery model: gives HOPE to patient. Person-centered, empowerment-focused. Beyond symptom reductio"
+  },
+  {
+    "id": 491,
+    "type": "TOPIC_MISMATCH",
+    "question": "A PMHNP is conducting a medication reconciliation for a patient who just learned she is pregnant. Wh",
+    "questionTopics": [
+      "SSRI discontinuation",
+      "lithium",
+      "valproate"
+    ],
+    "rationaleTopics": [
+      "lithium",
+      "clozapine"
+    ],
+    "rationale": "Pregnancy teratogen: ACCUTANE (isotretinoin) Category X. Causes severe birth defects: craniofacial, "
+  },
+  {
+    "id": 496,
+    "type": "TOPIC_MISMATCH",
+    "question": "A patient taking an MAOI presents with severe headache, hypertension, and diaphoresis after eating a",
+    "questionTopics": [
+      "MAOIs"
+    ],
+    "rationaleTopics": [
+      "NMS",
+      "MAOIs"
+    ],
+    "rationale": "MAOI + tyramine crisis: HYPERTENSIVE EMERGENCY. Priority: IV PHENTOLAMINE (alpha-blocker) or nifedip"
+  },
+  {
+    "id": 497,
+    "type": "TOPIC_MISMATCH",
+    "question": "What is the first-line pharmacological treatment for social anxiety disorder according to evidence-b",
+    "questionTopics": [
+      "lithium",
+      "anxiety"
+    ],
+    "rationaleTopics": [
+      "SSRI discontinuation",
+      "lithium",
+      "clozapine",
+      "NMS",
+      "benzodiazepine",
+      "anxiety",
+      "psychotherapy"
+    ],
+    "rationale": "Social anxiety first-line: SSRIs or SNRIs. Paroxetine, sertraline FDA-approved. Beta-blockers for pe"
+  },
+  {
+    "id": 498,
+    "type": "TOPIC_MISMATCH",
+    "question": "A patient reports their antidepressant is no longer working after 2 years of effective treatment. Wh",
+    "questionTopics": [
+      "depression"
+    ],
+    "rationaleTopics": [
+      "lithium",
+      "depression"
+    ],
+    "rationale": "Antidepressant poop-out: TACHYPHYLAXIS. Loss of response after initial efficacy. Options: dose incre"
+  },
+  {
+    "id": 499,
+    "type": "TOPIC_MISMATCH",
+    "question": "During a mental status exam, a patient states: 'I went to the store, the door, the floor, explore.' ",
+    "questionTopics": [
+      "clozapine"
+    ],
+    "rationaleTopics": [
+      "lithium",
+      "antipsychotic",
+      "bipolar"
+    ],
+    "rationale": "Clanging: speech based on SOUND rather than meaning. 'Store, door, floor, explore'—words connected b"
+  }
+]

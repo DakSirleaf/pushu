@@ -1,0 +1,662 @@
+[
+  {
+    "id": 1,
+    "front": "What PHQ-9 score indicates clinical depression needing treatment?",
+    "back": "≥10 (Moderate depression)\n• 0-4: Minimal\n• 5-9: Mild\n• 10-14: Moderate\n• 15-19: Moderately Severe\n• 20-27: Severe",
+    "category": "assessment-scales---cutoff-scores"
+  },
+  {
+    "id": 2,
+    "front": "What MMSE score indicates cognitive impairment?",
+    "back": "<24\n• 25-30: Normal\n• 21-24: Mild impairment\n• 10-20: Moderate impairment\n• 0-9: Severe impairment",
+    "category": "assessment-scales---cutoff-scores"
+  },
+  {
+    "id": 3,
+    "front": "At what CIWA score do you start benzodiazepines?",
+    "back": ">8\n• 0-9: Normal\n• 10-15: Mild → Standing benzos\n• 16-20: Moderate → Standing benzos\n• 21+: Severe → Standing benzos",
+    "category": "assessment-scales---cutoff-scores"
+  },
+  {
+    "id": 4,
+    "front": "At what COWS score do you start buprenorphine?",
+    "back": ">7 (especially >13 for standing medication)\n• 0-4: None\n• 5-12: Mild → PRN\n• 13-24: Moderate → Standing med\n• 25-35: Moderate-Severe\n• 36+: Severe",
+    "category": "assessment-scales---cutoff-scores"
+  },
+  {
+    "id": 5,
+    "front": "What GAD-7 score indicates clinical anxiety?",
+    "back": "≥10\n• 0-4: Minimal\n• 5-9: Mild\n• 10-14: Moderate\n• 15-21: Severe",
+    "category": "assessment-scales---cutoff-scores"
+  },
+  {
+    "id": 6,
+    "front": "What HAM-D score indicates severe depression?",
+    "back": "≥19\n• 0-7: Normal\n• 8-13: Mild\n• 14-18: Moderate\n• 19+: Severe",
+    "category": "assessment-scales---cutoff-scores"
+  },
+  {
+    "id": 7,
+    "front": "What BECK score indicates moderate depression?",
+    "back": "20-28\n• 0-13: Minimal\n• 14-19: Mild\n• 20-28: Moderate\n• 29-63: Severe",
+    "category": "assessment-scales---cutoff-scores"
+  },
+  {
+    "id": 8,
+    "front": "What is the therapeutic lithium level for maintenance?",
+    "back": "0.6-1.2 mEq/L\n• Acute mania: 0.8-1.2\n• Maintenance: 0.6-1.0\n• Toxicity: >1.5",
+    "category": "lithium"
+  },
+  {
+    "id": 9,
+    "front": "When do you draw lithium levels?",
+    "back": "12 hours after last dose (trough level)",
+    "category": "lithium"
+  },
+  {
+    "id": 10,
+    "front": "Which medications can DOUBLE lithium levels?",
+    "back": "NSAIDs and ACE inhibitors\n• Avoid ibuprofen, naproxen\n• Use acetaminophen instead",
+    "category": "lithium"
+  },
+  {
+    "id": 11,
+    "front": "What is the #1 cause of lithium toxicity?",
+    "back": "DEHYDRATION\n• Educate patients to stay hydrated!",
+    "category": "lithium"
+  },
+  {
+    "id": 12,
+    "front": "What is the most common endocrine side effect of lithium?",
+    "back": "HYPOTHYROIDISM\n• Monitor TSH every 6-12 months\n• Do NOT stop lithium - add levothyroxine",
+    "category": "lithium"
+  },
+  {
+    "id": 13,
+    "front": "What is the most common renal side effect of lithium?",
+    "back": "Polyuria and polydipsia (excessive urination/thirst)\n• Can cause nephrogenic diabetes insipidus",
+    "category": "lithium"
+  },
+  {
+    "id": 14,
+    "front": "What is the risk of lithium in pregnancy?",
+    "back": "Ebstein's Anomaly (cardiac defect - tricuspid valve)\n• Pregnancy Category D\n• Always get pregnancy test first!",
+    "category": "lithium"
+  },
+  {
+    "id": 15,
+    "front": "What genetic test is required before starting Tegretol in Asians?",
+    "back": "HLA-B*1502 (Stevens-Johnson Syndrome risk)",
+    "category": "mood-stabilizers"
+  },
+  {
+    "id": 16,
+    "front": "Is carbamazepine an inducer or inhibitor?",
+    "back": "INDUCER (hepatic enzyme)\n• Lowers levels of other drugs\n• Including oral contraceptives!",
+    "category": "mood-stabilizers"
+  },
+  {
+    "id": 17,
+    "front": "What is the biggest pregnancy risk with Depakote?",
+    "back": "Spina bifida (neural tube defects)\n• 1-2% risk (10-20x normal)\n• Always get pregnancy test!\n• Give folic acid 5 mg/day",
+    "category": "mood-stabilizers"
+  },
+  {
+    "id": 18,
+    "front": "What is the loading dose of Depakote for acute mania?",
+    "back": "20 mg/kg",
+    "category": "mood-stabilizers"
+  },
+  {
+    "id": 19,
+    "front": "Which is better for rapid cycling bipolar?",
+    "back": "Depakote (more effective than lithium for rapid cycling and mixed episodes)",
+    "category": "mood-stabilizers"
+  },
+  {
+    "id": 20,
+    "front": "Why must you titrate Lamictal slowly?",
+    "back": "Stevens-Johnson Syndrome risk\n• Start 25 mg x 2 weeks → 50 mg x 2 weeks → 100 mg\n• Even SLOWER if on valproate (inhibitor)",
+    "category": "mood-stabilizers"
+  },
+  {
+    "id": 21,
+    "front": "At what ANC level do you INTERRUPT clozapine?",
+    "back": "ANC 1000-1499\n• ≥1500: Continue\n• 1000-1499: Interrupt, monitor daily\n• 500-999: STOP, do not rechallenge\n• <500: STOP PERMANENTLY",
+    "category": "antipsychotics"
+  },
+  {
+    "id": 22,
+    "front": "What happens to clozapine levels if patient QUITS smoking?",
+    "back": "Levels DOUBLE (toxicity risk!)\n• Smoking is CYP1A2 inducer\n• Must reduce dose when quitting",
+    "category": "antipsychotics"
+  },
+  {
+    "id": 23,
+    "front": "Why do you need baseline ECG before Geodon?",
+    "back": "QTc prolongation risk → Torsades de Pointes\n• Do NOT use if QTc >500 msec",
+    "category": "antipsychotics"
+  },
+  {
+    "id": 24,
+    "front": "Which antipsychotic has HIGHEST metabolic side effects?",
+    "back": "Clozapine (#1), then Olanzapine (#2)\n• \"COZY\" = Clozapine and Olanzapine are cozy with weight gain!",
+    "category": "antipsychotics"
+  },
+  {
+    "id": 25,
+    "front": "Which antipsychotic has LOWEST metabolic risk?",
+    "back": "Ziprasidone or Lurasidone",
+    "category": "antipsychotics"
+  },
+  {
+    "id": 26,
+    "front": "Which antipsychotics cause MORE EPS?",
+    "back": "TYPICAL (first-generation)\n• Haldol, Thorazine, Fluphenazine\n• Atypicals have LOWER EPS, HIGHER metabolic effects",
+    "category": "antipsychotics"
+  },
+  {
+    "id": 27,
+    "front": "How do you distinguish NMS from Serotonin Syndrome?",
+    "back": "\n• NMS: Lead pipe rigidity, HYPOreflexia\n• SS: Hyperreflexia, myoclonus\n• NMS: Slow onset (days-weeks)\n• SS: Rapid onset (hours)",
+    "category": "antipsychotics"
+  },
+  {
+    "id": 28,
+    "front": "What are the cardinal signs of NMS?",
+    "back": "FEVER\n• **F**ever\n• **E**ncephalopathy (altered mental status)\n• **V**ital sign instability\n• **E**levated enzymes (CPK, WBC)\n• **R**igidity (lead pipe)",
+    "category": "antipsychotics"
+  },
+  {
+    "id": 29,
+    "front": "What is the mechanism of SSRIs?",
+    "back": "Inhibit serotonin reuptake\n• Examples: Prozac, Zoloft, Paxil, Lexapro, Celexa",
+    "category": "antidepressants"
+  },
+  {
+    "id": 30,
+    "front": "What is the mechanism of Wellbutrin?",
+    "back": "NDRI (Norepinephrine-Dopamine Reuptake Inhibitor)\n• No sexual side effects\n• Helps with smoking cessation",
+    "category": "antidepressants"
+  },
+  {
+    "id": 31,
+    "front": "What is the major contraindication for Wellbutrin?",
+    "back": "Eating disorders (bulimia, anorexia)\n• Lowers seizure threshold\n• Electrolyte abnormalities increase seizure risk",
+    "category": "antidepressants"
+  },
+  {
+    "id": 32,
+    "front": "What is the ONLY FDA-approved medication for bulimia?",
+    "back": "Prozac (fluoxetine) 60 mg/day",
+    "category": "antidepressants"
+  },
+  {
+    "id": 33,
+    "front": "What antidepressant is best for patient who wants to quit smoking?",
+    "back": "Wellbutrin (Bupropion/Zyban)\n• FDA-approved for both",
+    "category": "antidepressants"
+  },
+  {
+    "id": 34,
+    "front": "What antidepressant is best for patient with depression and insomnia?",
+    "back": "Mirtazapine (Remeron) or Trazodone\n• Sedating properties",
+    "category": "antidepressants"
+  },
+  {
+    "id": 35,
+    "front": "What antidepressant treats both depression and neuropathic pain?",
+    "back": "Duloxetine (Cymbalta) - SNRI\n• FDA-approved for diabetic neuropathy",
+    "category": "antidepressants"
+  },
+  {
+    "id": 36,
+    "front": "Is SSRI Discontinuation Syndrome the same as Serotonin Syndrome?",
+    "back": "NO!\n• Discontinuation = LACK of serotonin (flu-like, brain zaps)\n• Serotonin Syndrome = EXCESS serotonin (hyperreflexia, agitation)",
+    "category": "antidepressants"
+  },
+  {
+    "id": 37,
+    "front": "What are the symptoms of SSRI Discontinuation Syndrome?",
+    "back": "\n• Flu-like symptoms\n• Brain zaps (paresthesias)\n• Dizziness, vertigo\n• Irritability, crying\n• Insomnia",
+    "category": "antidepressants"
+  },
+  {
+    "id": 38,
+    "front": "Name the opioid that causes serotonin syndrome",
+    "back": "Meperidine (Demerol)\n• NEVER combine with MAOIs!\n• Also: SSRIs, TCAs, Tramadol, Trazodone, Buspirone, Cocaine, MDMA",
+    "category": "antidepressants"
+  },
+  {
+    "id": 39,
+    "front": "What medication treats MAOI hypertensive crisis?",
+    "back": "Phentolamine (alpha-blocker)\n• Caused by tyramine-rich foods or sympathomimetics",
+    "category": "antidepressants"
+  },
+  {
+    "id": 40,
+    "front": "At what age should head lag disappear?",
+    "back": "4 months\n• Red flag if persists beyond 4 months",
+    "category": "developmental-milestones"
+  },
+  {
+    "id": 41,
+    "front": "When does the Moro reflex disappear?",
+    "back": "4-6 months",
+    "category": "developmental-milestones"
+  },
+  {
+    "id": 42,
+    "front": "When does the Babinski reflex disappear?",
+    "back": "12-24 months\n• Pathological if persists after 24 months",
+    "category": "developmental-milestones"
+  },
+  {
+    "id": 43,
+    "front": "What is Erikson's stage for infancy?",
+    "back": "Trust vs. Mistrust",
+    "category": "developmental-milestones"
+  },
+  {
+    "id": 44,
+    "front": "What is Erikson's stage for ages 1-3?",
+    "back": "Autonomy vs. Shame and Doubt",
+    "category": "developmental-milestones"
+  },
+  {
+    "id": 45,
+    "front": "What is Erikson's stage for adolescence?",
+    "back": "Identity vs. Role Confusion",
+    "category": "developmental-milestones"
+  },
+  {
+    "id": 46,
+    "front": "What is Erikson's stage for middle adulthood?",
+    "back": "Generativity vs. Stagnation",
+    "category": "developmental-milestones"
+  },
+  {
+    "id": 47,
+    "front": "What is Piaget's stage for ages 2-7?",
+    "back": "Preoperational",
+    "category": "developmental-milestones"
+  },
+  {
+    "id": 48,
+    "front": "What is Piaget's stage for ages 7-11?",
+    "back": "Concrete Operational",
+    "category": "developmental-milestones"
+  },
+  {
+    "id": 49,
+    "front": "When does object permanence develop?",
+    "back": "8-12 months",
+    "category": "developmental-milestones"
+  },
+  {
+    "id": 50,
+    "front": "What is the minimum duration for Major Depressive Disorder?",
+    "back": "2 weeks",
+    "category": "diagnostic-criteria---timelines"
+  },
+  {
+    "id": 51,
+    "front": "What is the minimum duration for Generalized Anxiety Disorder?",
+    "back": "6 months",
+    "category": "diagnostic-criteria---timelines"
+  },
+  {
+    "id": 52,
+    "front": "What is the minimum duration for PTSD?",
+    "back": "1 month (after trauma)",
+    "category": "diagnostic-criteria---timelines"
+  },
+  {
+    "id": 53,
+    "front": "Within what timeframe must Adjustment Disorder symptoms begin?",
+    "back": "Within 3 months of stressor",
+    "category": "diagnostic-criteria---timelines"
+  },
+  {
+    "id": 54,
+    "front": "What is the minimum duration for schizophrenia diagnosis?",
+    "back": "6 months (including prodrome)",
+    "category": "diagnostic-criteria---timelines"
+  },
+  {
+    "id": 55,
+    "front": "What is the duration for Brief Psychotic Disorder?",
+    "back": "<1 month",
+    "category": "diagnostic-criteria---timelines"
+  },
+  {
+    "id": 56,
+    "front": "What is the duration for Schizophreniform Disorder?",
+    "back": "1-6 months",
+    "category": "diagnostic-criteria---timelines"
+  },
+  {
+    "id": 57,
+    "front": "What are the Cluster A personality disorders?",
+    "back": "\n• Paranoid\n• Schizoid\n• Schizotypal\n• (Odd, eccentric, suspicious)",
+    "category": "personality-disorders"
+  },
+  {
+    "id": 58,
+    "front": "What are the Cluster B personality disorders?",
+    "back": "\n• Antisocial\n• Borderline\n• Histrionic\n• Narcissistic\n• (Dramatic, emotional, impulsive)",
+    "category": "personality-disorders"
+  },
+  {
+    "id": 59,
+    "front": "What are the Cluster C personality disorders?",
+    "back": "\n• Avoidant\n• Dependent\n• Obsessive-Compulsive PD\n• (Anxious, fearful)",
+    "category": "personality-disorders"
+  },
+  {
+    "id": 60,
+    "front": "What should you ALWAYS ask about with Borderline PD?",
+    "back": "Childhood sexual abuse\n• High correlation with trauma",
+    "category": "personality-disorders"
+  },
+  {
+    "id": 61,
+    "front": "What is the gold standard treatment for Borderline PD?",
+    "back": "DBT (Dialectical Behavior Therapy)",
+    "category": "personality-disorders"
+  },
+  {
+    "id": 62,
+    "front": "What substance use disorder is most common with Antisocial PD?",
+    "back": "Alcohol (ETOH) abuse",
+    "category": "personality-disorders"
+  },
+  {
+    "id": 63,
+    "front": "What does EMDR stand for?",
+    "back": "Eye Movement Desensitization and Reprocessing\n• Used for PTSD",
+    "category": "psychotherapy"
+  },
+  {
+    "id": 64,
+    "front": "What is the first-line therapy for OCD?",
+    "back": "CBT with Exposure and Response Prevention (ERP)",
+    "category": "psychotherapy"
+  },
+  {
+    "id": 65,
+    "front": "What is the first-line medication for pediatric OCD?",
+    "back": "Zoloft (Sertraline) - FDA-approved age 6+\n• Also: Prozac (age 7+), Luvox (age 8+)",
+    "category": "psychotherapy"
+  },
+  {
+    "id": 66,
+    "front": "What does OARS stand for in Motivational Interviewing?",
+    "back": "\n• **O**pen-ended questions\n• **A**ffirmations\n• **R**eflective listening\n• **S**ummaries",
+    "category": "psychotherapy"
+  },
+  {
+    "id": 67,
+    "front": "What is the difference between transference and countertransference?",
+    "back": "\n• **Transference:** Patient's feelings toward therapist\n• **Countertransference:** Therapist's feelings toward patient",
+    "category": "psychotherapy"
+  },
+  {
+    "id": 68,
+    "front": "What is the \"identified patient\" in family therapy?",
+    "back": "The family member presenting with symptoms (symptom bearer)\n• Dysfunction is in the SYSTEM, not just the individual",
+    "category": "psychotherapy"
+  },
+  {
+    "id": 69,
+    "front": "What are the primary functions of the frontal lobe?",
+    "back": "\n• Executive function\n• Motor control\n• Speech production (Broca's area)\n• Personality, impulse control",
+    "category": "neuroscience"
+  },
+  {
+    "id": 70,
+    "front": "What are the primary functions of the temporal lobe?",
+    "back": "\n• Hearing\n• Memory (hippocampus)\n• Language comprehension (Wernicke's area)\n• Emotion (amygdala)",
+    "category": "neuroscience"
+  },
+  {
+    "id": 71,
+    "front": "What are the primary functions of the parietal lobe?",
+    "back": "\n• Sensory processing\n• Spatial awareness\n• Proprioception",
+    "category": "neuroscience"
+  },
+  {
+    "id": 72,
+    "front": "What are the primary functions of the occipital lobe?",
+    "back": "Vision (visual processing)",
+    "category": "neuroscience"
+  },
+  {
+    "id": 73,
+    "front": "What is the primary function of the amygdala?",
+    "back": "Emotional center (fear, anxiety, aggression)",
+    "category": "neuroscience"
+  },
+  {
+    "id": 74,
+    "front": "What is the primary function of the hippocampus?",
+    "back": "Memory formation and consolidation",
+    "category": "neuroscience"
+  },
+  {
+    "id": 75,
+    "front": "What is the primary function of the prefrontal cortex?",
+    "back": "Executive function (planning, decision-making, impulse control)",
+    "category": "neuroscience"
+  },
+  {
+    "id": 76,
+    "front": "What neurotransmitter is deficient in Parkinson's disease?",
+    "back": "Dopamine",
+    "category": "neuroscience"
+  },
+  {
+    "id": 77,
+    "front": "What neurotransmitter is deficient in Alzheimer's disease?",
+    "back": "Acetylcholine",
+    "category": "neuroscience"
+  },
+  {
+    "id": 78,
+    "front": "What is the Tarasoff duty to warn?",
+    "back": "If patient makes credible threat against identifiable person, you MUST:",
+    "category": "ethics-&-legal"
+  },
+  {
+    "id": 79,
+    "front": "What is the difference between competence and capacity?",
+    "back": "\n• **Competence:** Legal determination by court\n• **Capacity:** Clinical assessment by provider",
+    "category": "ethics-&-legal"
+  },
+  {
+    "id": 80,
+    "front": "What is Habeas Corpus?",
+    "back": "Right to hearing/review of involuntary commitment\n• \"Produce the body\"",
+    "category": "ethics-&-legal"
+  },
+  {
+    "id": 81,
+    "front": "What are the criteria for involuntary commitment?",
+    "back": "Mental illness AND:\n• Danger to self OR\n• Danger to others OR\n• Gravely disabled (cannot meet basic needs)",
+    "category": "ethics-&-legal"
+  },
+  {
+    "id": 82,
+    "front": "What state must you be licensed in for telepsychiatry?",
+    "back": "The state where the PATIENT is located",
+    "category": "ethics-&-legal"
+  },
+  {
+    "id": 83,
+    "front": "What is the highest level of evidence for clinical practice?",
+    "back": "Systematic reviews and meta-analyses of RCTs",
+    "category": "ethics-&-legal"
+  },
+  {
+    "id": 84,
+    "front": "Which demographic has the HIGHEST suicide completion rate?",
+    "back": "White males in midlife (age 40-60)",
+    "category": "special-populations"
+  },
+  {
+    "id": 85,
+    "front": "When is the highest risk period for suicide after psychiatric hospitalization?",
+    "back": "First week, especially first 24-48 hours",
+    "category": "special-populations"
+  },
+  {
+    "id": 86,
+    "front": "What is the medication principle for elderly patients?",
+    "back": "\"Start low, go slow\"\n• More sensitive to side effects",
+    "category": "special-populations"
+  },
+  {
+    "id": 87,
+    "front": "Which mood stabilizer has the highest teratogenic risk?",
+    "back": "Depakote (Valproic Acid) → Spina bifida",
+    "category": "special-populations"
+  },
+  {
+    "id": 88,
+    "front": "Which mood stabilizer is safest in pregnancy?",
+    "back": "Lamictal (Lamotrigine)",
+    "category": "special-populations"
+  },
+  {
+    "id": 89,
+    "front": "What is the pregnancy risk with lithium?",
+    "back": "Ebstein's Anomaly (cardiac defect)\n• ALWAYS get pregnancy test before starting!",
+    "category": "special-populations"
+  },
+  {
+    "id": 90,
+    "front": "When should you get ECG before starting ADHD stimulants?",
+    "back": "Family history of:\n• Sudden cardiac death\n• Cardiomyopathy\n• Long QT syndrome\n• Arrhythmias",
+    "category": "special-populations"
+  },
+  {
+    "id": 91,
+    "front": "What is the first-line medication for pediatric ADHD?",
+    "back": "Stimulants (Methylphenidate or Amphetamine)",
+    "category": "special-populations"
+  },
+  {
+    "id": 92,
+    "front": "What is the first-line medication for pediatric depression?",
+    "back": "SSRIs (Prozac or Lexapro)\n• Prozac FDA-approved age 8+\n• Lexapro FDA-approved age 12+",
+    "category": "special-populations"
+  },
+  {
+    "id": 93,
+    "front": "What is cultural humility?",
+    "back": "Lifelong process of:\n• Self-reflection\n• Recognizing power imbalances\n• Learning FROM patients about THEIR culture",
+    "category": "special-populations"
+  },
+  {
+    "id": 94,
+    "front": "What is the FIRST thing you do when patient discloses rape?",
+    "back": "Reassure her of SAFETY\n• Then: Medical care, evidence preservation, support",
+    "category": "special-populations"
+  },
+  {
+    "id": 95,
+    "front": "What is the #1 priority in crisis intervention?",
+    "back": "SAFETY assessment\n• Danger to self/others",
+    "category": "crisis-&-emergency"
+  },
+  {
+    "id": 96,
+    "front": "What is the difference between suicidal ideation and intent?",
+    "back": "\n• **Ideation:** Thoughts of suicide\n• **Intent:** Plan and determination to act",
+    "category": "crisis-&-emergency"
+  },
+  {
+    "id": 97,
+    "front": "When are restraints/seclusion appropriate?",
+    "back": "ONLY when:\n• Imminent danger to self/others AND\n• Less restrictive interventions have failed",
+    "category": "crisis-&-emergency"
+  },
+  {
+    "id": 98,
+    "front": "How often must you check a patient in restraints?",
+    "back": "Q15 minutes\n• Offer food/water/bathroom\n• Remove ASAP",
+    "category": "crisis-&-emergency"
+  },
+  {
+    "id": 99,
+    "front": "What labs should you check before diagnosing depression?",
+    "back": "\n• TSH\n• CBC\n• CMP\n• Vitamin D\n• B12",
+    "category": "integrated-care"
+  },
+  {
+    "id": 100,
+    "front": "What are the classic symptoms of hypothyroidism? (Remember: Everything slows down)",
+    "back": "\n• Weight gain\n• Cold intolerance\n• Thick, dry skin\n• Heavy periods\n• Depression\n• Bradycardia\n• Constipation",
+    "category": "integrated-care"
+  },
+  {
+    "id": 101,
+    "front": "High TSH indicates what?",
+    "back": "HYPOTHYROIDISM (low thyroid function)\n• Remember: TSH and T4 are INVERSE",
+    "category": "integrated-care"
+  },
+  {
+    "id": 102,
+    "front": "What is harm reduction?",
+    "back": "Practical strategies to reduce negative consequences WITHOUT requiring abstinence\n• Examples: Needle exchange, naloxone distribution",
+    "category": "integrated-care"
+  },
+  {
+    "id": 103,
+    "front": "What is medication-assisted treatment (MAT) for opioid use?",
+    "back": "Buprenorphine or Methadone + Counseling",
+    "category": "integrated-care"
+  },
+  {
+    "id": 104,
+    "front": "What is required to perform biofeedback?",
+    "back": "CERTIFICATION (BCIA)",
+    "category": "integrated-care"
+  },
+  {
+    "id": 105,
+    "front": "How many criteria are needed for metabolic syndrome diagnosis?",
+    "back": "3 out of 5:",
+    "category": "integrated-care"
+  },
+  {
+    "id": 106,
+    "front": "Can NPs recommend medical marijuana?",
+    "back": "VARIES BY STATE - Know your state laws\n• Federal law: Still Schedule I",
+    "category": "integrated-care"
+  },
+  {
+    "id": 107,
+    "front": "Which antipsychotics have highest metabolic risk?",
+    "back": "COZY = **C**lozapine and **O**lan**ZY**apine",
+    "category": "quick-mnemonics"
+  },
+  {
+    "id": 108,
+    "front": "What does TIRED stand for in hypothyroidism?",
+    "back": "\n• **T**hick skin, hair loss\n• **I**rregular/heavy periods\n• **R**eflex delay\n• **E**dema (myxedema)\n• **D**epression, weight gain",
+    "category": "quick-mnemonics"
+  },
+  {
+    "id": 109,
+    "front": "What does FEVER stand for in NMS?",
+    "back": "\n• **F**ever\n• **E**ncephalopathy\n• **V**ital sign instability\n• **E**levated enzymes\n• **R**igidity",
+    "category": "quick-mnemonics"
+  },
+  {
+    "id": 110,
+    "front": "Why think of PACU patients for serotonin syndrome?",
+    "back": "Post-op patients get:\n• Meperidine (Demerol) for pain\n• Ondansetron (Zofran) for nausea\n• May already be on SSRIs",
+    "category": "quick-mnemonics"
+  }
+]

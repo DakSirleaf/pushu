@@ -1,0 +1,786 @@
+[
+  {
+    "id": 2,
+    "type": "MISSING_TOPIC_IN_RATIONALE",
+    "topic": "ECT",
+    "question": "A patient started on an SSRI and tramadol two days ago now presents with agitation, diaphoresis, and muscle twitching. W",
+    "rationale": "Serotonin syndrome presents with tachycardia, hyperthermia, hyperreflexia, and muscle twitching. This is a medical emergency. Teach patient: Seek ER i",
+    "correctAnswer": "Tachycardia, hyperreflexia, and hyperthermia"
+  },
+  {
+    "id": 5,
+    "type": "MISSING_TOPIC_IN_RATIONALE",
+    "topic": "ECT",
+    "question": "A PMHNP is selecting an antipsychotic for a patient with schizophrenia who has a BMI of 32 and prediabetes. Which antips",
+    "rationale": "Clozapine carries the highest metabolic risk: weight gain, diabetes, dyslipidemia. Teach patient: Monitor weight weekly, report increased thirst/urina",
+    "correctAnswer": "Clozapine (Clozaril)"
+  },
+  {
+    "id": 22,
+    "type": "MISSING_TOPIC_IN_RATIONALE",
+    "topic": "Bupropion",
+    "question": "A patient asks the PMHNP how bupropion (Wellbutrin) works differently from SSRIs. Which response accurately describes bu",
+    "rationale": "Wellbutrin is an NDRI—blocks norepinephrine and dopamine reuptake. Activating effect, no sexual side effects. Teach patient: May increase energy; take",
+    "correctAnswer": "It is a norepinephrine-dopamine reuptake inhibitor (NDRI)"
+  },
+  {
+    "id": 26,
+    "type": "MISSING_TOPIC_IN_RATIONALE",
+    "topic": "ECT",
+    "question": "A PMHNP is selecting an antipsychotic for a patient with a history of QTc prolongation on EKG. Which antipsychotic requi",
+    "rationale": "ZIPRASIDONE (GEODON) requires baseline EKG due to QTc prolongation risk. Can cause fatal arrhythmias (Torsades de Pointes). Contraindicated if QTc >50",
+    "correctAnswer": "Ziprasidone (Geodon)"
+  },
+  {
+    "id": 31,
+    "type": "MISSING_TOPIC_IN_RATIONALE",
+    "topic": "ECT",
+    "question": "A patient on lithium reports starting ibuprofen for knee pain. The PMHNP should advise that NSAIDs affect lithium levels",
+    "rationale": "NSAIDs DECREASE RENAL CLEARANCE of lithium by inhibiting prostaglandin synthesis in kidneys. This reduces GFR and sodium excretion, leading to increas",
+    "correctAnswer": "Decreasing renal clearance of lithium, raising levels"
+  },
+  {
+    "id": 34,
+    "type": "MISSING_TOPIC_IN_RATIONALE",
+    "topic": "CIWA",
+    "question": "A patient presents with tremors, diaphoresis, and tachycardia 24 hours after his last alcoholic drink. The CIWA-Ar score",
+    "rationale": "ALCOHOL WITHDRAWAL + WERNICKE'S PREVENTION: Give THIAMINE (B1) BEFORE glucose in alcoholics! Glucose without thiamine→precipitates Wernicke's encephal",
+    "correctAnswer": "Anticonvulsants"
+  },
+  {
+    "id": 35,
+    "type": "MISSING_TOPIC_IN_RATIONALE",
+    "topic": "COWS",
+    "question": "A patient with opioid use disorder presents in moderate withdrawal with COWS score of 16. Which medication is appropriat",
+    "rationale": "Buprenorphine or methadone treat opioid use disorder. Buprenorphine can be prescribed in office; methadone requires clinic. Both reduce cravings and p",
+    "correctAnswer": "Buprenorphine or methadone"
+  },
+  {
+    "id": 36,
+    "type": "MISSING_TOPIC_IN_RATIONALE",
+    "topic": "Haloperidol",
+    "question": "A patient on haloperidol develops high fever (104°F), severe muscle rigidity, altered mental status, and autonomic insta",
+    "rationale": "NMS tetrad: lead pipe rigidity, high fever (>104°F), altered mental status, autonomic instability. From dopamine blockade. Stop antipsychotic immediat",
+    "correctAnswer": "Malignant hyperthermia"
+  },
+  {
+    "id": 38,
+    "type": "MISSING_TOPIC_IN_RATIONALE",
+    "topic": "EPS",
+    "question": "A PMHNP is comparing first-generation antipsychotics. Which typical antipsychotic has the HIGHEST risk of extrapyramidal",
+    "rationale": "Haldol has highest EPS risk due to strong D2 blockade. Teach patient: Report muscle stiffness, tremor, restlessness. Consider prophylactic benztropine",
+    "correctAnswer": "Thioridazine (Mellaril)"
+  },
+  {
+    "id": 40,
+    "type": "MISSING_TOPIC_IN_RATIONALE",
+    "topic": "Clozapine",
+    "question": "A patient on clozapine is brought to the emergency department obtunded with a CK level of 15,000. The PMHNP suspects rha",
+    "rationale": "Rhabdomyolysis: muscle breakdown releases myoglobin, which damages kidneys. Occurs in NMS. Labs: elevated CK >1000. Treat with IV fluids.",
+    "correctAnswer": "Tardive dyskinesia"
+  },
+  {
+    "id": 46,
+    "type": "MISSING_TOPIC_IN_RATIONALE",
+    "topic": "Buprenorphine",
+    "question": "A patient with opioid use disorder presents in withdrawal. The COWS score is 10. At what score is it appropriate to init",
+    "rationale": "COWS for OPIOID WITHDRAWAL. INTOX vs WITHDRAWAL COMPARISON: OPIOID INTOXICATION: pinpoint pupils (MIOSIS), respiratory depression, sedation, constipat",
+    "correctAnswer": ">8"
+  },
+  {
+    "id": 50,
+    "type": "MISSING_TOPIC_IN_RATIONALE",
+    "topic": "Dementia",
+    "question": "A PMHNP has administered the MMSE to a patient with suspected dementia. What is the correct approach to documenting the ",
+    "rationale": "MMSE documentation: Record total score (X/30) AND specific domain deficits (orientation, registration, attention, recall, language). Tracks progressio",
+    "correctAnswer": "Document the total score AND describe specific domain deficits"
+  },
+  {
+    "id": 65,
+    "type": "MISSING_TOPIC_IN_RATIONALE",
+    "topic": "Piaget",
+    "question": "A mother reports that her 10-month-old infant cries when she hides a toy under a blanket and now searches for it. This d",
+    "rationale": "Object permanence develops 8-12 months—infant understands objects exist even when hidden. This is why peek-a-boo becomes fun! Absence of this mileston",
+    "correctAnswer": "Object permanence developing (8-12 months)"
+  },
+  {
+    "id": 68,
+    "type": "MISSING_TOPIC_IN_RATIONALE",
+    "topic": "Erikson",
+    "question": "A 75-year-old patient reflects on her life with satisfaction and acceptance. According to Erikson, she has successfully ",
+    "rationale": "Hop on one foot by 4 years—gross motor milestone requiring balance and coordination. Teach parents: If child can't do this by 4, discuss with pediatri",
+    "correctAnswer": "Integrity vs. Despair"
+  },
+  {
+    "id": 70,
+    "type": "MISSING_TOPIC_IN_RATIONALE",
+    "topic": "ECT",
+    "question": "During a developmental assessment, a PMHNP notes a 12-month-old child says 'mama' and 'dada' specifically. What is the e",
+    "rationale": "Copy circle by 3 years—fine motor milestone showing visual-motor integration. Progression: circle (3), cross (4), square (5), triangle (6).",
+    "correctAnswer": "Babbling with no meaning"
+  },
+  {
+    "id": 71,
+    "type": "MISSING_TOPIC_IN_RATIONALE",
+    "topic": "BPD",
+    "question": "A patient with borderline personality disorder reports chronic feelings of emptiness, unstable relationships, and recurr",
+    "rationale": "DBT is gold standard for BPD—reduces self-harm and suicidality. Four modules: mindfulness, distress tolerance, emotion regulation, interpersonal effec",
+    "correctAnswer": "Dialectical Behavior Therapy (DBT)"
+  },
+  {
+    "id": 72,
+    "type": "MISSING_TOPIC_IN_RATIONALE",
+    "topic": "PTSD",
+    "question": "A veteran presents with nightmares, hypervigilance, and avoidance behaviors following combat deployment. Which therapeut",
+    "rationale": "BORDERLINE PD: Unstable relationships, self-image, affect. Fear of abandonment, impulsivity, self-harm, chronic emptiness. GOLD STANDARD: DBT (Dialect",
+    "correctAnswer": "Trauma-focused CBT with exposure therapy or EMDR"
+  },
+  {
+    "id": 74,
+    "type": "MISSING_TOPIC_IN_RATIONALE",
+    "topic": "CBT",
+    "question": "A PMHNP is using CBT with a depressed patient who states, 'If I fail this test, my life is ruined.' This represents whic",
+    "rationale": "Cognitive distortions are thinking errors that maintain depression/anxiety: catastrophizing, all-or-nothing thinking, mind reading, fortune telling. T",
+    "correctAnswer": "Cognitive distortion (catastrophizing)"
+  },
+  {
+    "id": 75,
+    "type": "MISSING_TOPIC_IN_RATIONALE",
+    "topic": "BPD",
+    "question": "A PMHNP is explaining DBT components to a patient newly diagnosed with borderline personality disorder. Which skills are",
+    "rationale": "DBT four modules: Mindfulness (present moment), Distress Tolerance (crisis survival), Emotion Regulation (managing feelings), Interpersonal Effectiven",
+    "correctAnswer": "Mindfulness, distress tolerance, emotion regulation, and interpersonal effective"
+  },
+  {
+    "id": 79,
+    "type": "MISSING_TOPIC_IN_RATIONALE",
+    "topic": "Agoraphobia",
+    "question": "A patient with agoraphobia has been avoiding leaving home. The PMHNP recommends gradually accompanying the patient to in",
+    "rationale": "Exposure therapy gradually exposes patients to feared stimuli until anxiety decreases (habituation). Gold standard for phobias. Teach patient: Anxiety",
+    "correctAnswer": "Gradual habituation to reduce anxiety response"
+  },
+  {
+    "id": 89,
+    "type": "MISSING_TOPIC_IN_RATIONALE",
+    "topic": "ECT",
+    "question": "A patient had a stroke affecting the frontal lobe and now exhibits personality changes, disinhibition, and difficulty wi",
+    "rationale": "FRONTAL LOBE: BROCA'S AREA (inferior frontal gyrus)=speech PRODUCTION. Damage=BROCA'S APHASIA (non-fluent, telegraphic speech, preserved comprehension",
+    "correctAnswer": "Executive function, motor control, speech production (Broca's area), and persona"
+  },
+  {
+    "id": 90,
+    "type": "MISSING_TOPIC_IN_RATIONALE",
+    "topic": "ECT",
+    "question": "A patient with a temporal lobe lesion has fluent but nonsensical speech and cannot comprehend spoken language. Which are",
+    "rationale": "TEMPORAL LOBE: WERNICKE'S AREA (posterior superior temporal)=speech COMPREHENSION. Damage=WERNICKE'S APHASIA (fluent but meaningless speech, 'word sal",
+    "correctAnswer": "Wernicke's area (hearing, language comprehension, memory)"
+  },
+  {
+    "id": 108,
+    "type": "MISSING_TOPIC_IN_RATIONALE",
+    "topic": "BPD",
+    "question": "When evaluating a patient with borderline personality disorder who reports chaotic relationships and chronic emptiness, ",
+    "rationale": "CLUSTER B includes HISTRIONIC PD: Excessive emotionality, attention-seeking, seductive behavior. 'Drama queen.' PMHNP: Often present with somatic comp",
+    "correctAnswer": "History of childhood trauma or sexual abuse"
+  },
+  {
+    "id": 109,
+    "type": "MISSING_TOPIC_IN_RATIONALE",
+    "topic": "ASPD",
+    "question": "A 30-year-old male with antisocial personality disorder reports heavy alcohol use. Research indicates which substance us",
+    "rationale": "CLUSTER C includes DEPENDENT PD: Excessive need to be cared for, submissive, clinging, fear of separation. At risk for staying in abusive relationship",
+    "correctAnswer": "Alcohol use disorder"
+  },
+  {
+    "id": 125,
+    "type": "MISSING_TOPIC_IN_RATIONALE",
+    "topic": "ECT",
+    "question": "A family asks the PMHNP to determine if their elderly mother is 'competent' to manage her finances. The PMHNP clarifies ",
+    "rationale": "COMPETENCE: legal determination made by a JUDGE. CAPACITY: clinical assessment made by CLINICIAN. You assess capacity; only courts determine competenc",
+    "correctAnswer": "Competence is a legal determination by court; capacity is a clinical assessment"
+  },
+  {
+    "id": 128,
+    "type": "MISSING_TOPIC_IN_RATIONALE",
+    "topic": "ECT",
+    "question": "A PMHNP is comparing voluntary and involuntary psychiatric admission. Which statement correctly describes voluntary admi",
+    "rationale": "Voluntary: patient consents, can request discharge (usually 72-hour notice). Involuntary: court-ordered for danger to self/others or gravely disabled,",
+    "correctAnswer": "Patient requests admission and can request discharge (with notice period)"
+  },
+  {
+    "id": 132,
+    "type": "MISSING_TOPIC_IN_RATIONALE",
+    "topic": "ADHD",
+    "question": "A PMHNP is establishing a new practice and needs to prescribe controlled substances for patients with ADHD and anxiety. ",
+    "rationale": "Yes—NPs can prescribe controlled substances with DEA registration. Schedules allowed vary by state (most allow II-V). Check state-specific regulations",
+    "correctAnswer": "DEA registration with state-specific schedule limitations"
+  },
+  {
+    "id": 133,
+    "type": "MISSING_TOPIC_IN_RATIONALE",
+    "topic": "EPS",
+    "question": "A PMHNP wants to provide telepsychiatry services to patients in rural areas of a neighboring state. What regulatory requ",
+    "rationale": "Telepsychiatry requires: license in PATIENT'S state (not just yours), HIPAA-compliant video platform, informed consent documenting risks/limitations. ",
+    "correctAnswer": "Licensure in patient's state, HIPAA-compliant platform, and informed consent"
+  },
+  {
+    "id": 148,
+    "type": "MISSING_TOPIC_IN_RATIONALE",
+    "topic": "Lamotrigine",
+    "question": "A 28-year-old woman with bipolar II disorder discovers she is pregnant at 8 weeks gestation. She is currently taking val",
+    "rationale": "Pregnancy: weigh untreated illness vs. medication risks. Untreated depression/psychosis also harms fetus. Get pregnancy test before starting ANY psych",
+    "correctAnswer": "Assess risks vs. benefits of each medication; consider safer alternatives"
+  },
+  {
+    "id": 151,
+    "type": "MISSING_TOPIC_IN_RATIONALE",
+    "topic": "Methylphenidate",
+    "question": "An 8-year-old is diagnosed with ADHD and the PMHNP plans to start methylphenidate. Before initiating stimulant therapy, ",
+    "rationale": "Before stimulants: cardiac history, family history of sudden death, baseline BP/HR. Stimulants can raise BP/HR. Teach parents: If child has chest pain",
+    "correctAnswer": "Cardiac history, family history of sudden death, baseline vital signs"
+  },
+  {
+    "id": 161,
+    "type": "MISSING_TOPIC_IN_RATIONALE",
+    "topic": "ECT",
+    "question": "A patient in the psychiatric unit is agitated but calms down after verbal de-escalation and PRN medication. Later, a nur",
+    "rationale": "Restraints/seclusion ONLY when: (1) imminent danger to self/others, AND (2) less restrictive interventions failed. NEVER for punishment, convenience, ",
+    "correctAnswer": "Only when imminent danger exists AND less restrictive interventions have failed"
+  },
+  {
+    "id": 164,
+    "type": "MISSING_TOPIC_IN_RATIONALE",
+    "topic": "ECT",
+    "question": "A PMHNP is evaluating two patients for involuntary commitment. Patient A expresses passive suicidal ideation. Patient B ",
+    "rationale": "Danger to self: suicide/self-harm risk. Gravely disabled: cannot meet basic needs for survival (food, shelter, clothing) due to mental illness. Both a",
+    "correctAnswer": "Danger to self involves suicide/self-harm risk; gravely disabled means inability"
+  },
+  {
+    "id": 170,
+    "type": "MISSING_TOPIC_IN_RATIONALE",
+    "topic": "Naloxone",
+    "question": "A PMHNP at a community health center provides naloxone kits and education to patients with opioid use disorder, even tho",
+    "rationale": "Harm reduction: meet patients where they are, reduce negative consequences (needle exchange, Narcan distribution, safe injection sites). NOT enabling—",
+    "correctAnswer": "Harm reduction"
+  },
+  {
+    "id": 177,
+    "type": "MISSING_TOPIC_IN_RATIONALE",
+    "topic": "ECT",
+    "question": "A patient taking phenelzine is admitted after eating aged cheese at a party. He presents with severe hypertensive crisis",
+    "rationale": "MAOIs inhibit MAO enzyme (which breaks down serotonin, norepinephrine, dopamine) → more neurotransmitters available. Tyramine restriction required—age",
+    "correctAnswer": "MAOIs inhibit the enzyme that breaks down serotonin, norepinephrine, and dopamin"
+  },
+  {
+    "id": 180,
+    "type": "MISSING_TOPIC_IN_RATIONALE",
+    "topic": "ECT",
+    "question": "A patient is taking trazodone 50mg at bedtime for insomnia but is not experiencing antidepressant effects. The PMHNP exp",
+    "rationale": "SARIs (trazodone): block 5HT-2 receptors AND inhibit serotonin reuptake. Very sedating (often used as sleep aid at low doses). Trazodone risk: priapis",
+    "correctAnswer": "5HT-2 receptor antagonism AND serotonin reuptake inhibition"
+  },
+  {
+    "id": 181,
+    "type": "MISSING_TOPIC_IN_RATIONALE",
+    "topic": "Paroxetine",
+    "question": "A patient stopped paroxetine abruptly 3 days ago and reports flu-like symptoms, dizziness, and 'electric shock' sensatio",
+    "rationale": "SSRI discontinuation = sudden serotonin depletion. Brain adapted to high serotonin levels. Symptoms: insomnia, flu-like feelings, brain zaps. Teach pa",
+    "correctAnswer": "Sudden decrease in serotonin availability after brain adaptation to higher level"
+  },
+  {
+    "id": 185,
+    "type": "MISSING_TOPIC_IN_RATIONALE",
+    "topic": "Delirium",
+    "question": "A patient on antidepressants presents with confusion, delirium, agitation, irritability, ataxia, and incoordination. The",
+    "rationale": "Serotonin Syndrome key features: agitation, confusion, hyperreflexia, tremor, hyperthermia, diaphoresis. Rapid onset (within 24 hours of med change). ",
+    "correctAnswer": "Serotonin Syndrome"
+  },
+  {
+    "id": 187,
+    "type": "MISSING_TOPIC_IN_RATIONALE",
+    "topic": "NMS",
+    "question": "A PMHNP is differentiating serotonin syndrome from neuroleptic malignant syndrome in a patient with fever and altered me",
+    "rationale": "Serotonin syndrome triad: (1) Mental status changes (agitation, confusion), (2) Autonomic instability (tachycardia, diaphoresis, hyperthermia), (3) Ne",
+    "correctAnswer": "Hyperreflexia/clonus, autonomic instability, and mental status changes"
+  },
+  {
+    "id": 202,
+    "type": "MISSING_TOPIC_IN_RATIONALE",
+    "topic": "ECT",
+    "question": "A patient with asthma and bipolar disorder asks if her Flonase nasal spray could affect her mood. What should the PMHNP ",
+    "rationale": "Corticosteroids (prednisone, dexamethasone, Flonase) can induce mania by increasing catecholamines. Even inhaled steroids rarely cause mood changes. T",
+    "correctAnswer": "Corticosteroids (including prednisone, dexamethasone, even inhaled) can induce m"
+  },
+  {
+    "id": 205,
+    "type": "MISSING_TOPIC_IN_RATIONALE",
+    "topic": "ECT",
+    "question": "A patient on lithium presents with slurred speech, confusion, vomiting, and ataxia. Her lithium level is 2.3 mEq/L. Whic",
+    "rationale": "Lithium TOXICITY (>1.5 mEq/L): slurred speech, confusion, ataxia, coarse tremor, severe GI symptoms, cardiac arrhythmias, seizures. STOP lithium immed",
+    "correctAnswer": "Slurred speech, confusion, severe GI symptoms, and ataxia"
+  },
+  {
+    "id": 207,
+    "type": "MISSING_TOPIC_IN_RATIONALE",
+    "topic": "ACE inhibitors",
+    "question": "A patient on lithium reports that her primary care provider started lisinopril for hypertension and she also takes ibupr",
+    "rationale": "Wellbutrin (bupropion): CYP2D6 INHIBITOR—can raise levels of drugs metabolized by 2D6 (TCAs, antipsychotics). Also CYP2B6 substrate. PHARMACODYNAMIC e",
+    "correctAnswer": "Can approximately DOUBLE lithium levels, increasing toxicity risk"
+  },
+  {
+    "id": 218,
+    "type": "MISSING_TOPIC_IN_RATIONALE",
+    "topic": "Dementia",
+    "question": "A PMHNP is using the SLUMS (St. Louis University Mental Status) exam to screen an educated patient for cognitive impairm",
+    "rationale": "SLUMS (0-30) and MoCA (0-30): Both MORE SENSITIVE than MMSE for mild cognitive impairment. MoCA: ≥26=normal, <26=impaired (+1 point if ≤12 yrs educati",
+    "correctAnswer": "21-26 (MCI)"
+  },
+  {
+    "id": 219,
+    "type": "MISSING_TOPIC_IN_RATIONALE",
+    "topic": "Dementia",
+    "question": "A 75-year-old patient is administered the MMSE as part of a dementia workup. She scores 21. What does this score indicat",
+    "rationale": "MMSE (0-30): 24-30=normal, 18-23=mild, 10-17=moderate, <10=severe. WHY MoCA OVER MMSE: (1) MoCA detects MCI missed by MMSE, (2) tests executive functi",
+    "correctAnswer": "Mild cognitive impairment (18-23)"
+  },
+  {
+    "id": 233,
+    "type": "MISSING_TOPIC_IN_RATIONALE",
+    "topic": "Olanzapine",
+    "question": "A patient on olanzapine has gained 25 pounds over 6 months. The PMHNP measures waist circumference as part of metabolic ",
+    "rationale": "Metabolic syndrome: waist circumference is FIRST indicator (central obesity). Criteria: waist >40\" men/>35\" women, triglycerides ≥150, HDL <40 men/<50",
+    "correctAnswer": "Increased waist circumference (central obesity)"
+  },
+  {
+    "id": 234,
+    "type": "MISSING_TOPIC_IN_RATIONALE",
+    "topic": "ECT",
+    "question": "A patient on carbamazepine is prescribed ciprofloxacin for a urinary tract infection. What effect will this interaction ",
+    "rationale": "CYP3A4 is MOST COMMON CYP—metabolizes ~50% of drugs. HIGH-YIELD INHIBITORS: azole antifungals, macrolide antibiotics (erythro, clarithro), grapefruit,",
+    "correctAnswer": "Significantly INCREASED carbamazepine levels due to CYP3A4 inhibition"
+  },
+  {
+    "id": 247,
+    "type": "MISSING_TOPIC_IN_RATIONALE",
+    "topic": "BPD",
+    "question": "A patient with borderline personality disorder presents with chronic emptiness, unstable relationships, and recurrent se",
+    "rationale": "PERSONALITY DISORDER TREATMENT: NO FDA-approved medications for any PD. Meds target SYMPTOMS: SSRIs (depression, anxiety, impulsivity), mood stabilize",
+    "correctAnswer": "Dialectical Behavior Therapy (DBT)"
+  },
+  {
+    "id": 248,
+    "type": "MISSING_TOPIC_IN_RATIONALE",
+    "topic": "ASPD",
+    "question": "A 7-year-old with Oppositional Defiant Disorder is referred for treatment. The parents ask how to prevent progression to",
+    "rationale": "ODD→CONDUCT DISORDER PREVENTION: PARENT MANAGEMENT TRAINING (PMT) + BEHAVIOR THERAPY. Evidence-based. ODD vs DMDD: ODD=defiance/vindictiveness, DMDD=s",
+    "correctAnswer": "Parent management training combined with behavioral therapy"
+  },
+  {
+    "id": 254,
+    "type": "MISSING_TOPIC_IN_RATIONALE",
+    "topic": "ECT",
+    "question": "A 17-year-old patient is taking isotretinoin (Accutane) for severe acne. The dermatologist refers to psychiatry. What ps",
+    "rationale": "Accutane (isotretinoin) causes DEPRESSION—FDA Black Box Warning. Must use iPLEDGE program. Also teratogenic (pregnancy test required). Teach patient: ",
+    "correctAnswer": "Depression (FDA Black Box Warning)"
+  },
+  {
+    "id": 256,
+    "type": "MISSING_TOPIC_IN_RATIONALE",
+    "topic": "ECT",
+    "question": "During a developmental assessment of a 1-month-old infant, the PMHNP evaluates motor skills. Which motor ability is expe",
+    "rationale": "1-MONTH MOTOR: Palmar grasp, follows to midline, lifts head briefly. SYNDROME RED FLAGS at any age: Hypotonia (Down, Prader-Willi), hypertonia (CP), a",
+    "correctAnswer": "Palmar grasp and brief head lifting"
+  },
+  {
+    "id": 257,
+    "type": "MISSING_TOPIC_IN_RATIONALE",
+    "topic": "ECT",
+    "question": "A family has adopted a 2-year-old child diagnosed with fetal alcohol spectrum disorder (FASD). They ask about services a",
+    "rationale": "FETAL ALCOHOL SYNDROME (FASD): Refer to Early Intervention (birth-3 yrs). PMHNP role: Manage ADHD (common), behavioral dysregulation, learning disabil",
+    "correctAnswer": "Early intervention services for developmental support"
+  },
+  {
+    "id": 259,
+    "type": "MISSING_TOPIC_IN_RATIONALE",
+    "topic": "EPS",
+    "question": "A patient on haloperidol develops dystonia and akathisia. The PMHNP is concerned about long-term risks. Untreated extrap",
+    "rationale": "EPS can progress to Tardive Dyskinesia (TD): involuntary movements of face/tongue/trunk after chronic antipsychotic use. Monitor with AIMS scale every",
+    "correctAnswer": "Tardive dyskinesia (may be irreversible)"
+  },
+  {
+    "id": 260,
+    "type": "MISSING_TOPIC_IN_RATIONALE",
+    "topic": "EPS",
+    "question": "A PMHNP is educating a nursing student about extrapyramidal symptoms. Which finding is NOT classified as EPS?",
+    "rationale": "EPS does NOT include hypothermia/bradycardia (those are NMS signs). EPS includes: akathisia (restlessness), akinesia (lack of movement), dystonia (mus",
+    "correctAnswer": "Hypothermia and bradycardia"
+  },
+  {
+    "id": 263,
+    "type": "MISSING_TOPIC_IN_RATIONALE",
+    "topic": "ECT",
+    "question": "A patient with a documented penicillin allergy develops a bacterial infection. Which antibiotic class should be avoided ",
+    "rationale": "Penicillin allergy: avoid cephalosporins due to 2-10% cross-reactivity, especially first-generation (cephalexin). Later generations have lower cross-r",
+    "correctAnswer": "Cephalosporins (especially first-generation)"
+  },
+  {
+    "id": 266,
+    "type": "MISSING_TOPIC_IN_RATIONALE",
+    "topic": "Phobia",
+    "question": "A patient with specific phobia (fear of flying) asks about medication. Which medication approach should the PMHNP DISCOU",
+    "rationale": "Phobic anxiety: discourage benzodiazepine use long-term. First-line: CBT with exposure therapy, SSRIs. Benzos provide quick relief but prevent habitua",
+    "correctAnswer": "Long-term benzodiazepine use (prevents habituation and causes dependence)"
+  },
+  {
+    "id": 268,
+    "type": "MISSING_TOPIC_IN_RATIONALE",
+    "topic": "ECT",
+    "question": "A PMHNP is formulating a clinical research question for an evidence-based practice project. What does the PICOT framewor",
+    "rationale": "PICOT framework: P=Population/Patient, I=Intervention, C=Comparison, O=Outcome, T=Time. Used to formulate clinical research questions. Example: In dep",
+    "correctAnswer": "Population, Intervention, Comparison, Outcome, Time"
+  },
+  {
+    "id": 271,
+    "type": "MISSING_TOPIC_IN_RATIONALE",
+    "topic": "ECT",
+    "question": "A PMHNP is counseling a patient starting carbamazepine about serious adverse effects. Which effect is NOT associated wit",
+    "rationale": "Carbamazepine does NOT cause hypertensive crisis (that's MAOIs). DOES cause: Stevens-Johnson syndrome, toxic epidermal necrolysis, agranulocytosis, ap",
+    "correctAnswer": "Hypertensive crisis (associated with MAOIs, not carbamazepine)"
+  },
+  {
+    "id": 282,
+    "type": "MISSING_TOPIC_IN_RATIONALE",
+    "topic": "Quetiapine",
+    "question": "A patient on quetiapine (Seroquel) is prescribed fluconazole (Diflucan) for a fungal infection. What drug interaction sh",
+    "rationale": "Fluconazole INHIBITS CYP3A4 → quetiapine levels RISE → toxicity. KINETICS vs DYNAMICS: Pharmacokinetics = what BODY does to DRUG (ADME). Pharmacodynam",
+    "correctAnswer": "Fluconazole INHIBITS CYP3A4, INCREASING quetiapine levels and side effects"
+  },
+  {
+    "id": 284,
+    "type": "MISSING_TOPIC_IN_RATIONALE",
+    "topic": "Delirium",
+    "question": "In a study of education for prevention of delirium post cardiac surgery, why does the sample have bias?",
+    "rationale": "Research ethics: if intervention is beneficial, it must be offered to ALL patients (equipoise principle). Withholding proven beneficial treatment is u",
+    "correctAnswer": "Ethical intervention needs to be offered to all patients"
+  },
+  {
+    "id": 295,
+    "type": "MISSING_TOPIC_IN_RATIONALE",
+    "topic": "ECT",
+    "question": "A patient on olanzapine announces she is enrolling in a smoking cessation program. The PMHNP knows smoking affects olanz",
+    "rationale": "Olanzapine + smoking: CYP1A2 INDUCED by smoking → low olanzapine levels. QUIT SMOKING → levels RISE → reduce dose 25-50%. Same for clozapine. Board pe",
+    "correctAnswer": "DECREASE olanzapine dose by 25-50% when patient quits (smoking induces CYP1A2)"
+  },
+  {
+    "id": 296,
+    "type": "MISSING_TOPIC_IN_RATIONALE",
+    "topic": "ECT",
+    "question": "A PMHNP is prescribing sertraline to a 78-year-old patient. What electrolyte abnormality should be monitored, especially",
+    "rationale": "SSRIs in elderly: HYPONATREMIA (SIADH) is major concern. Symptoms: confusion, falls, seizures. Check sodium at baseline and 2 weeks. Higher risk with:",
+    "correctAnswer": "Hyponatremia (SIADH is common in elderly on SSRIs)"
+  },
+  {
+    "id": 310,
+    "type": "MISSING_TOPIC_IN_RATIONALE",
+    "topic": "ECT",
+    "question": "A PMHNP is evaluating a new depression screening tool. The test correctly identifies 95% of patients who actually have d",
+    "rationale": "Sensitivity (true positive rate): proportion of people WITH disease who test POSITIVE. 'SnOUT' = Sensitive test, Negative result rules OUT disease. Hi",
+    "correctAnswer": "Sensitivity (true positive rate)"
+  },
+  {
+    "id": 312,
+    "type": "MISSING_TOPIC_IN_RATIONALE",
+    "topic": "Haloperidol",
+    "question": "A patient on haloperidol develops fever of 104°F, severe muscle rigidity, altered mental status, and elevated CK. What s",
+    "rationale": "NMS: high fever, lead-pipe rigidity, altered mental status, autonomic instability. Labs show leukocytosis, elevated CK, myoglobinuria. Caused by dopam",
+    "correctAnswer": "Neuroleptic Malignant Syndrome (fever, rigidity, autonomic instability, elevated"
+  },
+  {
+    "id": 314,
+    "type": "MISSING_TOPIC_IN_RATIONALE",
+    "topic": "ECT",
+    "question": "A patient on sertraline and tramadol develops fever, agitation, tremor, hyperreflexia, and diaphoresis. What syndrome sh",
+    "rationale": "Serotonin syndrome: tachycardia, hyperthermia, agitation, hyperreflexia, clonus, diaphoresis, dilated pupils, diarrhea. Caused by excess serotonin. Tr",
+    "correctAnswer": "Serotonin syndrome (hyperthermia, tachycardia, hyperreflexia, agitation)"
+  },
+  {
+    "id": 326,
+    "type": "MISSING_TOPIC_IN_RATIONALE",
+    "topic": "ECT",
+    "question": "A patient on carbamazepine is prescribed erythromycin for a respiratory infection. The PMHNP is concerned about a drug i",
+    "rationale": "Erythromycin (inhibitor) + Tegretol (carbamazepine) = INCREASED Tegretol levels → TOXICITY. Inhibitor slows metabolism. KINETICS concept: Inhibitors b",
+    "correctAnswer": "INCREASE carbamazepine levels (erythromycin inhibits CYP3A4) causing toxicity"
+  },
+  {
+    "id": 329,
+    "type": "MISSING_TOPIC_IN_RATIONALE",
+    "topic": "Risperidone",
+    "question": "A patient on risperidone develops NMS with fever, rigidity, and CK of 15,000. The antipsychotic has been stopped. What m",
+    "rationale": "NMS treatment: STOP antipsychotic, monitor CK (for rhabdomyolysis) and WBC (leukocytosis common), give dantrolene (muscle relaxant) ± bromocriptine (d",
+    "correctAnswer": "Monitor CK and WBC; give dantrolene and/or bromocriptine; supportive care"
+  },
+  {
+    "id": 330,
+    "type": "MISSING_TOPIC_IN_RATIONALE",
+    "topic": "ECT",
+    "question": "A PMHNP learns about a new regulation affecting prescriptive authority. This regulation was passed by the state legislat",
+    "rationale": "State statute: law passed by state legislature. Different from: federal law (Congress), regulations (agency rules), policies (institutional guidelines",
+    "correctAnswer": "State statute (law passed by state legislature)"
+  },
+  {
+    "id": 338,
+    "type": "MISSING_TOPIC_IN_RATIONALE",
+    "topic": "ECT",
+    "question": "A PMHNP is assessing developmental milestones in a 2-year-old child. What social development skill is expected at this a",
+    "rationale": "Toddler development (1-3 years): parallel play, beginning peer interaction, imitation, developing routines/traditions. Not yet cooperative play. Eriks",
+    "correctAnswer": "Parallel play and beginning peer interactions"
+  },
+  {
+    "id": 351,
+    "type": "MISSING_TOPIC_IN_RATIONALE",
+    "topic": "Haloperidol",
+    "question": "A patient on long-term haloperidol develops involuntary lip-smacking, tongue protrusion, and finger movements. What cond",
+    "rationale": "Tardive dyskinesia (TD): involuntary, repetitive movements—lip smacking, tongue protrusion, grimacing, finger movements. Caused by chronic dopamine bl",
+    "correctAnswer": "Tardive dyskinesia (involuntary repetitive movements from chronic dopamine block"
+  },
+  {
+    "id": 362,
+    "type": "MISSING_TOPIC_IN_RATIONALE",
+    "topic": "ECT",
+    "question": "A PMHNP is working to reduce mental health stigma in the community. What intervention is effective for stigma reduction?",
+    "rationale": "Support groups: reduce mental health stigma, provide peer support, education, advocacy. NAMI offers support groups. Evidence-based adjunct to treatmen",
+    "correctAnswer": "Support groups and community education programs"
+  },
+  {
+    "id": 386,
+    "type": "MISSING_TOPIC_IN_RATIONALE",
+    "topic": "Alzheimer",
+    "question": "A patient previously diagnosed with Alzheimer's 3 years ago had an MMSE of 29. Today's MMSE is 26. How should the PMHNP ",
+    "rationale": "MMSE 18-23=mild impairment. CRITICAL: If patient scores 24-30 on MMSE but you suspect cognitive decline, USE MoCA. MoCA (0-30): ≥26=normal, <26=impair",
+    "correctAnswer": "Score 18-23 indicates mild impairment"
+  },
+  {
+    "id": 391,
+    "type": "MISSING_TOPIC_IN_RATIONALE",
+    "topic": "Risperidone",
+    "question": "A patient on risperidone for 10 months is prescribed metoclopramide (Reglan) for nausea. What should the PMHNP teach abo",
+    "rationale": "Risperdal + Reglan (metoclopramide): BOTH block dopamine → additive EPS risk, TD, akathisia. Metoclopramide is a dopamine antagonist. Combination incr",
+    "correctAnswer": "BOTH are dopamine antagonists - increased risk of EPS, TD, and akathisia"
+  },
+  {
+    "id": 395,
+    "type": "MISSING_TOPIC_IN_RATIONALE",
+    "topic": "NMS",
+    "question": "A patient on multiple serotonergic medications presents with hyperthermia, altered mental status, and neuromuscular abno",
+    "rationale": "PDE5 inhibitors (sildenafil, tadalafil): RAPIDLY absorbed. Onset: 30-60 min. Take on empty stomach for faster effect. Tadalafil longest duration (36 h",
+    "correctAnswer": "CLONUS and HYPERREFLEXIA (characteristic of serotonin syndrome)"
+  },
+  {
+    "id": 404,
+    "type": "MISSING_TOPIC_IN_RATIONALE",
+    "topic": "AN",
+    "question": "A patient with anorexia nervosa has a BMI of 16 and heart rate of 45. What determines need for hospitalization in eating",
+    "rationale": "Eating disorder hospitalization: any weight with MEDICAL INSTABILITY (not just BMI). Criteria: HR <50, BP <80/50, temp <97°F, electrolyte abnormalitie",
+    "correctAnswer": "ANY weight with medical instability (bradycardia, hypotension, arrhythmia)"
+  },
+  {
+    "id": 406,
+    "type": "MISSING_TOPIC_IN_RATIONALE",
+    "topic": "ECT",
+    "question": "A postmenopausal patient on sertraline is concerned about bone health. What intervention is MOST effective for osteoporo",
+    "rationale": "Osteoporosis prevention: WEIGHT-BEARING EXERCISE + lifestyle changes (stop smoking, limit alcohol/caffeine). Also: calcium 1200mg + vitamin D 800-1000",
+    "correctAnswer": "WEIGHT-BEARING EXERCISE and smoking cessation"
+  },
+  {
+    "id": 408,
+    "type": "MISSING_TOPIC_IN_RATIONALE",
+    "topic": "ECT",
+    "question": "A PMHNP completes a quality improvement project. What method of sharing findings provides the HIGHEST credibility?",
+    "rationale": "Research dissemination: PEER-REVIEWED JOURNALS provide highest credibility. Ensures quality control, expert review. Conferences, newspapers for broade",
+    "correctAnswer": "PEER-REVIEWED JOURNAL publication"
+  },
+  {
+    "id": 411,
+    "type": "MISSING_TOPIC_IN_RATIONALE",
+    "topic": "Amphetamine",
+    "question": "A child on amphetamine stimulant develops tics. Which medication should the PMHNP switch to?",
+    "rationale": "Stimulant-induced tics: switch to GUANFACINE or clonidine (alpha-2 agonists). Non-stimulant options don't worsen tics. Guanfacine preferred (once dail",
+    "correctAnswer": "Switch to GUANFACINE (alpha-2 agonist that doesn't worsen tics)"
+  },
+  {
+    "id": 413,
+    "type": "MISSING_TOPIC_IN_RATIONALE",
+    "topic": "Methylphenidate",
+    "question": "An 8-year-old with ADHD on methylphenidate develops motor tics. What medication change should the PMHNP make?",
+    "rationale": "ADHD with tics—switch to GUANFACINE: alpha-2 agonist that DOESN'T worsen tics (may help them). Stimulants can exacerbate tics. Guanfacine also treats ",
+    "correctAnswer": "Switch to GUANFACINE (doesn't exacerbate tics)"
+  },
+  {
+    "id": 423,
+    "type": "MISSING_TOPIC_IN_RATIONALE",
+    "topic": "ECT",
+    "question": "A mother asks how desmopressin (DDAVP) works for her child's bedwetting. Which statement indicates correct understanding",
+    "rationale": "DDAVP (desmopressin) teaching: mother should understand it DECREASES urine production. Used for enuresis (bedwetting). Synthetic ADH. Give before bed.",
+    "correctAnswer": "It DECREASES urine production at night"
+  },
+  {
+    "id": 429,
+    "type": "MISSING_TOPIC_IN_RATIONALE",
+    "topic": "Haloperidol",
+    "question": "A patient on haloperidol develops acute dystonia with neck stiffness and torticollis. What is the IMMEDIATE treatment?",
+    "rationale": "Acute dystonia treatment: ALL anticholinergics work. Benztropine (Cogentin), diphenhydramine (Benadryl), trihexyphenidyl (Artane). Give IM/IV for rapi",
+    "correctAnswer": "Supportive care only"
+  },
+  {
+    "id": 434,
+    "type": "MISSING_TOPIC_IN_RATIONALE",
+    "topic": "Risperidone",
+    "question": "A patient on risperidone requires metabolic syndrome screening. What is the BEST initial assessment for central adiposit",
+    "rationale": "Metabolic syndrome assessment: HIP-TO-WAIST ratio or waist circumference (central adiposity key marker). Also: fasting glucose, lipid panel, blood pre",
+    "correctAnswer": "Waist-to-hip circumference ratio measurement"
+  },
+  {
+    "id": 436,
+    "type": "MISSING_TOPIC_IN_RATIONALE",
+    "topic": "ECT",
+    "question": "A nursing student asks about the difference between thought process and thought content in the mental status exam. What ",
+    "rationale": "Thought PROCESS vs CONTENT: PROCESS = how thoughts flow (logical, tangential, loose associations, circumstantial). CONTENT = what thoughts are about (",
+    "correctAnswer": "PROCESS = HOW thoughts flow; CONTENT = WHAT thoughts are about"
+  },
+  {
+    "id": 437,
+    "type": "MISSING_TOPIC_IN_RATIONALE",
+    "topic": "ECT",
+    "question": "A patient reports thoughts of wanting to die. In which section of the mental status examination should this be documente",
+    "rationale": "Suicidal ideation documented in THOUGHT CONTENT. Content includes: SI/HI, delusions, obsessions, phobias, ideas of reference, overvalued ideas. Proces",
+    "correctAnswer": "THOUGHT CONTENT (includes SI, delusions, obsessions)"
+  },
+  {
+    "id": 438,
+    "type": "MISSING_TOPIC_IN_RATIONALE",
+    "topic": "ECT",
+    "question": "A patient on metoclopramide (Reglan) for nausea develops involuntary facial movements. What adverse effect has occurred?",
+    "rationale": "Reglan (metoclopramide): causes TARDIVE DYSKINESIA. Dopamine antagonist (like antipsychotics). FDA Black Box Warning for TD with prolonged use (>12 we",
+    "correctAnswer": "TARDIVE DYSKINESIA (Reglan has FDA Black Box Warning)"
+  },
+  {
+    "id": 442,
+    "type": "MISSING_TOPIC_IN_RATIONALE",
+    "topic": "Conduct disorder",
+    "question": "A 7-year-old with ODD is at risk for developing conduct disorder. What intervention is MOST effective for prevention?",
+    "rationale": "PREVENTING ODD→CD: PARENT TRAINING (PMT) is GOLD STANDARD. Teaches: consistent discipline, positive reinforcement, ignoring minor behaviors, time-out ",
+    "correctAnswer": "PARENT MANAGEMENT TRAINING and behavioral therapy"
+  },
+  {
+    "id": 443,
+    "type": "MISSING_TOPIC_IN_RATIONALE",
+    "topic": "Haloperidol",
+    "question": "A patient on haloperidol develops acute neck stiffness and torticollis. What is the immediate treatment?",
+    "rationale": "Acute dystonia: BENZTROPINE (Cogentin) IM/IV for rapid relief. Anticholinergic blocks acetylcholine, restores dopamine-acetylcholine balance. Also: di",
+    "correctAnswer": "BENZTROPINE (Cogentin) IM - anticholinergic for acute dystonia"
+  },
+  {
+    "id": 444,
+    "type": "MISSING_TOPIC_IN_RATIONALE",
+    "topic": "ECT",
+    "question": "A patient using kava kava for anxiety asks what side effects to watch for. What is the PRIMARY education point?",
+    "rationale": "Kava HEPATOTOXICITY: primary education point. FDA warning for liver damage. Can be fatal. Teach patient: monitor for jaundice, abdominal pain, dark ur",
+    "correctAnswer": "HEPATOTOXICITY (FDA warning for liver damage)"
+  },
+  {
+    "id": 455,
+    "type": "MISSING_TOPIC_IN_RATIONALE",
+    "topic": "EPS",
+    "question": "A PMHNP is teaching about the neurobiological basis of EPS. Which dopamine pathway is involved?",
+    "rationale": "EPS mechanism: NIGROSTRIATAL PATHWAY dopamine blockade. Movement disorders result from dopamine reduction in substantia nigra → basal ganglia. Both ty",
+    "correctAnswer": "NIGROSTRIATAL pathway (substantia nigra to basal ganglia)"
+  },
+  {
+    "id": 456,
+    "type": "MISSING_TOPIC_IN_RATIONALE",
+    "topic": "ECT",
+    "question": "A PMHNP suspects thought disorder in a patient with schizophrenia. What assessment technique should be used?",
+    "rationale": "Assess thought disorder: PROVERB INTERPRETATION tests abstract thinking. Concrete responses suggest thought disorder/cognitive impairment. Example: 'P",
+    "correctAnswer": "PROVERB INTERPRETATION to assess abstract thinking"
+  },
+  {
+    "id": 464,
+    "type": "MISSING_TOPIC_IN_RATIONALE",
+    "topic": "ECT",
+    "question": "An elderly patient with cognitive complaints frequently responds 'I don't know' during testing and shows inconsistent de",
+    "rationale": "Staff feeding patient extra food: CONSULT and EDUCATE staff about treatment plan. Refeeding must be controlled to prevent refeeding syndrome. Clarify ",
+    "correctAnswer": "PSEUDODEMENTIA (depression-related, reversible)"
+  },
+  {
+    "id": 470,
+    "type": "MISSING_TOPIC_IN_RATIONALE",
+    "topic": "Risperidone",
+    "question": "A patient on risperidone requires metabolic monitoring. What measurement specifically assesses for central obesity?",
+    "rationale": "Metabolic syndrome—Risperdal: measure HIP-TO-WAIST circumference (central adiposity key marker). Also: weight, BMI, fasting glucose, lipid panel, bloo",
+    "correctAnswer": "WAIST-TO-HIP circumference ratio"
+  },
+  {
+    "id": 474,
+    "type": "MISSING_TOPIC_IN_RATIONALE",
+    "topic": "ECT",
+    "question": "A PMHNP suspects thought disorder and wants to assess abstract thinking. What assessment technique is appropriate?",
+    "rationale": "Thought disorder assessment: PROVERB INTERPRETATION. Tests abstract thinking. Concrete interpretation suggests schizophrenia, cognitive impairment. 'A",
+    "correctAnswer": "PROVERB INTERPRETATION"
+  },
+  {
+    "id": 478,
+    "type": "MISSING_TOPIC_IN_RATIONALE",
+    "topic": "Erikson",
+    "question": "A 20-year-old patient tells the PMHNP, 'I cannot make friends. Nobody likes me.' According to Erikson's psychosocial sta",
+    "rationale": "20-year-old social difficulties: still in IDENTITY VS ROLE CONFUSION (12-20 years). Forming sense of self. Next stage is Intimacy vs Isolation (20-40)",
+    "correctAnswer": "Identity vs. Role Confusion (12-20 years)"
+  },
+  {
+    "id": 481,
+    "type": "MISSING_TOPIC_IN_RATIONALE",
+    "topic": "ECT",
+    "question": "A patient stabilized on carbamazepine (Tegretol) is prescribed erythromycin for a respiratory infection. Which action sh",
+    "rationale": "Tegretol + erythromycin = DECREASE Tegretol. High-yield CYP facts: (1) 3A4 = most common CYP, (2) 2D6 = psych meds, (3) 1A2 = smoking induces, (4) Inh",
+    "correctAnswer": "Decrease the carbamazepine dose due to CYP3A4 inhibition by erythromycin"
+  },
+  {
+    "id": 491,
+    "type": "MISSING_TOPIC_IN_RATIONALE",
+    "topic": "Discontinuation",
+    "question": "A PMHNP is conducting a medication reconciliation for a patient who just learned she is pregnant. Which medication poses",
+    "rationale": "Pregnancy teratogen: ACCUTANE (isotretinoin) Category X. Causes severe birth defects: craniofacial, cardiac, CNS abnormalities. iPLEDGE program mandat",
+    "correctAnswer": "Isotretinoin (Accutane)"
+  },
+  {
+    "id": 492,
+    "type": "MISSING_TOPIC_IN_RATIONALE",
+    "topic": "ADHD",
+    "question": "A 9-year-old patient with ADHD on amphetamine salts develops motor tics. Which medication should the PMHNP consider swit",
+    "rationale": "Stimulant-induced tics: switch to GUANFACINE (alpha-2 agonist). Non-stimulant option that doesn't worsen tics. May actually improve tics. Once-daily d",
+    "correctAnswer": "Guanfacine (Intuniv)"
+  },
+  {
+    "id": 494,
+    "type": "MISSING_TOPIC_IN_RATIONALE",
+    "topic": "ECT",
+    "question": "A child with enuresis is prescribed desmopressin (DDAVP). Which parent statement indicates correct understanding of admi",
+    "rationale": "Medication reconciliation: ACE INHIBITORS for HEART FAILURE. First-line for HFrEF. PMHNP must know common medications across specialties. Also: hypert",
+    "correctAnswer": "RESTRICT fluids 1 hour before and 8 hours after medication"
+  },
+  {
+    "id": 495,
+    "type": "MISSING_TOPIC_IN_RATIONALE",
+    "topic": "ECT",
+    "question": "After prescribing desmopressin for a child's enuresis, which statement by the mother demonstrates correct understanding ",
+    "rationale": "DDAVP teaching: mother should say it 'DECREASES URINE PRODUCTION.' Synthetic ADH for enuresis. Give before bed. Watch for hyponatremia. Restrict eveni",
+    "correctAnswer": "\"It decreases urine production at night\""
+  },
+  {
+    "id": 498,
+    "type": "MISSING_TOPIC_IN_RATIONALE",
+    "topic": "ECT",
+    "question": "A patient reports their antidepressant is no longer working after 2 years of effective treatment. What phenomenon is thi",
+    "rationale": "Antidepressant poop-out: TACHYPHYLAXIS. Loss of response after initial efficacy. Options: dose increase, augmentation, switch medications. Not same as",
+    "correctAnswer": "Tachyphylaxis (poop-out syndrome)"
+  }
+]
