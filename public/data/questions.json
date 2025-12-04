@@ -9,7 +9,7 @@
       "Aspirin"
     ],
     "correctAnswer": 2,
-    "rationale": "CYP3A4 INHIBITORS (Cipro, erythromycin, grapefruit) + carbamazepine = TOXICITY. PHARMACOKINETICS = body affects drug (metabolism). Inhibitors SLOW metabolism → drug ACCUMULATES → toxicity. Mnemonic inhibitors: 'SICK FACES' - SSRIs, Isoniazid, Cimetidine, Ketoconazole, Fluconazole, Amiodarone, Ciprofloxacin, Erythromycin, Sulfonamides.",
+    "rationale": "CARBAMAZEPINE + CIPRO/ERYTHROMYCIN = DANGEROUS. These antibiotics are CYP3A4 INHIBITORS which BLOCK carbamazepine metabolism → carbamazepine levels RISE → TOXICITY (diplopia, ataxia, nystagmus, sedation). Why not acetaminophen, ibuprofen, aspirin? These do NOT significantly interact with carbamazepine. Board pearl: CYP3A4 inhibitors (macrolides, azoles, grapefruit) increase carbamazepine toxicity. CYP3A4 inducers decrease levels of other drugs.",
     "category": "Pharmacology",
     "domain": 3,
     "domainName": "Diagnosis and Treatment"
@@ -54,7 +54,7 @@
       "Lexapro"
     ],
     "correctAnswer": 2,
-    "rationale": "BUPROPION (Wellbutrin) CONTRAINDICATIONS: (1) Seizure disorder - lowers seizure threshold, (2) EATING DISORDERS (anorexia, bulimia) - electrolyte imbalances increase seizure risk, (3) Concurrent MAOIs, (4) Abrupt alcohol/benzo withdrawal. Seizure risk is dose-dependent (0.4% at 450mg). Also avoid in patients with history of head trauma, brain tumor. NOT associated with sexual dysfunction or weight gain - often used for these reasons. Good choice for depression with fatigue/low energy.",
+    "rationale": "BUPROPION (Wellbutrin) is CONTRAINDICATED in eating disorders because it LOWERS THE SEIZURE THRESHOLD. Patients with bulimia/anorexia have electrolyte imbalances (hypokalemia, hyponatremia) that already increase seizure risk. Bupropion + electrolyte abnormalities = HIGH seizure risk. Fluoxetine (Prozac) is actually FDA-approved for bulimia. Board pearl: Also avoid bupropion with alcohol abuse, head trauma, seizure history.",
     "category": "Pharmacology",
     "domain": 3,
     "domainName": "Diagnosis and Treatment"
@@ -84,7 +84,7 @@
       "0.8 mEq/L"
     ],
     "correctAnswer": 3,
-    "rationale": "LITHIUM THERAPEUTIC LEVEL for maintenance: 0.6-1.2 mEq/L (0.8 mEq/L is optimal). For acute mania: 0.8-1.2 mEq/L. Draw trough level 12 hours after last dose. Patient education: maintain consistent sodium and fluid intake, avoid NSAIDs and dehydration. Signs of toxicity (>1.5 mEq/L): tremor, ataxia, confusion, vomiting, diarrhea. Regular monitoring: every 3-6 months when stable.",
+    "rationale": "LITHIUM LEVEL 0.8 mEq/L is optimal for maintenance. Therapeutic range: 0.6-1.2 mEq/L. Why is 0.8 correct? It's in the sweet spot - effective without toxicity risk. 0.3 = subtherapeutic (won't work). 1.6 and 2.2 = TOXIC (>1.5 mEq/L causes tremor, ataxia, confusion, seizures). Board pearl: Draw trough level 12 hours post-dose. Elderly may do well at 0.4-0.8 mEq/L.",
     "category": "Pharmacology",
     "domain": 3,
     "domainName": "Diagnosis and Treatment"
@@ -114,7 +114,7 @@
       "Lithium toxicity"
     ],
     "correctAnswer": 0,
-    "rationale": "Elevated TSH = hypothyroidism. Lithium blocks thyroid hormone release. Teach patient: Report fatigue, cold intolerance, weight gain. Check TSH every 6 months.",
+    "rationale": "Elevated TSH on lithium = HYPOTHYROIDISM. Lithium accumulates in thyroid gland and inhibits thyroid hormone release. Occurs in 20-30% of patients on long-term lithium. Treatment: Add levothyroxine (don't stop lithium if working well). Board pearl: Check TSH baseline and every 6-12 months. Lithium also causes nephrogenic diabetes insipidus (polyuria/polydipsia).",
     "category": "Pharmacology",
     "domain": 3,
     "domainName": "Diagnosis and Treatment"
@@ -144,7 +144,7 @@
       "Acute renal failure"
     ],
     "correctAnswer": 0,
-    "rationale": "Dehydration is the #1 cause of lithium toxicity—kidneys retain lithium when dry. Teach patient: Drink 8–10 glasses of water daily, avoid excessive sweating, report vomiting/diarrhea immediately.",
+    "rationale": "DEHYDRATION is the most common cause of lithium toxicity. Why? Lithium is reabsorbed with sodium in the kidney. Dehydration → sodium/water retention → more lithium reabsorbed → levels rise. Other causes: NSAIDs, ACE inhibitors, thiazides, low-salt diet, vomiting/diarrhea. Board pearl: Teach patients to maintain fluid intake, avoid NSAIDs, and hold lithium if ill with GI symptoms.",
     "category": "Pharmacology",
     "domain": 3,
     "domainName": "Diagnosis and Treatment"
@@ -204,7 +204,7 @@
       "Stop clozapine"
     ],
     "correctAnswer": 2,
-    "rationale": "CYP1A2: Smoking INDUCES (speeds up) metabolism of clozapine/olanzapine. Quit smoking → levels RISE 50% → toxicity risk. INDUCERS mnemonic: 'PC BRAS' - Phenytoin, Carbamazepine, Barbiturates, Rifampin, Alcohol (chronic), St. John's Wort, Smoking. REDUCE dose 25-50% when patient quits.",
+    "rationale": "When patient on clozapine QUITS SMOKING, REDUCE clozapine dose. Why? Cigarette smoke (PAHs, not nicotine) INDUCES CYP1A2 which metabolizes clozapine. No smoking = less CYP1A2 activity = clozapine accumulates = toxicity risk (sedation, seizures). Reduce dose by 25-50% when patient quits. Opposite: if patient STARTS smoking, may need to INCREASE dose.",
     "category": "Pharmacology",
     "domain": 3,
     "domainName": "Diagnosis and Treatment"
@@ -219,7 +219,7 @@
       "Lexapro 20 mg"
     ],
     "correctAnswer": 2,
-    "rationale": "FLUOXETINE (Prozac) 60 mg/day is the ONLY FDA-approved medication for BULIMIA NERVOSA. Higher dose needed (60mg vs 20mg for depression) because bulimia requires more serotonin modulation. SSRIs reduce binge-purge frequency. Avoid bupropion in eating disorders (seizure risk due to electrolyte imbalances). CBT is first-line psychotherapy for bulimia.",
+    "rationale": "FLUOXETINE (Prozac) 60mg is the ONLY FDA-approved medication for BULIMIA NERVOSA. Why 60mg (not 20mg)? Bulimia requires higher serotonergic activity to reduce binge-purge cycles. Why not other SSRIs? Only fluoxetine has FDA approval and robust evidence for this indication. Board pearl: CBT is first-line; fluoxetine is adjunct or for those who refuse/fail therapy.",
     "category": "Pharmacology",
     "domain": 3,
     "domainName": "Diagnosis and Treatment"
@@ -249,7 +249,7 @@
       "Lexapro"
     ],
     "correctAnswer": 2,
-    "rationale": "DEPRESSION + INSOMNIA: Mirtazapine (Remeron) or trazodone—sedating. SLEEP NEUROANATOMY: PINEAL GLAND (epithalamus) secretes MELATONIN (darkness→production). Regulates CIRCADIAN RHYTHM via suprachiasmatic nucleus (SCN) in hypothalamus. Ramelteon=melatonin receptor agonist. Trazodone: 5HT2 antagonist + sedating H1 blockade.",
+    "rationale": "MIRTAZAPINE (Remeron) or TRAZODONE for depression WITH insomnia. Why? Both have sedating properties. Mirtazapine: blocks H1 receptors (sedation) and 5-HT2A/2C (improves sleep architecture). Also increases appetite (good for depression with weight loss). Trazodone: blocks 5-HT2A and H1. Bupropion is activating (worse for insomnia), SSRIs can cause insomnia initially.",
     "category": "Pharmacology",
     "domain": 3,
     "domainName": "Diagnosis and Treatment"
@@ -279,7 +279,7 @@
       "Lisinopril"
     ],
     "correctAnswer": 0,
-    "rationale": "Phentolamine (alpha-blocker) treats MAOI hypertensive crisis from tyramine reaction. This is an emergency. Teach patient on MAOIs: Avoid aged cheese, cured meats, draft beer.",
+    "rationale": "PHENTOLAMINE is treatment for MAOI-induced HYPERTENSIVE CRISIS (tyramine reaction). Why phentolamine? It's an alpha-adrenergic blocker - directly counteracts the excessive norepinephrine release causing the hypertension. Why not metoprolol/labetalol? Beta-blockers can cause unopposed alpha stimulation, worsening hypertension. Lisinopril works too slowly. Board pearl: Tyramine crisis = severe headache, hypertension, diaphoresis → stroke risk.",
     "category": "Pharmacology",
     "domain": 3,
     "domainName": "Diagnosis and Treatment"
@@ -294,7 +294,7 @@
       "Oxycodone"
     ],
     "correctAnswer": 2,
-    "rationale": "Meperidine (Demerol) inhibits serotonin reuptake. Combined with MAOIs or SSRIs, it causes serotonin syndrome. Teach patient: Always list all psych meds before any procedure.",
+    "rationale": "MEPERIDINE (Demerol) should be AVOIDED with SSRIs (sertraline). Why? Meperidine has serotonergic properties → combined with SSRI = SEROTONIN SYNDROME risk. Other opioids (morphine, hydrocodone, oxycodone) are safer because they don't significantly affect serotonin. Board pearl: Also avoid meperidine with MAOIs (even more dangerous). Tramadol also has serotonin syndrome risk with SSRIs.",
     "category": "Pharmacology",
     "domain": 3,
     "domainName": "Diagnosis and Treatment"
@@ -354,7 +354,7 @@
       "Antipsychotics"
     ],
     "correctAnswer": 0,
-    "rationale": "MANIA-INDUCING MEDICATIONS (SAID mnemonic): Steroids, Antidepressants, INH (isoniazid), Disulfiram. Always screen for bipolar history before starting antidepressants. Monitor for racing thoughts, decreased need for sleep, increased energy.",
+    "rationale": "CORTICOSTEROIDS, ANTIDEPRESSANTS, ISONIAZID, DISULFIRAM can trigger MANIA in bipolar patients. Why these? (1) Corticosteroids increase catecholamines, (2) Antidepressants can flip patients into mania without mood stabilizer, (3) Isoniazid inhibits MAO → catecholamine excess, (4) Disulfiram inhibits dopamine beta-hydroxylase. Board pearl: When starting any of these in bipolar patient, monitor closely and consider prophylactic mood stabilizer adjustment.",
     "category": "Pharmacology",
     "domain": 3,
     "domainName": "Diagnosis and Treatment"
@@ -399,7 +399,7 @@
       "Lamotrigine"
     ],
     "correctAnswer": 2,
-    "rationale": "VALPROATE (Depakote) is excellent for bipolar I with multiple breakthrough manic episodes. Advantages: rapid loading possible (20-30 mg/kg), effective for mixed states, less weight gain than olanzapine. Therapeutic level: 50-125 mcg/mL. Monitor: LFTs, CBC with platelets, ammonia. Contraindicated in pregnancy (neural tube defects). Consider if lithium has failed.",
+    "rationale": "VALPROATE (Depakote) is excellent for breakthrough manic episodes on lithium. Why? Different mechanism (GABA enhancement, sodium channel blockade) - adds to lithium's effect. Good for mixed episodes, rapid cycling. Why not lamotrigine? Lamotrigine is better for bipolar DEPRESSION, has less antimanic efficacy. Board pearl: Can use lithium + valproate combination. Therapeutic valproate level: 50-125 mcg/mL.",
     "category": "Pharmacology",
     "domain": 3,
     "domainName": "Diagnosis and Treatment"
@@ -429,7 +429,7 @@
       "20-30 mg/kg/day"
     ],
     "correctAnswer": 3,
-    "rationale": "VALPROATE LOADING DOSE: 20-30 mg/kg/day for acute mania. Achieves therapeutic levels in 1-2 days vs 5-7 days with standard titration. Divide into 2-3 doses to reduce GI side effects. Can use oral or IV route. Target level: 85-125 mcg/mL for acute mania. Divalproex sodium ER formulation allows once-daily dosing. Check levels 12 hours after last dose.",
+    "rationale": "VALPROATE LOADING: 20-30 mg/kg/day for acute mania. Why this range? Achieves therapeutic level (85-125 mcg/mL) within 24-48 hours vs 5-7 days with standard titration. 10 mg/kg = too low, won't reach therapeutic level quickly. 40-50 mg/kg = too high, risk of toxicity. 5 mg/kg = way too low. Board pearl: Divide into 2-3 doses to reduce GI side effects. IV loading also option.",
     "category": "Pharmacology",
     "domain": 3,
     "domainName": "Diagnosis and Treatment"
@@ -474,7 +474,7 @@
       "Flumazenil (Romazicon)"
     ],
     "correctAnswer": 3,
-    "rationale": "Flumazenil reverses benzodiazepine overdose by blocking GABA receptors. Caution: Can precipitate seizures in chronic benzo users.",
+    "rationale": "FLUMAZENIL (Romazicon) reverses BENZODIAZEPINE overdose. Mechanism: Competitive antagonist at GABA-A receptor. Why not naloxone? That's for opioids. Caution: Flumazenil can precipitate SEIZURES in chronic benzo users or patients on benzos for seizure control. Board pearl: Use cautiously; supportive care often sufficient since benzos alone rarely fatal.",
     "category": "Pharmacology",
     "domain": 3,
     "domainName": "Diagnosis and Treatment"
@@ -489,7 +489,7 @@
       "Naloxone (Narcan)"
     ],
     "correctAnswer": 3,
-    "rationale": "NALOXONE (NARCAN) reverses opioid overdose. Signs: pinpoint pupils (miosis), respiratory depression, track marks indicate IV drug use. Give naloxone 0.4-2mg IV/IM/IN, repeat every 2-3 minutes. May precipitate withdrawal but saves life. Teach: Always call 911 even after naloxone—short half-life means overdose can return.",
+    "rationale": "NALOXONE (Narcan) reverses OPIOID overdose. Classic triad: Pinpoint pupils + respiratory depression + decreased LOC = opioid overdose. Naloxone is a competitive opioid antagonist. Duration: 30-90 minutes (may need repeat dosing for long-acting opioids). Board pearl: IM naloxone for community use; consider starting at 0.4mg to avoid precipitated withdrawal.",
     "category": "Pharmacology",
     "domain": 3,
     "domainName": "Diagnosis and Treatment"
@@ -504,7 +504,7 @@
       "Benzodiazepines"
     ],
     "correctAnswer": 3,
-    "rationale": "BENZODIAZEPINES are first-line for alcohol withdrawal—prevent seizures and DTs. CIWA-Ar guides dosing. ALSO give THIAMINE (B1) BEFORE glucose to prevent Wernicke's encephalopathy. Wernicke's triad: Confusion, Ataxia, Ophthalmoplegia. Untreated → Korsakoff's syndrome (permanent memory loss).",
+    "rationale": "BENZODIAZEPINES are FIRST-LINE for alcohol withdrawal. Why? Both alcohol and benzos work on GABA-A receptors - cross-tolerance allows benzos to prevent withdrawal complications. Alcohol withdrawal can be FATAL (seizures, DTs). Commonly used: chlordiazepoxide (long-acting), lorazepam (hepatic impairment), diazepam (rapid onset). Board pearl: Use CIWA protocol for symptom-triggered dosing.",
     "category": "Pharmacology",
     "domain": 3,
     "domainName": "Diagnosis and Treatment"
@@ -519,7 +519,7 @@
       "Clonidine only"
     ],
     "correctAnswer": 1,
-    "rationale": "Buprenorphine or methadone treat opioid use disorder. Buprenorphine can be prescribed in office; methadone requires clinic. Both reduce cravings and prevent relapse.",
+    "rationale": "BUPRENORPHINE or METHADONE for opioid use disorder with withdrawal (COWS 13). Why not naltrexone? Patient must be fully withdrawn (COWS should be 0, 7-10 days abstinent) before starting naltrexone - it would precipitate severe withdrawal. Buprenorphine (partial agonist) or methadone (full agonist) treats withdrawal AND cravings. Board pearl: Wait for COWS >8-12 before starting buprenorphine.",
     "category": "Pharmacology",
     "domain": 3,
     "domainName": "Diagnosis and Treatment"
@@ -549,7 +549,7 @@
       "Elevated creatine kinase >10,000"
     ],
     "correctAnswer": 2,
-    "rationale": "SEROTONIN SYNDROME triad: (1) Mental status changes (agitation, confusion), (2) Autonomic instability (hyperthermia, tachycardia, diaphoresis, BP changes), (3) Neuromuscular abnormalities (HYPERREFLEXIA, CLONUS, tremor, rigidity). Key differentiator from NMS: hyperreflexia and clonus (NMS has hyporeflexia and lead-pipe rigidity). Onset: rapid (within 24h of drug change). Treatment: stop offending agent, supportive care, cyproheptadine for severe cases.",
+    "rationale": "HYPERREFLEXIA and CLONUS = SEROTONIN SYNDROME (not NMS). Key differentiator: SS has hyperreflexia/clonus; NMS has lead-pipe rigidity and HYPOreflexia. Both have fever, altered mental status, autonomic instability. SS onset: rapid (hours). NMS onset: gradual (days). SS caused by serotonergic drugs; NMS by dopamine antagonists. Board pearl: This is a classic board question!",
     "category": "Pharmacology",
     "domain": 3,
     "domainName": "Diagnosis and Treatment"
@@ -624,7 +624,7 @@
       "Score 20 or higher"
     ],
     "correctAnswer": 1,
-    "rationale": "PHQ-9 scoring: 0-4 (minimal), 5-9 (mild), 10-14 (moderate), 15-19 (moderately severe), 20-27 (severe). Score of 10+ indicates moderate depression and is the clinical threshold for considering treatment intervention. Board pearl: PHQ-9 ≥10 = positive screen requiring further assessment and likely treatment. Always assess for suicidality (question 9) regardless of total score.",
+    "rationale": "PHQ-9 ≥10 indicates MODERATE depression warranting treatment consideration. Scoring: 0-4 minimal, 5-9 mild, 10-14 moderate, 15-19 moderately severe, 20-27 severe. Why 10? Research shows this threshold has good sensitivity/specificity for major depression. Board pearl: Always assess question 9 (suicidal ideation) separately regardless of total score.",
     "category": "Assessment Scales & Screening",
     "domain": 2,
     "domainName": "Advanced Practice Skills"
@@ -639,7 +639,7 @@
       "<20"
     ],
     "correctAnswer": 2,
-    "rationale": "GAD-7 (Generalized Anxiety Disorder 7-item scale): Score range 0-21. Cutoffs: 5-9 (mild), 10-14 (moderate), 15-21 (severe). Score ≥10 suggests clinically significant anxiety warranting treatment consideration. Questions assess: feeling nervous, unable to stop worrying, worrying too much, trouble relaxing, restless, irritable, afraid something awful will happen. Time frame: past 2 weeks. Used for screening and monitoring treatment response. Can also screen for panic disorder, social anxiety, PTSD.",
+    "rationale": "MMSE score <24 suggests COGNITIVE IMPAIRMENT. Scoring: 30 = maximum. Mild impairment 20-24, moderate 10-20, severe <10. Adjust for education (lower cutoffs for less educated). MMSE less sensitive for MCI than MoCA. Tests: orientation, registration, attention, recall, language, visuospatial. Board pearl: MoCA ≤25 = impaired; SLUMS better for executive function.",
     "category": "Assessment Scales & Screening",
     "domain": 2,
     "domainName": "Advanced Practice Skills"
@@ -939,7 +939,7 @@
       "Formal Operational"
     ],
     "correctAnswer": 1,
-    "rationale": "Piaget preoperational (2-7): Symbolic/magical thinking, egocentrism (can't see others' viewpoints), no conservation. Teach parents: 'Why' questions are normal; use concrete explanations.",
+    "rationale": "PREOPERATIONAL stage (ages 2-7): Characterized by EGOCENTRISM (believes moon follows her), ANIMISM (stuffed animals have feelings), and magical thinking. Child cannot yet understand conservation or take others' perspectives. Board pearl: Piaget's stages: Sensorimotor (0-2), Preoperational (2-7), Concrete operational (7-11), Formal operational (11+).",
     "category": "Developmental Theory & Lifespan",
     "domain": 4,
     "domainName": "Psychotherapy and Related Theories"
@@ -954,7 +954,7 @@
       "Sensorimotor"
     ],
     "correctAnswer": 2,
-    "rationale": "Piaget concrete operational (7-11): Logical thinking about real objects develops; conservation understood. Cannot think abstractly yet. Teach parents: Use hands-on learning, not hypotheticals.",
+    "rationale": "CONCRETE OPERATIONAL stage (ages 7-11): Child understands CONSERVATION (water volume same in different containers), REVERSIBILITY, and logical thinking about concrete objects. Can classify, seriate. Cannot yet think abstractly or hypothetically. Board pearl: If a child understands conservation but can't think abstractly, they're in concrete operational stage.",
     "category": "Developmental Theory & Lifespan",
     "domain": 4,
     "domainName": "Psychotherapy and Related Theories"
@@ -984,7 +984,7 @@
       "Latency stage"
     ],
     "correctAnswer": 2,
-    "rationale": "Freud phallic stage (3-6): Oedipus/Electra complex—child identifies with same-sex parent. Superego (conscience) develops. Board tip: Know the stage ages.",
+    "rationale": "PHALLIC STAGE (ages 3-6): Oedipus complex (boys attracted to mother, see father as rival) and Electra complex (girls). Freud's psychosexual theory. Child becomes aware of gender differences. Resolution: identification with same-sex parent. Board pearl: Stages: Oral (0-1), Anal (1-3), Phallic (3-6), Latency (6-puberty), Genital (puberty+).",
     "category": "Developmental Theory & Lifespan",
     "domain": 4,
     "domainName": "Psychotherapy and Related Theories"
@@ -999,7 +999,7 @@
       "Anal stage"
     ],
     "correctAnswer": 1,
-    "rationale": "Freud latency stage (6-12): Sexual impulses dormant. Child focuses on friendships, school, skills. This is the 'calm before the storm' of puberty.",
+    "rationale": "LATENCY STAGE (ages 6-puberty): Sexual impulses are dormant/sublimated. Focus on academics, same-sex friendships, skill development. No significant psychosexual conflict. Child develops ego and social skills. Follows phallic stage, precedes genital stage. Board pearl: Important for distinguishing normal developmental focus from pathology.",
     "category": "Developmental Theory & Lifespan",
     "domain": 4,
     "domainName": "Psychotherapy and Related Theories"
@@ -1029,7 +1029,7 @@
       "Crawling on hands and knees"
     ],
     "correctAnswer": 2,
-    "rationale": "4-MONTH MOTOR MILESTONES: Head control established (no head lag), rolls over (front to back first), brings hands together midline, reaches for objects. Sits with support. Red flags: persistent head lag, no reaching, no social smile by this age.",
+    "rationale": "4-MONTH MILESTONES: Holds head steady (since ~2 months), beginning to roll over (typically front-to-back first). NOT yet: sitting without support (6 months), crawling (8-10 months), walking (12 months). Board pearl: Red flags at 4 months: no head control, no social smile, no tracking objects.",
     "category": "Developmental Theory & Lifespan",
     "domain": 4,
     "domainName": "Psychotherapy and Related Theories"
@@ -1044,7 +1044,7 @@
       "2-word phrases"
     ],
     "correctAnswer": 2,
-    "rationale": "12-MONTH LANGUAGE MILESTONES: Says 'mama/dada' with meaning (not just babbling), 1-3 words total, understands 'no,' follows simple commands, points to objects. Red flags: No babbling by 9 months, no words by 12 months, no gestures. Consider hearing evaluation.",
+    "rationale": "5-MONTH MOTOR MILESTONE: Can transfer objects from one hand to the other, reach for objects. 5-month milestones: reaches, grasps, transfers, rolls both ways, sits with support, babbles. NOT yet: sits independently (6-7 mo), crawls (8-10 mo), pulls to stand (9-10 mo). Board pearl: Red flags: no reaching by 5 months, no babbling, poor head control.",
     "category": "Developmental Theory & Lifespan",
     "domain": 4,
     "domainName": "Psychotherapy and Related Theories"
@@ -1059,7 +1059,7 @@
       "Supportive therapy"
     ],
     "correctAnswer": 1,
-    "rationale": "DIALECTICAL BEHAVIOR THERAPY (DBT) is the GOLD STANDARD for Borderline Personality Disorder. Four core modules: (1) Mindfulness, (2) Distress Tolerance, (3) Emotion Regulation, (4) Interpersonal Effectiveness. Evidence shows DBT reduces self-harm, suicidal behavior, and hospitalizations. Weekly individual therapy + skills group. Addresses chronic emptiness through validation and behavior change.",
+    "rationale": "DIALECTICAL BEHAVIOR THERAPY (DBT) is the GOLD STANDARD treatment for BORDERLINE PERSONALITY DISORDER. Why DBT? It specifically targets BPD symptoms: emotion dysregulation, interpersonal chaos, impulsivity, suicidality. Four modules: (1) Mindfulness, (2) Distress Tolerance, (3) Emotion Regulation, (4) Interpersonal Effectiveness. Evidence shows DBT significantly reduces self-harm and hospitalizations. Board pearl: DBT combines CBT techniques with acceptance strategies.",
     "category": "Psychotherapy & Treatment Modalities",
     "domain": 4,
     "domainName": "Psychotherapy and Related Theories"
@@ -1074,7 +1074,7 @@
       "Supportive therapy only"
     ],
     "correctAnswer": 0,
-    "rationale": "PTSD FIRST-LINE TREATMENTS: Psychotherapy: Prolonged Exposure (PE), Cognitive Processing Therapy (CPT), EMDR (Eye Movement Desensitization and Reprocessing). All are trauma-focused therapies. Medications: SSRIs (sertraline, paroxetine - FDA approved), SNRIs (venlafaxine). Second-line: prazosin for nightmares. NOT recommended: benzodiazepines (may worsen outcomes, interfere with extinction learning). Important: trauma-focused therapy is preferred over medication alone. Combination may be beneficial.",
+    "rationale": "TRAUMA-FOCUSED CBT (including Prolonged Exposure, CPT, EMDR) is FIRST-LINE for PTSD. Why? These therapies directly address trauma memories and help extinguish fear response. Why not benzos? Benzodiazepines are NOT recommended - may worsen outcomes and interfere with extinction learning. SSRIs/SNRIs are first-line medications but therapy is preferred. Board pearl: Sertraline and paroxetine are FDA-approved for PTSD.",
     "category": "Psychotherapy & Treatment Modalities",
     "domain": 4,
     "domainName": "Psychotherapy and Related Theories"
@@ -1104,7 +1104,7 @@
       "Delusion"
     ],
     "correctAnswer": 1,
-    "rationale": "Cognitive distortions are thinking errors that maintain depression/anxiety: catastrophizing, all-or-nothing thinking, mind reading, fortune telling. Teach patient: 'Catch it, check it, change it.'",
+    "rationale": "SSRIs are FIRST-LINE pharmacotherapy for PANIC DISORDER. Why? Good efficacy with better side effect profile than older medications (TCAs, MAOIs). Start at LOW dose (half usual starting dose) - panic patients are sensitive to activation. CBT (especially interoceptive exposure) is also first-line. Why not benzos? Useful short-term but risk of dependence. Board pearl: Takes 4-6 weeks for full SSRI effect.",
     "category": "Psychotherapy & Treatment Modalities",
     "domain": 4,
     "domainName": "Psychotherapy and Related Theories"
@@ -1134,7 +1134,7 @@
       "Neither occurs in therapy"
     ],
     "correctAnswer": 1,
-    "rationale": "Transference: patient projects feelings (often from past relationships) onto therapist. Countertransference: therapist's emotional reactions to patient. Both are therapeutic tools when recognized.",
+    "rationale": "SSRIs/SNRIs are FIRST-LINE pharmacotherapy for Generalized Anxiety Disorder. Why? Good efficacy, tolerable side effects, once-daily dosing, treat comorbid depression. Buspirone is alternative - no dependence risk but takes weeks to work. Benzos for short-term only (dependence risk). Board pearl: Duloxetine, venlafaxine also FDA-approved. Consider therapy (CBT) as first-line or adjunct.",
     "category": "Psychotherapy & Treatment Modalities",
     "domain": 4,
     "domainName": "Psychotherapy and Related Theories"
@@ -1194,7 +1194,7 @@
       "Exposure and Response Prevention (ERP)"
     ],
     "correctAnswer": 3,
-    "rationale": "ERP (Exposure and Response Prevention) is gold standard for OCD: expose to triggers, prevent compulsions. Breaks the anxiety cycle. Teach patient: Resisting compulsions gets easier with practice.",
+    "rationale": "SSRIs/SNRIs (particularly paroxetine, sertraline, venlafaxine) are FIRST-LINE for Social Anxiety Disorder. Why? Good evidence base, treat comorbid depression. Propranolol is for PERFORMANCE-ONLY anxiety (public speaking) - doesn't help generalized social anxiety. Benzos helpful short-term but dependence risk. Board pearl: CBT (exposure therapy) is highly effective. Many patients need both medication and therapy.",
     "category": "Psychotherapy & Treatment Modalities",
     "domain": 4,
     "domainName": "Psychotherapy and Related Theories"
@@ -1269,7 +1269,7 @@
       "Family therapy only"
     ],
     "correctAnswer": 2,
-    "rationale": "TARASOFF DUTY: When patient makes credible threat against identifiable victim, clinician has DUTY TO PROTECT that victim. Options: (1) Warn intended victim directly, (2) Notify police, (3) Hospitalize patient. Varies by state - some require warning, others allow other protective actions. Does NOT apply to: vague threats, threats against self, threats without identifiable victim. Balance: maintain therapeutic alliance while fulfilling legal duty. Document assessment thoroughly.",
+    "rationale": "CBT WITH EXPOSURE AND RESPONSE PREVENTION (ERP) is FIRST-LINE for OCD. Why? ERP has the strongest evidence base - patient is exposed to anxiety trigger and prevented from performing compulsive ritual. This extinguishes the anxiety response over time. Medications (SSRIs at HIGH doses) are adjunct. Why not other therapies? Psychodynamic, supportive therapy lack evidence for OCD. Board pearl: OCD requires higher SSRI doses than depression (e.g., fluoxetine 60-80mg).",
     "category": "Psychotherapy & Treatment Modalities",
     "domain": 4,
     "domainName": "Psychotherapy and Related Theories"
@@ -3016,15 +3016,15 @@
   },
   {
     "id": 202,
-    "question": "A patient with asthma and bipolar disorder asks if her Flonase nasal spray could affect her mood. What should the PMHNP explain about corticosteroids and mood?",
+    "question": "A patient with bipolar disorder is prescribed prednisone for an asthma exacerbation. The PMHNP should counsel the patient about which psychiatric risk?",
     "options": [
-      "Only injectable steroids affect mood",
-      "Corticosteroids",
-      "Only testosterone affects mood",
-      "Estrogen causes more mood effects than corticosteroids"
+      "Corticosteroids may trigger manic episodes",
+      "Corticosteroids cause permanent cognitive impairment",
+      "Corticosteroids have no psychiatric effects",
+      "Corticosteroids only affect mood if injected"
     ],
-    "correctAnswer": 1,
-    "rationale": "Corticosteroids (prednisone, dexamethasone, Flonase) can induce mania by increasing catecholamines. Even inhaled steroids rarely cause mood changes. Teach patient: Report unusual mood elevation or insomnia with steroid use. Taper steroids slowly.",
+    "correctAnswer": 0,
+    "rationale": "CORTICOSTEROIDS can trigger MANIC EPISODES in patients with bipolar disorder. Mechanism: increase catecholamine activity. Risk is dose-dependent - higher with systemic steroids (prednisone, dexamethasone) than inhaled/nasal. Board pearl: When a bipolar patient needs steroids, (1) use lowest effective dose, (2) monitor closely for mood changes, (3) consider prophylactic mood stabilizer adjustment. Even short courses can precipitate mania. Symptoms typically resolve when steroids stopped.",
     "category": "Medications - Psychiatric Side Effects",
     "domain": 3,
     "domainName": "Diagnosis and Treatment"
@@ -3039,7 +3039,7 @@
       "2.0-3.0 mEq/L"
     ],
     "correctAnswer": 0,
-    "rationale": "LITHIUM THERAPEUTIC LEVEL: 0.6-1.2 mEq/L for maintenance. Key points: Draw trough level 12 hours post-dose. Acute mania target: 0.8-1.2 mEq/L. Maintenance target: 0.6-1.0 mEq/L (lower for elderly). Toxicity begins >1.5 mEq/L. Monitor every 3-6 months when stable. Factors that increase levels: dehydration, NSAIDs, ACE inhibitors, thiazides.",
+    "rationale": "LITHIUM THERAPEUTIC LEVEL: 0.6-1.2 mEq/L for maintenance. Why this range? Below 0.6 = subtherapeutic (inadequate mood stabilization). Above 1.2 = toxicity risk. For ACUTE mania, can target 0.8-1.2 mEq/L. For maintenance, 0.6-1.0 mEq/L often sufficient. Elderly: 0.4-0.8 mEq/L. Board pearl: Always draw TROUGH level (12 hours post-dose). Toxicity: tremor, ataxia, confusion, seizures.",
     "category": "Mood Stabilizers - Therapeutic Levels",
     "domain": 3,
     "domainName": "Diagnosis and Treatment"
@@ -3114,7 +3114,7 @@
       "20-30 mcg/mL"
     ],
     "correctAnswer": 2,
-    "rationale": "CARBAMAZEPINE THERAPEUTIC LEVEL: 6-12 mcg/mL. Important considerations: Auto-induction occurs (induces own metabolism) - levels may drop after 2-4 weeks. Check level 2-4 weeks after dose changes. Also monitor: CBC (agranulocytosis, aplastic anemia), LFTs (hepatotoxicity), sodium (SIADH). Drug interactions: potent CYP3A4 inducer reduces levels of many drugs including OCPs.",
+    "rationale": "CARBAMAZEPINE THERAPEUTIC LEVEL: 6-12 mcg/mL. Why this range? Below 6 = likely subtherapeutic for seizures/mood. Above 12 = toxicity risk (diplopia, ataxia, nystagmus). Important: Auto-induction occurs - carbamazepine induces its own metabolism, so levels may DROP after 2-4 weeks even at same dose. Recheck levels. Board pearl: Also monitor CBC (agranulocytosis) and sodium (SIADH → hyponatremia).",
     "category": "Mood Stabilizers - Therapeutic Levels",
     "domain": 3,
     "domainName": "Diagnosis and Treatment"
@@ -3204,7 +3204,7 @@
       "150-250 mcg/mL"
     ],
     "correctAnswer": 1,
-    "rationale": "VALPROATE THERAPEUTIC LEVEL: 50-125 mcg/mL. Higher levels (85-125) for acute mania, lower (50-100) for maintenance. Draw trough level. Monitor: LFTs (hepatotoxicity - highest risk in children <2), CBC with platelets (thrombocytopenia), ammonia if confusion occurs. Black box warnings: hepatotoxicity, pancreatitis, teratogenicity. Common side effects: weight gain, tremor, hair loss.",
+    "rationale": "VALPROATE THERAPEUTIC LEVEL: 50-125 mcg/mL. Why this range? Below 50 = likely subtherapeutic. Above 125 = toxicity risk (tremor, sedation, thrombocytopenia). For acute mania, target 85-125 mcg/mL. For maintenance, 50-100 mcg/mL often adequate. Draw trough level. Board pearl: Monitor LFTs (hepatotoxicity), CBC with platelets, ammonia if confused. CONTRAINDICATED in pregnancy.",
     "category": "Mood Stabilizers - Therapeutic Levels",
     "domain": 3,
     "domainName": "Diagnosis and Treatment"
@@ -3249,7 +3249,7 @@
       "40 mg/kg"
     ],
     "correctAnswer": 1,
-    "rationale": "VALPROATE LOADING DOSE: 20 mg/kg for acute mania or status epilepticus. Allows rapid achievement of therapeutic levels within 24-48 hours. Can divide into 2-3 doses. Maximum daily dose generally 60 mg/kg/day. Alternative: 20-30 mg/kg/day divided. Check level after 2-3 days. GI side effects common with loading - consider IV route if severe.",
+    "rationale": "VALPROATE LOADING DOSE: 20 mg/kg for acute mania. Why 20 mg/kg specifically? This achieves therapeutic level (50-125 mcg/mL) rapidly - within 24-48 hours vs 5-7 days with gradual titration. Useful in acute mania, status epilepticus. Can give oral or IV. Board pearl: After loading, maintenance dose is typically 250-500mg BID-TID. Check level 2-3 days after loading.",
     "category": "Mood Stabilizers - Dosing",
     "domain": 3,
     "domainName": "Diagnosis and Treatment"
@@ -3264,7 +3264,7 @@
       "21-26 (MCI)"
     ],
     "correctAnswer": 3,
-    "rationale": "SLUMS (St. Louis University Mental Status) scoring: 27-30 = normal, 21-26 = Mild Cognitive Impairment (MCI), <21 = dementia (for high school educated). For less than high school: 25-30 = normal, 20-24 = MCI, <20 = dementia. SLUMS is MORE SENSITIVE than MMSE for MCI detection. Tests visuospatial, memory, calculation, and executive function.",
+    "rationale": "SLUMS SCORING: 21-26 indicates MILD COGNITIVE IMPAIRMENT (MCI) in high school educated patients. Why 21-26? SLUMS (0-30 scale): 27-30 = normal, 21-26 = MCI, <21 = dementia. For less than high school education: 25-30 normal, 20-24 MCI, <20 dementia. Board pearl: SLUMS is more sensitive than MMSE for detecting MCI. Tests executive function, visuospatial skills, memory.",
     "category": "Mental Status Assessment",
     "domain": 2,
     "domainName": "Advanced Practice Skills"
@@ -4561,15 +4561,15 @@
   },
   {
     "id": 305,
-    "question": "A patient with diabetes and depression is on sertraline. The PMHNP orders routine labs including a reticulocyte count. What is the rationale for checking reticulocytes?",
+    "question": "A 72-year-old patient with depression is started on citalopram. Which lab should the PMHNP monitor due to a known risk with this medication in elderly patients?",
     "options": [
-      "To assess for infection",
-      "To evaluate for bone marrow suppression or aplastic anemia",
-      "To monitor diabetes control",
-      "To check liver function"
+      "Reticulocyte count",
+      "Serum sodium level",
+      "Liver function tests",
+      "Lipid panel"
     ],
     "correctAnswer": 1,
-    "rationale": "Reticulocyte count: assesses bone marrow function. Low reticulocytes with low RBCs suggests aplastic anemia or bone marrow failure. SSRIs rarely cause blood dyscrasias. Also check in diabetes for anemia of chronic disease.",
+    "rationale": "SSRIs can cause SIADH (Syndrome of Inappropriate Antidiuretic Hormone) leading to HYPONATREMIA, especially in ELDERLY patients. Risk factors: age >65, female sex, concurrent diuretics, low baseline sodium. Symptoms of hyponatremia: confusion, falls, seizures. Check sodium at baseline and 2-4 weeks after starting SSRI in elderly. Citalopram also requires ECG monitoring for QTc prolongation at doses >20mg in elderly. SSRIs do NOT cause bone marrow suppression or require CBC monitoring.",
     "category": "Laboratory Monitoring",
     "domain": 3,
     "domainName": "Diagnosis and Treatment"
