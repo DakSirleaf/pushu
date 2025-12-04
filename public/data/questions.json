@@ -54,7 +54,7 @@
       "Lexapro"
     ],
     "correctAnswer": 2,
-    "rationale": "Wellbutrin lowers seizure threshold. In bulimia, electrolyte imbalances from purging further increase seizure risk—absolute contraindication. Use SSRIs instead.",
+    "rationale": "BUPROPION (Wellbutrin) CONTRAINDICATIONS: (1) Seizure disorder - lowers seizure threshold, (2) EATING DISORDERS (anorexia, bulimia) - electrolyte imbalances increase seizure risk, (3) Concurrent MAOIs, (4) Abrupt alcohol/benzo withdrawal. Seizure risk is dose-dependent (0.4% at 450mg). Also avoid in patients with history of head trauma, brain tumor. NOT associated with sexual dysfunction or weight gain - often used for these reasons. Good choice for depression with fatigue/low energy.",
     "category": "Pharmacology",
     "domain": 3,
     "domainName": "Diagnosis and Treatment"
@@ -84,7 +84,7 @@
       "0.8 mEq/L"
     ],
     "correctAnswer": 3,
-    "rationale": "Therapeutic lithium: 0.6–1.2 mEq/L for maintenance. Teach patient: Stay hydrated, maintain consistent salt intake, and never miss labs.",
+    "rationale": "LITHIUM THERAPEUTIC LEVEL for maintenance: 0.6-1.2 mEq/L (0.8 mEq/L is optimal). For acute mania: 0.8-1.2 mEq/L. Draw trough level 12 hours after last dose. Patient education: maintain consistent sodium and fluid intake, avoid NSAIDs and dehydration. Signs of toxicity (>1.5 mEq/L): tremor, ataxia, confusion, vomiting, diarrhea. Regular monitoring: every 3-6 months when stable.",
     "category": "Pharmacology",
     "domain": 3,
     "domainName": "Diagnosis and Treatment"
@@ -219,7 +219,7 @@
       "Lexapro 20 mg"
     ],
     "correctAnswer": 2,
-    "rationale": "Prozac (fluoxetine) 60mg is the only SSRI FDA-approved for bulimia. Reduces binge-purge cycles. Teach patient: Full effect takes 4–8 weeks; continue even if feeling better.",
+    "rationale": "FLUOXETINE (Prozac) 60 mg/day is the ONLY FDA-approved medication for BULIMIA NERVOSA. Higher dose needed (60mg vs 20mg for depression) because bulimia requires more serotonin modulation. SSRIs reduce binge-purge frequency. Avoid bupropion in eating disorders (seizure risk due to electrolyte imbalances). CBT is first-line psychotherapy for bulimia.",
     "category": "Pharmacology",
     "domain": 3,
     "domainName": "Diagnosis and Treatment"
@@ -264,7 +264,7 @@
       "Bupropion (Wellbutrin)"
     ],
     "correctAnswer": 3,
-    "rationale": "Wellbutrin has the lowest sexual side effect risk among antidepressants—no serotonin effect. Good choice when sexual function is a priority.",
+    "rationale": "BUPROPION (Wellbutrin) is preferred for patients with SSRI-induced sexual dysfunction. Mechanism: norepinephrine-dopamine reuptake inhibitor (NDRI) - NO serotonergic effects that cause sexual dysfunction. Also weight-neutral. Alternatives: mirtazapine (may cause sedation/weight gain), adding buspirone, dose reduction. Bupropion contraindicated in eating disorders and seizure history.",
     "category": "Pharmacology",
     "domain": 3,
     "domainName": "Diagnosis and Treatment"
@@ -376,7 +376,7 @@
   },
   {
     "id": 26,
-    "question": "A PMHNP is selecting an antipsychotic for a patient with a history of QTc prolongation on EKG. Which antipsychotic requires a baseline EKG due to significant QTc prolongation risk?",
+    "question": "A PMHNP is reviewing antipsychotic options for a patient with a history of QTc prolongation. Which antipsychotic should be AVOIDED due to highest QTc risk?",
     "options": [
       "Aripiprazole (Abilify)",
       "Olanzapine (Zyprexa)",
@@ -384,7 +384,7 @@
       "Risperidone (Risperdal)"
     ],
     "correctAnswer": 2,
-    "rationale": "ZIPRASIDONE (GEODON) requires baseline EKG due to QTc prolongation risk. Can cause fatal arrhythmias (Torsades de Pointes). Contraindicated if QTc >500ms. Also avoid with other QTc-prolonging drugs. Teach patient: Report palpitations, dizziness, fainting.",
+    "rationale": "ZIPRASIDONE (Geodon) should be AVOIDED in patients with QTc prolongation - it has the HIGHEST QTc risk among atypical antipsychotics. Also avoid: thioridazine, IV haloperidol, droperidol. Safer alternatives for patients with QTc concerns: aripiprazole, lurasidone. Always get baseline ECG in patients with cardiac history. QTc >500ms or increase >60ms from baseline = discontinue medication.",
     "category": "Pharmacology",
     "domain": 3,
     "domainName": "Diagnosis and Treatment"
@@ -399,7 +399,7 @@
       "Lamotrigine"
     ],
     "correctAnswer": 2,
-    "rationale": "VALPROATE (DEPAKOTE) is most effective for RAPID CYCLING bipolar disorder (≥4 episodes/year). Lithium is less effective for rapid cycling. Monitor: LFTs, CBC with platelets, drug levels (50-125 mcg/mL).",
+    "rationale": "VALPROATE (Depakote) is excellent for bipolar I with multiple breakthrough manic episodes. Advantages: rapid loading possible (20-30 mg/kg), effective for mixed states, less weight gain than olanzapine. Therapeutic level: 50-125 mcg/mL. Monitor: LFTs, CBC with platelets, ammonia. Contraindicated in pregnancy (neural tube defects). Consider if lithium has failed.",
     "category": "Pharmacology",
     "domain": 3,
     "domainName": "Diagnosis and Treatment"
@@ -414,7 +414,7 @@
       "COMT polymorphism"
     ],
     "correctAnswer": 0,
-    "rationale": "HLA-B*1502 SCREENING: FDA Black Box Warning requires testing in patients of ASIAN descent before starting carbamazepine. This allele increases risk of Stevens-Johnson Syndrome and Toxic Epidermal Necrolysis. If positive, do NOT use carbamazepine.",
+    "rationale": "HLA-B*1502 screening is REQUIRED before starting CARBAMAZEPINE in patients of ASIAN ancestry. This allele increases risk of Stevens-Johnson Syndrome (SJS) and Toxic Epidermal Necrolysis (TEN) by 100-fold. If positive, do NOT use carbamazepine. Also screen HLA-A*3101 for Northern European ancestry. Alternative mood stabilizers: valproate, lamotrigine, lithium.",
     "category": "Pharmacology",
     "domain": 3,
     "domainName": "Diagnosis and Treatment"
@@ -429,7 +429,7 @@
       "20-30 mg/kg/day"
     ],
     "correctAnswer": 3,
-    "rationale": "VALPROATE LOADING DOSE: 20-30 mg/kg/day for acute mania achieves therapeutic levels rapidly (1-2 days vs 5-7 days with standard dosing). Divide into 2-3 doses to minimize GI side effects. Monitor drug levels and adjust accordingly.",
+    "rationale": "VALPROATE LOADING DOSE: 20-30 mg/kg/day for acute mania. Achieves therapeutic levels in 1-2 days vs 5-7 days with standard titration. Divide into 2-3 doses to reduce GI side effects. Can use oral or IV route. Target level: 85-125 mcg/mL for acute mania. Divalproex sodium ER formulation allows once-daily dosing. Check levels 12 hours after last dose.",
     "category": "Pharmacology",
     "domain": 3,
     "domainName": "Diagnosis and Treatment"
@@ -534,7 +534,7 @@
       "Anticholinergic toxicity"
     ],
     "correctAnswer": 2,
-    "rationale": "NEUROLEPTIC MALIGNANT SYNDROME (NMS): Life-threatening reaction to antipsychotics. Tetrad: Lead-pipe RIGIDITY, high FEVER (>104°F), altered MENTAL STATUS, AUTONOMIC instability. Labs: Elevated CK (often >1000). Stop antipsychotic immediately, supportive care, dantrolene/bromocriptine for severe cases.",
+    "rationale": "NEUROLEPTIC MALIGNANT SYNDROME (NMS): Life-threatening reaction to dopamine antagonists (antipsychotics). Classic tetrad: (1) Fever (often >40°C), (2) LEAD-PIPE RIGIDITY, (3) Altered mental status, (4) Autonomic instability. Labs: elevated CK (often >1000), leukocytosis, metabolic acidosis. Key differentiator from serotonin syndrome: HYPOREFLEXIA and lead-pipe rigidity. Treatment: stop antipsychotic, supportive care, dantrolene, bromocriptine.",
     "category": "Pharmacology",
     "domain": 3,
     "domainName": "Diagnosis and Treatment"
@@ -549,7 +549,7 @@
       "Elevated creatine kinase >10,000"
     ],
     "correctAnswer": 2,
-    "rationale": "SEROTONIN SYNDROME vs NMS: SS has HYPERREFLEXIA, CLONUS, and myoclonus (jerky movements). NMS has LEAD-PIPE RIGIDITY and bradyreflexia. SS develops rapidly (hours); NMS develops over days. SS from serotonergic drugs; NMS from dopamine blockers. Both have fever and AMS.",
+    "rationale": "SEROTONIN SYNDROME triad: (1) Mental status changes (agitation, confusion), (2) Autonomic instability (hyperthermia, tachycardia, diaphoresis, BP changes), (3) Neuromuscular abnormalities (HYPERREFLEXIA, CLONUS, tremor, rigidity). Key differentiator from NMS: hyperreflexia and clonus (NMS has hyporeflexia and lead-pipe rigidity). Onset: rapid (within 24h of drug change). Treatment: stop offending agent, supportive care, cyproheptadine for severe cases.",
     "category": "Pharmacology",
     "domain": 3,
     "domainName": "Diagnosis and Treatment"
@@ -564,7 +564,7 @@
       "Perphenazine (Trilafon)"
     ],
     "correctAnswer": 2,
-    "rationale": "HALOPERIDOL (Haldol) has HIGHEST EPS risk among antipsychotics due to potent D2 blockade. High-potency FGAs (haloperidol, fluphenazine) = more EPS. Low-potency FGAs (chlorpromazine, thioridazine) = more sedation, anticholinergic effects. Teach patient: Report muscle stiffness, tremor, restlessness.",
+    "rationale": "HALOPERIDOL (Haldol) = HIGHEST EPS risk among antipsychotics. First-generation (typical) antipsychotics block D2 receptors in nigrostriatal pathway causing EPS. Risk ranking: High-potency typicals (haloperidol, fluphenazine) > Low-potency typicals (chlorpromazine) > Second-generation atypicals. EPS includes: acute dystonia (hours-days), akathisia (days-weeks), parkinsonism (weeks), tardive dyskinesia (months-years). Treatment: Benztropine or diphenhydramine for acute dystonia; reduce dose or switch to atypical for other EPS.",
     "category": "Pharmacology",
     "domain": 3,
     "domainName": "Diagnosis and Treatment"
@@ -594,7 +594,7 @@
       "Anticholinergic toxicity"
     ],
     "correctAnswer": 2,
-    "rationale": "RHABDOMYOLYSIS in NMS: Severe muscle rigidity causes muscle breakdown → myoglobin release → kidney damage. CK >1000 (often >10,000) is diagnostic clue. Treat with aggressive IV hydration to protect kidneys. Monitor urine output and renal function. This is a medical emergency.",
+    "rationale": "NEUROLEPTIC MALIGNANT SYNDROME (NMS) with RHABDOMYOLYSIS: CK >10,000 indicates severe muscle breakdown. This patient on clozapine shows classic NMS: obtunded (altered mental status), elevated CK (muscle rigidity/breakdown). Other NMS signs: fever >104°F, lead-pipe rigidity, autonomic instability. Treatment: stop antipsychotic, IV fluids, dantrolene, bromocriptine. ICU admission for monitoring.",
     "category": "Pharmacology",
     "domain": 3,
     "domainName": "Diagnosis and Treatment"
@@ -618,13 +618,13 @@
     "id": 42,
     "question": "A patient completes the PHQ-9 during a routine visit. At what score should the PMHNP consider this a positive screen indicating likely clinical depression?",
     "options": [
-      "Score 5 or higher (mild depression)",
-      "Score 10 or higher (moderate depression - treatment indicated)",
-      "Score 15 or higher (moderately severe)",
-      "Score 20 or higher (severe depression)"
+      "Score 5 or higher",
+      "Score 10 or higher",
+      "Score 15 or higher",
+      "Score 20 or higher"
     ],
     "correctAnswer": 1,
-    "rationale": "PHQ-9 ≥10: 88% sensitivity/specificity for major depression. CRITICAL: SUD can inflate depression scores. Screen BOTH conditions: PHQ-9 for depression + AUDIT/CAGE for alcohol + DAST for drugs. Treat as co-occurring disorders.",
+    "rationale": "PHQ-9 scoring: 0-4 (minimal), 5-9 (mild), 10-14 (moderate), 15-19 (moderately severe), 20-27 (severe). Score of 10+ indicates moderate depression and is the clinical threshold for considering treatment intervention. Board pearl: PHQ-9 ≥10 = positive screen requiring further assessment and likely treatment. Always assess for suicidality (question 9) regardless of total score.",
     "category": "Assessment Scales & Screening",
     "domain": 2,
     "domainName": "Advanced Practice Skills"
@@ -639,7 +639,7 @@
       "<20"
     ],
     "correctAnswer": 2,
-    "rationale": "MMSE (0-30): 24-30=normal, 18-23=mild, 10-17=moderate, <10=severe. LIMITATION: ceiling effect misses MCI in educated patients. Use MoCA instead—more sensitive for mild impairment and executive dysfunction.",
+    "rationale": "GAD-7 (Generalized Anxiety Disorder 7-item scale): Score range 0-21. Cutoffs: 5-9 (mild), 10-14 (moderate), 15-21 (severe). Score ≥10 suggests clinically significant anxiety warranting treatment consideration. Questions assess: feeling nervous, unable to stop worrying, worrying too much, trouble relaxing, restless, irritable, afraid something awful will happen. Time frame: past 2 weeks. Used for screening and monitoring treatment response. Can also screen for panic disorder, social anxiety, PTSD.",
     "category": "Assessment Scales & Screening",
     "domain": 2,
     "domainName": "Advanced Practice Skills"
@@ -654,7 +654,7 @@
       "Score 24-30 is considered normal cognition"
     ],
     "correctAnswer": 3,
-    "rationale": "MMSE 24-30=normal. KEY LIMITATION: MMSE misses mild cognitive impairment (MCI), especially in educated patients. MoCA (0-30, cutoff ≥26) is MORE SENSITIVE—tests executive function, visuospatial, abstraction. Use MoCA when suspecting early dementia.",
+    "rationale": "PHQ-9 (Patient Health Questionnaire-9): Score range 0-27. Cutoffs: 5-9 (mild), 10-14 (moderate), 15-19 (moderately severe), 20-27 (severe). Score ≥10 is clinical threshold for treatment consideration. Questions map to DSM-5 MDD criteria: anhedonia, depressed mood, sleep, energy, appetite, guilt, concentration, psychomotor changes, suicidal ideation. Question 9 (suicidal thoughts) requires direct assessment regardless of total score. Time frame: past 2 weeks.",
     "category": "Assessment Scales & Screening",
     "domain": 2,
     "domainName": "Advanced Practice Skills"
@@ -669,7 +669,7 @@
       "CIWA score greater than 15"
     ],
     "correctAnswer": 0,
-    "rationale": "CIWA-Ar TREATMENT THRESHOLDS: Score >8: Consider treatment. Score 8-15: Mild withdrawal, PRN benzos. Score 16-20: Moderate, scheduled benzos. Score >20: Severe, high risk for seizures/DTs, ICU consideration. ALWAYS give thiamine before glucose in alcoholics to prevent Wernicke's.",
+    "rationale": "CIWA-Ar (Clinical Institute Withdrawal Assessment for Alcohol, Revised) scoring: 0-9 (mild, may not need meds), 10-15 (moderate, consider PRN benzos), 16-20 (severe, scheduled benzos needed), >20 (very severe, high risk of seizures/DTs). Score >8-10 typically triggers pharmacologic intervention. Monitor q1-2h initially. Benzodiazepines are first-line treatment - commonly lorazepam, chlordiazepoxide, or diazepam.",
     "category": "Assessment Scales & Screening",
     "domain": 2,
     "domainName": "Advanced Practice Skills"
@@ -684,7 +684,7 @@
       "COWS score greater than 15"
     ],
     "correctAnswer": 0,
-    "rationale": "COWS (Clinical Opiate Withdrawal Scale) guides buprenorphine initiation. Score >8-12: Can start buprenorphine (patient in sufficient withdrawal). Starting too early causes precipitated withdrawal. Signs of withdrawal: dilated pupils, tachycardia, lacrimation, rhinorrhea, piloerection, yawning, restlessness.",
+    "rationale": "COWS (Clinical Opiate Withdrawal Scale) scoring: 5-12 (mild), 13-24 (moderate), 25-36 (moderately severe), >36 (severe). For buprenorphine induction, patient should score ≥8-12 to avoid precipitated withdrawal. COWS assesses: resting pulse, sweating, restlessness, pupil size, bone/joint aches, runny nose, GI upset, tremor, yawning, anxiety, gooseflesh. Higher scores = safer to start buprenorphine.",
     "category": "Assessment Scales & Screening",
     "domain": 2,
     "domainName": "Advanced Practice Skills"
@@ -1014,7 +1014,7 @@
       "Identity vs. Role Confusion"
     ],
     "correctAnswer": 2,
-    "rationale": "ERIKSON'S INTEGRITY VS. DESPAIR (65+ years): Life review stage. Success = wisdom, acceptance of one's life. Failure = regret, bitterness, fear of death. Therapeutic approach: Life review therapy, reminiscence. Teach: It's never too late to find meaning and peace.",
+    "rationale": "ERIKSON'S PSYCHOSOCIAL STAGES - Older adults (65+): INTEGRITY vs DESPAIR. Successful resolution: wisdom, acceptance of life lived, peace with mortality. Unsuccessful: despair, regret, fear of death. Other key stages for boards: Infancy (Trust vs Mistrust), Toddler (Autonomy vs Shame), Preschool (Initiative vs Guilt), School age (Industry vs Inferiority), Adolescence (Identity vs Role Confusion), Young adult (Intimacy vs Isolation), Middle adult (Generativity vs Stagnation).",
     "category": "Developmental Theory & Lifespan",
     "domain": 4,
     "domainName": "Psychotherapy and Related Theories"
@@ -1059,7 +1059,7 @@
       "Supportive therapy"
     ],
     "correctAnswer": 1,
-    "rationale": "DBT is gold standard for BPD—reduces self-harm and suicidality. Four modules: mindfulness, distress tolerance, emotion regulation, interpersonal effectiveness. Teach patient: Skills take practice; improvement is gradual.",
+    "rationale": "DIALECTICAL BEHAVIOR THERAPY (DBT) is the GOLD STANDARD for Borderline Personality Disorder. Four core modules: (1) Mindfulness, (2) Distress Tolerance, (3) Emotion Regulation, (4) Interpersonal Effectiveness. Evidence shows DBT reduces self-harm, suicidal behavior, and hospitalizations. Weekly individual therapy + skills group. Addresses chronic emptiness through validation and behavior change.",
     "category": "Psychotherapy & Treatment Modalities",
     "domain": 4,
     "domainName": "Psychotherapy and Related Theories"
@@ -1074,7 +1074,7 @@
       "Supportive therapy only"
     ],
     "correctAnswer": 0,
-    "rationale": "PTSD FIRST-LINE TREATMENT: Trauma-focused therapies including Prolonged Exposure (PE), Cognitive Processing Therapy (CPT), and EMDR. These directly process traumatic memories. Medications (sertraline, paroxetine) are adjunctive. Avoid benzodiazepines—interfere with trauma processing and have high abuse potential in PTSD.",
+    "rationale": "PTSD FIRST-LINE TREATMENTS: Psychotherapy: Prolonged Exposure (PE), Cognitive Processing Therapy (CPT), EMDR (Eye Movement Desensitization and Reprocessing). All are trauma-focused therapies. Medications: SSRIs (sertraline, paroxetine - FDA approved), SNRIs (venlafaxine). Second-line: prazosin for nightmares. NOT recommended: benzodiazepines (may worsen outcomes, interfere with extinction learning). Important: trauma-focused therapy is preferred over medication alone. Combination may be beneficial.",
     "category": "Psychotherapy & Treatment Modalities",
     "domain": 4,
     "domainName": "Psychotherapy and Related Theories"
@@ -1269,7 +1269,7 @@
       "Family therapy only"
     ],
     "correctAnswer": 2,
-    "rationale": "Pediatric OCD: CBT with ERP is first-line. Add SSRI for moderate-severe cases. Teach parents: Help child resist compulsions but don't accommodate the OCD.",
+    "rationale": "TARASOFF DUTY: When patient makes credible threat against identifiable victim, clinician has DUTY TO PROTECT that victim. Options: (1) Warn intended victim directly, (2) Notify police, (3) Hospitalize patient. Varies by state - some require warning, others allow other protective actions. Does NOT apply to: vague threats, threats against self, threats without identifiable victim. Balance: maintain therapeutic alliance while fulfilling legal duty. Document assessment thoroughly.",
     "category": "Psychotherapy & Treatment Modalities",
     "domain": 4,
     "domainName": "Psychotherapy and Related Theories"
@@ -2224,12 +2224,12 @@
     "question": "A PMHNP is counseling a woman with bipolar disorder who is planning pregnancy. She asks about mood stabilizer risks. Which medication poses the HIGHEST risk for neural tube defects?",
     "options": [
       "Lithium",
-      "Lamotrigine (relatively safe)",
+      "Lamotrigine",
       "Carbamazepine",
       "Valproic acid"
     ],
-    "correctAnswer": 3,
-    "rationale": "Valproate (Depakote) = HIGHEST teratogen risk: neural tube defects (spina bifida), lower IQ in children. CONTRAINDICATED in pregnancy and women of childbearing potential without contraception. All patients need folic acid.",
+    "correctAnswer": 1,
+    "rationale": "LAMOTRIGINE (Lamictal) is the SAFEST mood stabilizer in pregnancy. Teratogenicity risk ranking: Valproate (HIGHEST - neural tube defects, contraindicated) > Carbamazepine > Lithium (Ebstein's anomaly) > Lamotrigine (LOWEST). Board pearl: If pregnant bipolar patient needs mood stabilizer, lamotrigine is first choice. Valproate is absolutely contraindicated in pregnancy and women of childbearing potential without reliable contraception.",
     "category": "Cultural Competence",
     "domain": 5,
     "domainName": "Ethical and Legal Principles"
@@ -2259,7 +2259,7 @@
       "Academic performance review only"
     ],
     "correctAnswer": 0,
-    "rationale": "Before stimulants: cardiac history, family history of sudden death, baseline BP/HR. Stimulants can raise BP/HR. Teach parents: If child has chest pain, fainting, or palpitations—stop medication and call immediately.",
+    "rationale": "PSYCHIATRIC MEDICATIONS IN PREGNANCY - Risk categories: SAFEST: Lamotrigine (mood stabilizer), most SSRIs (sertraline preferred - most data). MODERATE RISK: Lithium (Ebstein's anomaly 1/1000 vs 1/20000 baseline). CONTRAINDICATED: Valproate (neural tube defects, lower IQ), Carbamazepine (facial abnormalities). Benzodiazepines: avoid first trimester (cleft palate), third trimester (floppy infant syndrome). General principle: untreated maternal mental illness also poses risks - weigh benefits vs risks individually.",
     "category": "Cultural Competence",
     "domain": 5,
     "domainName": "Ethical and Legal Principles"
@@ -3035,11 +3035,11 @@
     "options": [
       "0.6-1.2 mEq/L",
       "0.4-0.8 mEq/L",
-      "1.5-2.0 mEq/L (toxic)",
-      "2.0-3.0 mEq/L (severely toxic)"
+      "1.5-2.0 mEq/L",
+      "2.0-3.0 mEq/L"
     ],
     "correctAnswer": 0,
-    "rationale": "Lithium therapeutic level: 0.6-1.2 mEq/L. Check levels 5 days after dose change (steady state). Draw level 12 hours post-dose. Acute mania may need higher end (1.0-1.2). Maintenance can use lower (0.6-0.8). Teach patient: Get labs as scheduled, same time each draw.",
+    "rationale": "LITHIUM THERAPEUTIC LEVEL: 0.6-1.2 mEq/L for maintenance. Key points: Draw trough level 12 hours post-dose. Acute mania target: 0.8-1.2 mEq/L. Maintenance target: 0.6-1.0 mEq/L (lower for elderly). Toxicity begins >1.5 mEq/L. Monitor every 3-6 months when stable. Factors that increase levels: dehydration, NSAIDs, ACE inhibitors, thiazides.",
     "category": "Mood Stabilizers - Therapeutic Levels",
     "domain": 3,
     "domainName": "Diagnosis and Treatment"
@@ -3079,12 +3079,12 @@
     "question": "A woman with bipolar disorder on lithium discovers she is 6 weeks pregnant. She asks if she can continue lithium. What should the PMHNP explain?",
     "options": [
       "Lithium is safe throughout pregnancy",
-      "Lithium is established treatment for bipolar but Pregnancy Category D; risk of Ebstein's anomaly in first trimester",
+      "Lithium poses risk of Ebstein anomaly, especially in first trimester; discuss risks/benefits",
       "Lithium has no fetal effects",
-      "Lithium is only contraindicated during labor"
+      "Lithium is only dangerous during delivery"
     ],
-    "correctAnswer": 3,
-    "rationale": "Lithium pregnancy warning: Category D, causes Ebstein's anomaly (cardiac defect) especially in first trimester. NOT safe early pregnancy. Lactation L3 (limited safety data). Teach patient: Use reliable contraception. If pregnancy desired, discuss alternatives with provider.",
+    "correctAnswer": 1,
+    "rationale": "LITHIUM and pregnancy: Category D. First trimester exposure increases risk of EBSTEIN'S ANOMALY (tricuspid valve malformation) from 1/20,000 to 1/1,000. Risk is highest weeks 2-6 of gestation. Management: If possible, taper lithium before conception or during first trimester. If must continue, use lowest effective dose, check levels frequently (q2-4 weeks), obtain fetal echocardiogram at 16-20 weeks. NOT safe in early pregnancy - counsel patient on risks vs benefits of continuing.",
     "category": "Mood Stabilizers - Safety",
     "domain": 3,
     "domainName": "Diagnosis and Treatment"
@@ -3099,7 +3099,7 @@
       "Only affect lithium when taken together"
     ],
     "correctAnswer": 2,
-    "rationale": "ACE INHIBITORS (lisinopril, enalapril) can approximately DOUBLE lithium levels by reducing renal blood flow and GFR. Result: lithium toxicity risk. Same concern with ARBs. When starting ACE inhibitor: check lithium level in 1 week, may need to reduce lithium dose by 25-50%. Teach patient toxicity signs.",
+    "rationale": "ACE INHIBITORS + LITHIUM = DANGEROUS interaction. ACE inhibitors decrease renal lithium clearance, can DOUBLE lithium levels causing toxicity. Same risk with ARBs. Other drugs that increase lithium: NSAIDs, thiazide diuretics (not loop diuretics), metronidazole. Drugs that decrease lithium: caffeine, theophylline, acetazolamide. When starting ACE inhibitor in patient on lithium: reduce lithium dose by 25-50%, check level in 5-7 days, monitor for toxicity (tremor, ataxia, confusion, GI symptoms).",
     "category": "Mood Stabilizers - Drug Interactions",
     "domain": 3,
     "domainName": "Diagnosis and Treatment"
@@ -3111,10 +3111,10 @@
       "2-6 mcg/mL",
       "12-20 mcg/mL (high)",
       "6-12 mcg/mL",
-      "20-30 mcg/mL (toxic)"
+      "20-30 mcg/mL"
     ],
     "correctAnswer": 2,
-    "rationale": "Carbamazepine (Tegretol) therapeutic level: 6-12 mcg/mL. Check levels 1-2 weeks after initiation. Also monitor CBC (agranulocytosis risk) and LFTs (hepatotoxicity). Teach patient: Report unusual bleeding, bruising, or jaundice.",
+    "rationale": "CARBAMAZEPINE THERAPEUTIC LEVEL: 6-12 mcg/mL. Important considerations: Auto-induction occurs (induces own metabolism) - levels may drop after 2-4 weeks. Check level 2-4 weeks after dose changes. Also monitor: CBC (agranulocytosis, aplastic anemia), LFTs (hepatotoxicity), sodium (SIADH). Drug interactions: potent CYP3A4 inducer reduces levels of many drugs including OCPs.",
     "category": "Mood Stabilizers - Therapeutic Levels",
     "domain": 3,
     "domainName": "Diagnosis and Treatment"
@@ -3128,8 +3128,8 @@
       "Severe hypertension",
       "Constipation only"
     ],
-    "correctAnswer": 2,
-    "rationale": "Carbamazepine side effects: sedation, dizziness, ataxia, diplopia, nausea, rash. Does NOT typically cause weight loss or hyperactivity. Can cause SIADH (low sodium). Teach patient: Avoid driving until side effects known. Take with food.",
+    "correctAnswer": 0,
+    "rationale": "CARBAMAZEPINE COMMON SIDE EFFECTS: sedation, dizziness, ataxia, diplopia (double vision), nausea, headache, and blurred vision. These are dose-related and often improve over time. Carbamazepine does NOT cause severe hypertension - it can actually cause SIADH leading to hyponatremia. Serious but rare: agranulocytosis, aplastic anemia, SJS/TEN. Weight loss and hyperactivity are not associated with carbamazepine.",
     "category": "Mood Stabilizers - Side Effects",
     "domain": 3,
     "domainName": "Diagnosis and Treatment"
@@ -3201,10 +3201,10 @@
       "25-75 mcg/mL",
       "50-125 mcg/mL",
       "100-200 mcg/mL (high)",
-      "150-250 mcg/mL (toxic)"
+      "150-250 mcg/mL"
     ],
     "correctAnswer": 1,
-    "rationale": "Valproic acid therapeutic level: 50-125 mcg/mL. Check levels 1-2 weeks after dose changes. Also monitor LFTs and CBC. Higher levels (80-125) may be needed for acute mania. Teach patient: Report unusual bleeding or bruising.",
+    "rationale": "VALPROATE THERAPEUTIC LEVEL: 50-125 mcg/mL. Higher levels (85-125) for acute mania, lower (50-100) for maintenance. Draw trough level. Monitor: LFTs (hepatotoxicity - highest risk in children <2), CBC with platelets (thrombocytopenia), ammonia if confusion occurs. Black box warnings: hepatotoxicity, pancreatitis, teratogenicity. Common side effects: weight gain, tremor, hair loss.",
     "category": "Mood Stabilizers - Therapeutic Levels",
     "domain": 3,
     "domainName": "Diagnosis and Treatment"
@@ -3249,7 +3249,7 @@
       "40 mg/kg"
     ],
     "correctAnswer": 1,
-    "rationale": "Valproic acid loading dose: 20 mg/kg. Used for rapid control of acute mania or seizures. Achieves therapeutic levels faster than gradual titration. Standard maintenance: 15-60 mg/kg/day in divided doses.",
+    "rationale": "VALPROATE LOADING DOSE: 20 mg/kg for acute mania or status epilepticus. Allows rapid achievement of therapeutic levels within 24-48 hours. Can divide into 2-3 doses. Maximum daily dose generally 60 mg/kg/day. Alternative: 20-30 mg/kg/day divided. Check level after 2-3 days. GI side effects common with loading - consider IV route if severe.",
     "category": "Mood Stabilizers - Dosing",
     "domain": 3,
     "domainName": "Diagnosis and Treatment"
@@ -3258,13 +3258,13 @@
     "id": 218,
     "question": "A PMHNP is using the SLUMS (St. Louis University Mental Status) exam to screen an educated patient for cognitive impairment. Which score range indicates dementia?",
     "options": [
-      "27-30 (normal)",
+      "27-30",
       "1-20",
       "Only scores below 10",
       "21-26 (MCI)"
     ],
     "correctAnswer": 3,
-    "rationale": "SLUMS (0-30) and MoCA (0-30): Both MORE SENSITIVE than MMSE for mild cognitive impairment. MoCA: ≥26=normal, <26=impaired (+1 point if ≤12 yrs education). Tests: visuospatial, naming, attention, language, abstraction, delayed recall, orientation. ~10 minutes.",
+    "rationale": "SLUMS (St. Louis University Mental Status) scoring: 27-30 = normal, 21-26 = Mild Cognitive Impairment (MCI), <21 = dementia (for high school educated). For less than high school: 25-30 = normal, 20-24 = MCI, <20 = dementia. SLUMS is MORE SENSITIVE than MMSE for MCI detection. Tests visuospatial, memory, calculation, and executive function.",
     "category": "Mental Status Assessment",
     "domain": 2,
     "domainName": "Advanced Practice Skills"
@@ -3428,8 +3428,8 @@
       "Only ADL impairment is clinically significant",
       "Financial management is not part of functional assessment"
     ],
-    "correctAnswer": 0,
-    "rationale": "Elderly functional assessment: IADL (Instrumental Activities of Daily Living) includes managing finances/checkbook—most sensitive indicator of cognitive decline. Also: medication management, shopping, cooking. Loss of IADLs often precedes ADL decline.",
+    "correctAnswer": 1,
+    "rationale": "IADL (Instrumental Activities of Daily Living) impairment is HIGHLY CLINICALLY SIGNIFICANT. Managing finances/checkbook is often the FIRST IADL affected in cognitive decline - it's the most sensitive indicator. IADLs (finances, medications, shopping, cooking, transportation) are affected BEFORE ADLs (bathing, dressing, toileting). A 78-year-old who can no longer manage her checkbook requires further cognitive evaluation. This is NOT normal aging.",
     "category": "Geriatric Assessment",
     "domain": 2,
     "domainName": "Advanced Practice Skills"
@@ -3879,7 +3879,7 @@
       "Tardive dyskinesia"
     ],
     "correctAnswer": 3,
-    "rationale": "EPS can progress to Tardive Dyskinesia (TD): involuntary movements of face/tongue/trunk after chronic antipsychotic use. Monitor with AIMS scale every 6 months. TD may be irreversible. Consider switching to atypical antipsychotic.",
+    "rationale": "TARDIVE DYSKINESIA (TD) is the concern after dystonia and akathisia with antipsychotic use. TD develops after months-years of D2 blockade (unlike acute dystonia/akathisia which occur early). Presents as involuntary choreoathetoid movements of face, tongue, jaw, trunk, extremities. Risk factors: older age, female, longer duration, higher doses, first-gen antipsychotics. May be irreversible - monitor with AIMS scale.",
     "category": "Antipsychotic Side Effects",
     "domain": 3,
     "domainName": "Diagnosis and Treatment"
@@ -3894,7 +3894,7 @@
       "Dystonia and pseudoparkinsonism"
     ],
     "correctAnswer": 2,
-    "rationale": "EPS does NOT include hypothermia/bradycardia (those are NMS signs). EPS includes: akathisia (restlessness), akinesia (lack of movement), dystonia (muscle spasms), pseudoparkinsonism (tremor, rigidity, shuffling gait).",
+    "rationale": "EXTRAPYRAMIDAL SYMPTOMS (EPS) do NOT include hypothermia and bradycardia. EPS include: (1) Acute dystonia (hours-days): muscle spasms, oculogyric crisis, (2) Akathisia (days-weeks): restlessness, (3) Parkinsonism (weeks): bradykinesia, rigidity, tremor, (4) Tardive dyskinesia (months-years): involuntary movements. Hypothermia/bradycardia suggest other conditions like NMS (which has HYPERthermia) or overdose.",
     "category": "Antipsychotic Side Effects",
     "domain": 3,
     "domainName": "Diagnosis and Treatment"
@@ -4044,7 +4044,7 @@
       "Erythromycin INHIBITS CYP3A4, raising carbamazepine levels to toxic range"
     ],
     "correctAnswer": 3,
-    "rationale": "Erythromycin (CYP3A4 inhibitor) + carbamazepine = carbamazepine TOXICITY (ataxia, diplopia, nausea). BOARD TIP: Inhibitors cause TOXICITY (drug levels UP). Inducers cause treatment FAILURE (drug levels DOWN). 'Inhibitors Increase, Inducers Impair.'",
+    "rationale": "CARBAMAZEPINE is a potent CYP3A4 INDUCER - decreases levels of many drugs including: OCPs (contraceptive failure), warfarin, valproate, lamotrigine, atypical antipsychotics. Also auto-induces own metabolism. CYP3A4 INHIBITORS increase carbamazepine levels causing toxicity: erythromycin, clarithromycin, ketoconazole, grapefruit juice, cimetidine. Carbamazepine toxicity: diplopia, ataxia, nystagmus, drowsiness. HLA-B*1502 screening required in Asian patients (risk of SJS/TEN).",
     "category": "Drug Interactions",
     "domain": 3,
     "domainName": "Diagnosis and Treatment"
@@ -4444,7 +4444,7 @@
     "question": "A 16-year-old female is being treated with valproic acid for bipolar disorder. She has a boyfriend and is sexually active. What TEST is essential?",
     "options": [
       "Thyroid function tests",
-      "Pregnancy test - valproate is highly teratogenic",
+      "Pregnancy test",
       "Vitamin D levels",
       "Lipid panel"
     ],
@@ -4674,7 +4674,7 @@
       "Common medication side effects"
     ],
     "correctAnswer": 0,
-    "rationale": "NMS: high fever, lead-pipe rigidity, altered mental status, autonomic instability. Labs show leukocytosis, elevated CK, myoglobinuria. Caused by dopamine blockade (antipsychotics). Life-threatening—stop antipsychotic immediately.",
+    "rationale": "NEUROLEPTIC MALIGNANT SYNDROME (NMS): Classic tetrad - (1) Fever >104°F, (2) Severe muscle RIGIDITY (lead-pipe), (3) Altered mental status, (4) Autonomic instability. Labs: elevated CK (>1000, often >10,000), leukocytosis, metabolic acidosis. Caused by dopamine blockade. Treatment: STOP antipsychotic immediately, IV fluids, cooling, dantrolene, bromocriptine. Mortality 10-20% if untreated.",
     "category": "Antipsychotic Emergencies",
     "domain": 3,
     "domainName": "Diagnosis and Treatment"
@@ -5179,12 +5179,12 @@
     "question": "A 28-year-old woman with bipolar disorder on lithium is planning pregnancy. What is the FIRST laboratory test to order?",
     "options": [
       "Complete blood count",
-      "Pregnancy test - lithium is teratogenic",
+      "Pregnancy test",
       "Liver function tests",
       "Thyroid function tests"
     ],
     "correctAnswer": 1,
-    "rationale": "Female on lithium—first test: PREGNANCY TEST (HCG). Lithium is Category D, causes Ebstein's anomaly. Must rule out pregnancy before continuing. If pregnant, discuss risks/alternatives. Reliable contraception essential.",
+    "rationale": "Women of childbearing age on LITHIUM: FIRST test before any medication changes is PREGNANCY TEST. Lithium is teratogenic (Category D) - causes Ebstein's anomaly. Must know pregnancy status before continuing, adjusting, or discontinuing. If pregnant: discuss risks, consider switching to lamotrigine, or if lithium essential, minimize dose and monitor closely with fetal echo at 16-20 weeks.",
     "category": "Lithium Monitoring",
     "domain": 3,
     "domainName": "Diagnosis and Treatment"
@@ -5196,7 +5196,7 @@
       "Complete blood count",
       "Kidney function tests",
       "Lipid panel",
-      "Pregnancy test - valproate is highly teratogenic"
+      "Pregnancy test"
     ],
     "correctAnswer": 3,
     "rationale": "Depakote monitoring: pregnancy test (teratogenic), LFTs (hepatotoxicity), CBC with platelets (thrombocytopenia), and drug levels (50-125 mcg/mL). Pregnanediol is a pregnancy metabolite—pregnancy testing is the key concern.",
@@ -5694,7 +5694,7 @@
       "D. Ignore the disclosure"
     ],
     "correctAnswer": 0,
-    "rationale": "Minor sexual orientation disclosure: maintain confidentiality unless safety concern. Sexual orientation is protected health information. Assess family acceptance/rejection risk. Support adolescent's developmental process. Document carefully.",
+    "rationale": "MINOR CONFIDENTIALITY - Sexual orientation: Maintain confidentiality unless there is a safety concern. Sexual orientation is protected health information. The minor's right to privacy must be balanced against any duty to inform parents. Assess: Is the family environment safe? Is there abuse risk if disclosed? In most states, sexual orientation alone is NOT a reason to break confidentiality with a minor.",
     "category": "Ethics",
     "domain": 5,
     "domainName": "Ethical and Legal Principles"
@@ -5901,10 +5901,10 @@
       "Sertraline",
       "Both medications",
       "Neither medication",
-      "Isotretinoin (Accutane) - Category X, highly teratogenic"
+      "Isotretinoin"
     ],
     "correctAnswer": 3,
-    "rationale": "Pregnancy + Accutane: DISCONTINUE ACCUTANE immediately—highly teratogenic (Category X), causes severe birth defects. Zoloft (sertraline) generally continued in pregnancy if needed. iPLEDGE prevents pregnancy on Accutane.",
+    "rationale": "ISOTRETINOIN (Accutane) is absolutely CONTRAINDICATED in pregnancy - Category X, highly teratogenic. Causes severe birth defects including craniofacial, cardiac, and CNS abnormalities. Requires iPLEDGE program with two forms of contraception. Sertraline is relatively safe in pregnancy (preferred SSRI). If patient becomes pregnant on isotretinoin, discontinue IMMEDIATELY and refer to high-risk OB.",
     "category": "Pharmacology",
     "domain": 3,
     "domainName": "Diagnosis and Treatment"
@@ -5919,7 +5919,7 @@
       "Leukocytosis"
     ],
     "correctAnswer": 0,
-    "rationale": "PDE5 inhibitors (sildenafil, tadalafil): RAPIDLY absorbed. Onset: 30-60 min. Take on empty stomach for faster effect. Tadalafil longest duration (36 hrs). Contraindicated with nitrates.",
+    "rationale": "SEROTONIN SYNDROME distinguishing features: CLONUS and HYPERREFLEXIA (especially lower extremity). Triad: (1) Mental status changes, (2) Autonomic instability (hyperthermia, diaphoresis, tachycardia), (3) Neuromuscular hyperactivity (HYPERREFLEXIA, clonus, tremor, rigidity). Key differentiator from NMS: Serotonin syndrome has hyperreflexia/clonus; NMS has lead-pipe rigidity and HYPOreflexia.",
     "category": "Pharmacology",
     "domain": 3,
     "domainName": "Diagnosis and Treatment"
@@ -6139,7 +6139,7 @@
     "question": "A newly pregnant patient is on multiple medications. Which medication is Category X and MUST be discontinued?",
     "options": [
       "Acetaminophen",
-      "ISOTRETINOIN (Accutane) - highly teratogenic, Category X",
+      "Isotretinoin",
       "Prenatal vitamins",
       "Folic acid"
     ],
@@ -6234,7 +6234,7 @@
       "Alprazolam"
     ],
     "correctAnswer": 1,
-    "rationale": "ALCOHOL WITHDRAWAL + LIVER DISEASE: Use LORAZEPAM (Ativan) - metabolized by GLUCURONIDATION, NOT hepatic CYP450 enzymes. Safe in liver failure. LOT benzos (Lorazepam, Oxazepam, Temazepam) are safer in hepatic impairment. Diazepam and chlordiazepoxide have active metabolites that accumulate.",
+    "rationale": "LORAZEPAM (Ativan) is preferred for alcohol withdrawal in patients with HEPATIC IMPAIRMENT. Reason: Lorazepam is metabolized by glucuronidation (Phase II) - NOT affected by liver disease. Other benzos (diazepam, chlordiazepoxide) use oxidative (Phase I) metabolism which is impaired in liver disease. Also prefer oxazepam. Avoid long-acting benzos in liver failure due to accumulation risk.",
     "category": "Substance Use",
     "domain": 3,
     "domainName": "Diagnosis and Treatment"
@@ -6249,7 +6249,7 @@
       "Antipsychotics only"
     ],
     "correctAnswer": 2,
-    "rationale": "CIWA-Ar PROTOCOL: Score 8-15 = mild (PRN benzos). Score ≥16 = moderate-severe (SCHEDULED benzos every 2-4 hours). Score of 18 requires SCHEDULED benzodiazepines with frequent monitoring. CRITICAL: Give thiamine BEFORE glucose to prevent Wernicke's encephalopathy.",
+    "rationale": "ALCOHOL WITHDRAWAL TIMELINE: 6-12h: tremor, anxiety, headache, GI upset, palpitations. 12-24h: withdrawal seizures (peak 24h, usually generalized tonic-clonic). 24-48h: alcoholic hallucinosis (visual hallucinations with clear sensorium). 48-96h: DELIRIUM TREMENS (DTs) - confusion, agitation, fever, autonomic instability, hallucinations, mortality 5-15% untreated. CIWA-Ar score guides treatment: <10 (may not need meds), 10-15 (PRN benzos), >15 (scheduled benzos). Benzodiazepines are first-line for all stages.",
     "category": "Substance Use",
     "domain": 3,
     "domainName": "Diagnosis and Treatment"
@@ -6784,7 +6784,7 @@
     "question": "A patient in the office suddenly discloses being raped. What is the FIRST response the PMHNP should provide?",
     "options": [
       "Call police immediately",
-      "REASSURE safety - 'You are in a safe place'",
+      "REASSURE safety",
       "Continue routine appointment",
       "Immediate ER referral"
     ],
@@ -6890,7 +6890,7 @@
     "options": [
       "Diagnose PTSD",
       "Diagnose major depression",
-      "SUPPORTIVE THERAPY and encourage return to normal activities (normal grief)",
+      "SUPPORTIVE THERAPY and encourage return to normal activities",
       "Start antidepressants"
     ],
     "correctAnswer": 2,

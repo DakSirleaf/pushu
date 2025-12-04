@@ -1,0 +1,231 @@
+[
+  {
+    "id": 6,
+    "question": "A patient with bipolar I disorder has been stable on lithium for 2 years. The PM...",
+    "answer": "0.8 mEq/L",
+    "answerWords": [
+      "meql"
+    ],
+    "rationaleStart": "Therapeutic lithium: 0.6–1.2 mEq/L for maintenance. Teach patient: Stay hydrated, maintain consistent salt intake, and never miss labs."
+  },
+  {
+    "id": 15,
+    "question": "Which SSRI is FDA-approved for bulimia nervosa?...",
+    "answer": "Prozac 60 mg",
+    "answerWords": [
+      "prozac"
+    ],
+    "rationaleStart": "SSRIs increase BLEEDING RISK by inhibiting serotonin uptake in platelets (serotonin needed for platelet aggregation). Risk highest when combined with "
+  },
+  {
+    "id": 18,
+    "question": "A 35-year-old man with depression reports that sexual dysfunction from his previ...",
+    "answer": "Bupropion (Wellbutrin)",
+    "answerWords": [
+      "bupropion",
+      "wellbutrin"
+    ],
+    "rationaleStart": "MAOIs (phenelzine, tranylcypromine, selegiline patch >6mg) require TYRAMINE-RESTRICTED DIET to prevent hypertensive crisis. High tyramine foods: aged "
+  },
+  {
+    "id": 26,
+    "question": "A PMHNP is selecting an antipsychotic for a patient with a history of QTc prolon...",
+    "answer": "Ziprasidone (Geodon)",
+    "answerWords": [
+      "ziprasidone",
+      "geodon"
+    ],
+    "rationaleStart": "CLOZAPINE requires REMS monitoring due to agranulocytosis risk (~1%). ANC monitoring schedule: Weekly for first 6 months, every 2 weeks for months 6-1"
+  },
+  {
+    "id": 27,
+    "question": "A patient with bipolar I disorder has had multiple breakthrough manic episodes d...",
+    "answer": "Valproate (Depakote)",
+    "answerWords": [
+      "valproate",
+      "depakote"
+    ],
+    "rationaleStart": "QTc PROLONGATION risk with antipsychotics - highest risk: ZIPRASIDONE (Geodon), thioridazine, IV haloperidol. QTc >500ms or increase >60ms from baseli"
+  },
+  {
+    "id": 28,
+    "question": "Before initiating carbamazepine (Tegretol) in a patient of Asian descent, the PM...",
+    "answer": "HLA-B*1502 allele",
+    "answerWords": [
+      "hlab1502",
+      "allele"
+    ],
+    "rationaleStart": "CLOZAPINE is the ONLY antipsychotic proven effective for TREATMENT-RESISTANT SCHIZOPHRENIA (failed 2+ adequate antipsychotic trials). Requires REMS pr"
+  },
+  {
+    "id": 29,
+    "question": "A patient presents to the emergency department in acute mania. The PMHNP decides...",
+    "answer": "20-30 mg/kg/day",
+    "answerWords": [
+      "2030",
+      "mgkgday"
+    ],
+    "rationaleStart": "VALPROATE LOADING DOSE: 20-30 mg/kg/day for acute mania achieves therapeutic levels rapidly (1-2 days vs 5-7 days with standard dosing). Divide into 2"
+  },
+  {
+    "id": 40,
+    "question": "A patient on clozapine is brought to the emergency department obtunded with a CK...",
+    "answer": "Neuroleptic Malignant Syndrome",
+    "answerWords": [
+      "neuroleptic",
+      "malignant",
+      "syndrome"
+    ],
+    "rationaleStart": "RHABDOMYOLYSIS in NMS: Severe muscle rigidity causes muscle breakdown → myoglobin release → kidney damage. CK >1000 (often >10,000) is diagnostic clue"
+  },
+  {
+    "id": 71,
+    "question": "A patient with borderline personality disorder reports chronic feelings of empti...",
+    "answer": "Dialectical Behavior Therapy (DBT)",
+    "answerWords": [
+      "dialectical",
+      "behavior",
+      "therapy"
+    ],
+    "rationaleStart": "DBT is gold standard for BPD—reduces self-harm and suicidality. Four modules: mindfulness, distress tolerance, emotion regulation, interpersonal effec"
+  },
+  {
+    "id": 203,
+    "question": "A patient on lithium for bipolar I disorder has blood drawn for routine monitori...",
+    "answer": "0.6-1.2 mEq/L",
+    "answerWords": [
+      "0612",
+      "meql"
+    ],
+    "rationaleStart": "LITHIUM therapeutic levels: Acute mania: 0.8-1.2 mEq/L. Maintenance: 0.6-1.0 mEq/L. Toxicity: >1.5 mEq/L. Draw level 12 hours post-dose (trough). Earl"
+  },
+  {
+    "id": 208,
+    "question": "A patient on carbamazepine for bipolar disorder has a level drawn. Which serum c...",
+    "answer": "6-12 mcg/mL",
+    "answerWords": [
+      "mcgml"
+    ],
+    "rationaleStart": "Carbamazepine (Tegretol) therapeutic level: 6-12 mcg/mL. Check levels 1-2 weeks after initiation. Also monitor CBC (agranulocytosis risk) and LFTs (he"
+  },
+  {
+    "id": 209,
+    "question": "A patient recently started on carbamazepine reports feeling sedated and dizzy. W...",
+    "answer": "Severe hypertension",
+    "answerWords": [
+      "severe",
+      "hypertension"
+    ],
+    "rationaleStart": "Carbamazepine side effects: sedation, dizziness, ataxia, diplopia, nausea, rash. Does NOT typically cause weight loss or hyperactivity. Can cause SIAD"
+  },
+  {
+    "id": 214,
+    "question": "A patient on valproic acid for bipolar disorder has a level drawn. Which serum c...",
+    "answer": "50-125 mcg/mL",
+    "answerWords": [
+      "50125",
+      "mcgml"
+    ],
+    "rationaleStart": "VALPROATE (Depakote) therapeutic level: 50-125 mcg/mL. Monitor: LFTs (hepatotoxicity risk, especially in children <2), CBC with platelets (thrombocyto"
+  },
+  {
+    "id": 217,
+    "question": "A patient presents in acute mania and the PMHNP decides to use valproic acid wit...",
+    "answer": "20 mg/kg",
+    "answerWords": [
+      "mgkg"
+    ],
+    "rationaleStart": "Valproic acid loading dose: 20 mg/kg. Used for rapid control of acute mania or seizures. Achieves therapeutic levels faster than gradual titration. St"
+  },
+  {
+    "id": 218,
+    "question": "A PMHNP is using the SLUMS (St. Louis University Mental Status) exam to screen a...",
+    "answer": "21-26 (MCI)",
+    "answerWords": [
+      "2126"
+    ],
+    "rationaleStart": "SLUMS (0-30) and MoCA (0-30): Both MORE SENSITIVE than MMSE for mild cognitive impairment. MoCA: ≥26=normal, <26=impaired (+1 point if ≤12 yrs educati"
+  },
+  {
+    "id": 229,
+    "question": "A PMHNP is assessing functional status in a 78-year-old patient with memory comp...",
+    "answer": "Not clinically significant",
+    "answerWords": [
+      "clinically",
+      "significant"
+    ],
+    "rationaleStart": "Elderly functional assessment: IADL (Instrumental Activities of Daily Living) includes managing finances/checkbook—most sensitive indicator of cogniti"
+  },
+  {
+    "id": 259,
+    "question": "A patient on haloperidol develops dystonia and akathisia. The PMHNP is concerned...",
+    "answer": "Tardive dyskinesia",
+    "answerWords": [
+      "tardive",
+      "dyskinesia"
+    ],
+    "rationaleStart": "AKATHISIA vs ANXIETY - commonly confused. Akathisia: subjective restlessness + objective motor restlessness (pacing, inability to sit still, leg swing"
+  },
+  {
+    "id": 260,
+    "question": "A PMHNP is educating a nursing student about extrapyramidal symptoms. Which find...",
+    "answer": "Hypothermia and bradycardia",
+    "answerWords": [
+      "hypothermia",
+      "bradycardia"
+    ],
+    "rationaleStart": "TARDIVE DYSKINESIA (TD): involuntary movements of face, tongue, jaw, extremities developing after months-years of antipsychotic exposure. Risk factors"
+  },
+  {
+    "id": 312,
+    "question": "A patient on haloperidol develops fever of 104°F, severe muscle rigidity, altere...",
+    "answer": "Neuroleptic Malignant Syndrome",
+    "answerWords": [
+      "neuroleptic",
+      "malignant",
+      "syndrome"
+    ],
+    "rationaleStart": "NMS: high fever, lead-pipe rigidity, altered mental status, autonomic instability. Labs show leukocytosis, elevated CK, myoglobinuria. Caused by dopam"
+  },
+  {
+    "id": 380,
+    "question": "Child tells you he is gay and tells you not to tell parents. What applies?...",
+    "answer": "B. Don't tell - Parents right to know VS patient's privacy",
+    "answerWords": [
+      "dont",
+      "tell",
+      "parents",
+      "right",
+      "know"
+    ],
+    "rationaleStart": "Minor sexual orientation disclosure: maintain confidentiality unless safety concern. Sexual orientation is protected health information. Assess family"
+  },
+  {
+    "id": 394,
+    "question": "A pregnant woman is taking sertraline and isotretinoin (Accutane). Which medicat...",
+    "answer": "Isotretinoin",
+    "answerWords": [
+      "isotretinoin"
+    ],
+    "rationaleStart": "Pregnancy + Accutane: DISCONTINUE ACCUTANE immediately—highly teratogenic (Category X), causes severe birth defects. Zoloft (sertraline) generally con"
+  },
+  {
+    "id": 395,
+    "question": "A patient on multiple serotonergic medications presents with hyperthermia, alter...",
+    "answer": "CLONUS and HYPERREFLEXIA",
+    "answerWords": [
+      "clonus",
+      "hyperreflexia"
+    ],
+    "rationaleStart": "PDE5 inhibitors (sildenafil, tadalafil): RAPIDLY absorbed. Onset: 30-60 min. Take on empty stomach for faster effect. Tadalafil longest duration (36 h"
+  },
+  {
+    "id": 416,
+    "question": "A patient with alcohol use disorder AND hepatic impairment presents in withdrawa...",
+    "answer": "LORAZEPAM",
+    "answerWords": [
+      "lorazepam"
+    ],
+    "rationaleStart": "OPIOID WITHDRAWAL is extremely uncomfortable but NOT life-threatening (unlike alcohol/benzo withdrawal). Symptoms: lacrimation, rhinorrhea, yawning, p"
+  }
+]
