@@ -9,7 +9,7 @@
       "Aspirin"
     ],
     "correctAnswer": 2,
-    "rationale": "CARBAMAZEPINE + CIPRO/ERYTHROMYCIN = DANGEROUS. These antibiotics are CYP3A4 INHIBITORS which BLOCK carbamazepine metabolism → carbamazepine levels RISE → TOXICITY (diplopia, ataxia, nystagmus, sedation). Why not acetaminophen, ibuprofen, aspirin? These do NOT significantly interact with carbamazepine. Board pearl: CYP3A4 inhibitors (macrolides, azoles, grapefruit) increase carbamazepine toxicity. CYP3A4 inducers decrease levels of other drugs.",
+    "rationale": "CARBAMAZEPINE + MACROLIDE ANTIBIOTICS (erythromycin, clarithromycin) = DANGEROUS INTERACTION. Mechanism: Macrolides are potent CYP3A4 INHIBITORS. Carbamazepine is metabolized by CYP3A4. Inhibition → carbamazepine accumulates → TOXICITY (diplopia, ataxia, nystagmus, sedation, confusion). Acetaminophen, ibuprofen, and aspirin do NOT significantly inhibit CYP3A4. Board pearl: Other CYP3A4 inhibitors to watch: azole antifungals (ketoconazole, fluconazole), grapefruit juice, cimetidine. Carbamazepine is also a CYP3A4 INDUCER affecting other drugs.",
     "category": "Pharmacology",
     "domain": 3,
     "domainName": "Diagnosis and Treatment"
@@ -24,7 +24,7 @@
       "Hypotension, respiratory depression, and pinpoint pupils"
     ],
     "correctAnswer": 1,
-    "rationale": "Serotonin syndrome presents with tachycardia, hyperthermia, hyperreflexia, and muscle twitching. This is a medical emergency. Teach patient: Seek ER immediately if these symptoms occur when starting or increasing serotonergic meds.",
+    "rationale": "VALPROATE DRUG INTERACTION WITH LAMOTRIGINE: Valproate INHIBITS lamotrigine metabolism, DOUBLING lamotrigine levels. This significantly increases risk of STEVENS-JOHNSON SYNDROME (SJS). When adding lamotrigine to valproate: start at 25mg every OTHER day (not daily), titrate half as fast. Conversely, carbamazepine (CYP inducer) decreases lamotrigine levels - may need higher lamotrigine doses. Board pearl: Lamotrigine-valproate interaction is heavily tested - always ask about concurrent valproate before starting lamotrigine.",
     "category": "Pharmacology",
     "domain": 3,
     "domainName": "Diagnosis and Treatment"
@@ -39,7 +39,7 @@
       "Paliperidone (Invega)"
     ],
     "correctAnswer": 3,
-    "rationale": "Invega (paliperidone) is first-line for first-episode psychosis—better tolerated with lower EPS risk than older antipsychotics. Teach patient: Take consistently; improvement takes weeks.",
+    "rationale": "ANTIPSYCHOTIC METABOLIC MONITORING: All second-generation antipsychotics (SGAs) require metabolic monitoring due to risk of metabolic syndrome. Highest risk: Olanzapine, clozapine. Moderate risk: Quetiapine, risperidone. Lower risk: Aripiprazole, ziprasidone, lurasidone. Monitor at baseline, 12 weeks, then annually: weight/BMI, waist circumference, fasting glucose, lipid panel, blood pressure. If diabetes develops, consider switching to lower-risk agent. Board pearl: 'Metabolic syndrome = increased waist + 2 of: high triglycerides, low HDL, hypertension, hyperglycemia.'",
     "category": "Pharmacology",
     "domain": 3,
     "domainName": "Diagnosis and Treatment"
@@ -54,7 +54,7 @@
       "Lexapro"
     ],
     "correctAnswer": 2,
-    "rationale": "BUPROPION (Wellbutrin) is CONTRAINDICATED in eating disorders because it LOWERS THE SEIZURE THRESHOLD. Patients with bulimia/anorexia have electrolyte imbalances (hypokalemia, hyponatremia) that already increase seizure risk. Bupropion + electrolyte abnormalities = HIGH seizure risk. Fluoxetine (Prozac) is actually FDA-approved for bulimia. Board pearl: Also avoid bupropion with alcohol abuse, head trauma, seizure history.",
+    "rationale": "BUPROPION (Wellbutrin) is CONTRAINDICATED in EATING DISORDERS (anorexia nervosa, bulimia nervosa). Mechanism: Bupropion lowers the seizure threshold. Patients with eating disorders have electrolyte abnormalities (hypokalemia, hyponatremia, hypomagnesemia) that ALREADY increase seizure risk. Bupropion + electrolyte abnormalities = significantly elevated seizure risk. Other bupropion contraindications: seizure disorder, abrupt alcohol/benzodiazepine withdrawal, concurrent MAOIs. What TO use for bulimia: Fluoxetine 60mg is FDA-approved. Board pearl: Bupropion seizure risk is dose-dependent (~0.4% at 450mg/day).",
     "category": "Pharmacology",
     "domain": 3,
     "domainName": "Diagnosis and Treatment"
@@ -69,7 +69,7 @@
       "Risperidone (Risperdal)"
     ],
     "correctAnswer": 2,
-    "rationale": "Clozapine carries the highest metabolic risk: weight gain, diabetes, dyslipidemia. Teach patient: Monitor weight weekly, report increased thirst/urination. Labs: glucose and lipids at baseline, 3 months, then annually.",
+    "rationale": "LITHIUM MONITORING SCHEDULE: Baseline: renal function (BUN, creatinine), thyroid (TSH), ECG (if cardiac history), pregnancy test, CBC. Levels: Check 5-7 days after initiation or dose change (steady state), draw trough 12 hours post-dose. Maintenance: lithium level, renal function, TSH every 3-6 months when stable. More frequent if: dose change, new interacting medication, symptoms of toxicity, illness with vomiting/diarrhea. Board pearl: Lithium has narrow therapeutic index - close monitoring is essential.",
     "category": "Pharmacology",
     "domain": 3,
     "domainName": "Diagnosis and Treatment"
@@ -84,7 +84,7 @@
       "0.8 mEq/L"
     ],
     "correctAnswer": 3,
-    "rationale": "LITHIUM LEVEL 0.8 mEq/L is optimal for maintenance. Therapeutic range: 0.6-1.2 mEq/L. Why is 0.8 correct? It's in the sweet spot - effective without toxicity risk. 0.3 = subtherapeutic (won't work). 1.6 and 2.2 = TOXIC (>1.5 mEq/L causes tremor, ataxia, confusion, seizures). Board pearl: Draw trough level 12 hours post-dose. Elderly may do well at 0.4-0.8 mEq/L.",
+    "rationale": "LITHIUM THERAPEUTIC LEVEL: 0.8 mEq/L is OPTIMAL for maintenance therapy. Therapeutic range: 0.6-1.2 mEq/L. For acute mania, target 0.8-1.2 mEq/L. For maintenance, 0.6-1.0 mEq/L often sufficient. Elderly patients: target 0.4-0.8 mEq/L (increased sensitivity). ALWAYS draw trough level (12 hours post-dose). Subtherapeutic (<0.6): inadequate mood stabilization. Toxic (>1.5): tremor, ataxia, confusion, vomiting, seizures. Factors increasing levels: dehydration, NSAIDs, ACE inhibitors, thiazides, low-salt diet. Board pearl: Narrow therapeutic index - small changes in level have big clinical effects.",
     "category": "Pharmacology",
     "domain": 3,
     "domainName": "Diagnosis and Treatment"
@@ -99,7 +99,7 @@
       "24 hours after the last dose"
     ],
     "correctAnswer": 2,
-    "rationale": "Draw lithium 12 hours after last dose for accurate trough level. Teach patient: Take evening dose, get blood drawn next morning before the AM dose.",
+    "rationale": "CLOZAPINE ANC MONITORING SCHEDULE (REMS): General population: ANC must be ≥1500/μL to start, ≥1500 to continue. Weekly ANC x 6 months → Biweekly x 6 months → Monthly thereafter if stable. If ANC 1000-1499: increase monitoring to 3x/week, may continue clozapine. If ANC <1000: STOP clozapine immediately (moderate neutropenia). If ANC <500: STOP and do NOT rechallenge (severe neutropenia). Benign ethnic neutropenia (BEN): lower thresholds apply. Board pearl: Agranulocytosis risk is ~1%, highest in first 6 months.",
     "category": "Pharmacology",
     "domain": 3,
     "domainName": "Diagnosis and Treatment"
@@ -114,7 +114,7 @@
       "Lithium toxicity"
     ],
     "correctAnswer": 0,
-    "rationale": "Elevated TSH on lithium = HYPOTHYROIDISM. Lithium accumulates in thyroid gland and inhibits thyroid hormone release. Occurs in 20-30% of patients on long-term lithium. Treatment: Add levothyroxine (don't stop lithium if working well). Board pearl: Check TSH baseline and every 6-12 months. Lithium also causes nephrogenic diabetes insipidus (polyuria/polydipsia).",
+    "rationale": "LITHIUM-INDUCED HYPOTHYROIDISM: Elevated TSH indicates hypothyroidism - occurs in 20-30% of patients on long-term lithium. Mechanism: Lithium accumulates in thyroid gland and inhibits thyroid hormone synthesis and release. Management: Add levothyroxine (don't stop lithium if it's working). Women at higher risk. Monitor TSH at baseline, 3 months, then every 6-12 months. Lithium can also cause goiter. Other endocrine effect: Nephrogenic diabetes insipidus (polyuria, polydipsia) - lithium inhibits ADH action at collecting duct. Board pearl: Hypothyroidism is treatable; don't discontinue effective lithium therapy.",
     "category": "Pharmacology",
     "domain": 3,
     "domainName": "Diagnosis and Treatment"
@@ -129,7 +129,7 @@
       "Switch to Depakote"
     ],
     "correctAnswer": 2,
-    "rationale": "Continue lithium (it works); add levothyroxine for the thyroid. Teach patient: Take thyroid medication separately, usually in the morning on empty stomach.",
+    "rationale": "LITHIUM TOXICITY SIGNS AND SYMPTOMS: Mild toxicity (1.5-2.0 mEq/L): nausea, vomiting, diarrhea, fine tremor worsening to coarse tremor, lethargy. Moderate toxicity (2.0-2.5 mEq/L): confusion, ataxia, dysarthria, nystagmus, fasciculations. Severe toxicity (>2.5 mEq/L): seizures, coma, cardiovascular collapse, death. Management: stop lithium, IV fluids for hydration, hemodialysis if severe (level >4.0 or neurological symptoms). Board pearl: Early signs are GI (nausea, diarrhea) and neurological (tremor, ataxia) - teach patients to recognize these.",
     "category": "Pharmacology",
     "domain": 3,
     "domainName": "Diagnosis and Treatment"
@@ -144,7 +144,7 @@
       "Acute renal failure"
     ],
     "correctAnswer": 0,
-    "rationale": "DEHYDRATION is the most common cause of lithium toxicity. Why? Lithium is reabsorbed with sodium in the kidney. Dehydration → sodium/water retention → more lithium reabsorbed → levels rise. Other causes: NSAIDs, ACE inhibitors, thiazides, low-salt diet, vomiting/diarrhea. Board pearl: Teach patients to maintain fluid intake, avoid NSAIDs, and hold lithium if ill with GI symptoms.",
+    "rationale": "DEHYDRATION IS THE MOST COMMON CAUSE OF LITHIUM TOXICITY. Mechanism: Lithium is handled like sodium by the kidney. Dehydration → kidney retains sodium AND lithium → levels rise. Other causes: NSAIDs (decrease renal blood flow), ACE inhibitors/ARBs (decrease GFR), thiazide diuretics (sodium depletion → compensatory lithium retention), vomiting/diarrhea, low-salt diet, hot weather/sweating. Patient education: maintain consistent fluid intake, avoid NSAIDs, maintain salt intake, hold lithium if GI illness with vomiting/diarrhea. Board pearl: Teach patients early toxicity signs - coarse tremor, diarrhea, vomiting, confusion.",
     "category": "Pharmacology",
     "domain": 3,
     "domainName": "Diagnosis and Treatment"
@@ -159,7 +159,7 @@
       "Fluoxetine (Prozac)"
     ],
     "correctAnswer": 0,
-    "rationale": "Lamictal can cause Stevens-Johnson Syndrome—a life-threatening rash. Requires very slow titration. Teach patient: Stop immediately and call if any rash develops, especially with fever or mouth sores.",
+    "rationale": "SSRI DISCONTINUATION SYNDROME: Abrupt SSRI cessation can cause discontinuation symptoms, especially with SHORT half-life agents (paroxetine, venlafaxine worst; fluoxetine rarely due to long half-life). Symptoms: dizziness, nausea, flu-like symptoms, insomnia, 'brain zaps' (electric shock sensations), irritability. Onset 1-3 days after stopping. Prevention: gradual taper over 2-4 weeks. Treatment: restart SSRI and taper more slowly, or switch to fluoxetine (self-tapers due to long half-life). Board pearl: Paroxetine has highest discontinuation syndrome risk; fluoxetine has lowest.",
     "category": "Pharmacology",
     "domain": 3,
     "domainName": "Diagnosis and Treatment"
@@ -174,7 +174,7 @@
       "Nephrotoxicity requiring renal function monitoring"
     ],
     "correctAnswer": 1,
-    "rationale": "Clozapine black box: agranulocytosis (dangerously low WBCs). Requires weekly-to-monthly ANC monitoring via REMS. Teach patient: Report sore throat, fever, or flu-like symptoms immediately.",
+    "rationale": "SSRI BLACK BOX WARNING: FDA black box warning for increased suicidality in CHILDREN, ADOLESCENTS, and YOUNG ADULTS (18-24) during initial treatment. Monitoring required: weekly x 4 weeks, then biweekly x 4 weeks, then at 12 weeks and as indicated. This does NOT mean SSRIs are contraindicated in youth - benefits often outweigh risks for moderate-severe depression. Untreated depression also increases suicide risk. Discuss warning with patient/family. Board pearl: Black box applies to ages <25; monitor closely especially in first 1-2 months.",
     "category": "Pharmacology",
     "domain": 3,
     "domainName": "Diagnosis and Treatment"
@@ -189,7 +189,7 @@
       "Reduce clozapine dose by 50%"
     ],
     "correctAnswer": 2,
-    "rationale": "ANC 1000–1499 = moderate neutropenia. Hold clozapine, check ANC daily. Resume only when ANC ≥1500. Teach patient: Avoid crowds and sick contacts during this time.",
+    "rationale": "TRAZODONE USES AND CAUTIONS: Primarily used as sleep aid at low doses (25-100mg) due to H1 and 5-HT2A blockade. Higher doses (150-400mg) for depression (SARI mechanism). PRIAPISM is rare but serious side effect (prolonged erection >4 hours = medical emergency). Orthostatic hypotension risk, especially in elderly. Rarely used as primary antidepressant now. No significant CYP interactions. Board pearl: Trazodone is the most commonly prescribed medication for insomnia in psychiatric patients.",
     "category": "Pharmacology",
     "domain": 3,
     "domainName": "Diagnosis and Treatment"
@@ -204,7 +204,7 @@
       "Stop clozapine"
     ],
     "correctAnswer": 2,
-    "rationale": "When patient on clozapine QUITS SMOKING, REDUCE clozapine dose. Why? Cigarette smoke (PAHs, not nicotine) INDUCES CYP1A2 which metabolizes clozapine. No smoking = less CYP1A2 activity = clozapine accumulates = toxicity risk (sedation, seizures). Reduce dose by 25-50% when patient quits. Opposite: if patient STARTS smoking, may need to INCREASE dose.",
+    "rationale": "CLOZAPINE AND SMOKING CESSATION: When patient QUITS smoking, REDUCE clozapine dose by 25-50%. Mechanism: Cigarette smoke contains polycyclic aromatic hydrocarbons (PAHs) that INDUCE CYP1A2. Clozapine is metabolized primarily by CYP1A2. Smoking cessation → CYP1A2 activity drops → clozapine levels RISE → risk of sedation, seizures, hypotension. The opposite is also true: if patient STARTS smoking, clozapine levels drop (may need dose increase). Board pearl: It's the smoke (PAHs), not nicotine - nicotine patches don't affect CYP1A2.",
     "category": "Pharmacology",
     "domain": 3,
     "domainName": "Diagnosis and Treatment"
@@ -219,7 +219,7 @@
       "Lexapro 20 mg"
     ],
     "correctAnswer": 2,
-    "rationale": "FLUOXETINE (Prozac) 60mg is the ONLY FDA-approved medication for BULIMIA NERVOSA. Why 60mg (not 20mg)? Bulimia requires higher serotonergic activity to reduce binge-purge cycles. Why not other SSRIs? Only fluoxetine has FDA approval and robust evidence for this indication. Board pearl: CBT is first-line; fluoxetine is adjunct or for those who refuse/fail therapy.",
+    "rationale": "FLUOXETINE (Prozac) 60 mg is the ONLY FDA-APPROVED medication for BULIMIA NERVOSA. Why higher dose than depression (60mg vs 20mg)? Bulimia requires more serotonergic activity to reduce binge-purge cycles. Evidence shows fluoxetine reduces binge eating and purging frequency. Why not other SSRIs? Only fluoxetine has FDA approval and robust evidence for this indication. CBT is first-line psychotherapy for bulimia - medication is adjunct. Why not bupropion? CONTRAINDICATED due to seizure risk with electrolyte abnormalities. Board pearl: For anorexia nervosa, no medication is FDA-approved; weight restoration is primary treatment.",
     "category": "Pharmacology",
     "domain": 3,
     "domainName": "Diagnosis and Treatment"
@@ -234,7 +234,7 @@
       "Duloxetine (Cymbalta)"
     ],
     "correctAnswer": 2,
-    "rationale": "Wellbutrin treats depression AND helps with smoking cessation—dual benefit. Teach patient: Avoid alcohol; set a quit date 1–2 weeks after starting.",
+    "rationale": "VENLAFAXINE (Effexor) DOSE-DEPENDENT MECHANISM: At low doses (<150mg), primarily serotonergic (similar to SSRI). At moderate doses (150-225mg), adds norepinephrine reuptake inhibition. At high doses (>225mg), may add dopamine effects. Side effects: nausea (most common), discontinuation syndrome (worst of SNRIs - short half-life), dose-dependent hypertension (monitor BP at higher doses), sexual dysfunction. Venlafaxine XR preferred over IR for adherence. Board pearl: Check blood pressure when titrating venlafaxine above 225mg.",
     "category": "Pharmacology",
     "domain": 3,
     "domainName": "Diagnosis and Treatment"
@@ -249,7 +249,7 @@
       "Lexapro"
     ],
     "correctAnswer": 2,
-    "rationale": "MIRTAZAPINE (Remeron) or TRAZODONE for depression WITH insomnia. Why? Both have sedating properties. Mirtazapine: blocks H1 receptors (sedation) and 5-HT2A/2C (improves sleep architecture). Also increases appetite (good for depression with weight loss). Trazodone: blocks 5-HT2A and H1. Bupropion is activating (worse for insomnia), SSRIs can cause insomnia initially.",
+    "rationale": "MIRTAZAPINE (Remeron) or TRAZODONE for depression WITH prominent insomnia. Mirtazapine: Blocks H1 receptors (sedation), 5-HT2A/2C receptors (improves sleep architecture, anxiolytic), and alpha-2 adrenergic autoreceptors (increases NE/5-HT release). Also increases appetite - good for depression with weight loss. Dose-dependent sedation (more sedating at 15mg than 30mg due to antihistamine saturation). Trazodone: SARI - blocks 5-HT2A (sleep), weak SERT inhibition. Often used as sleep aid at low doses (25-100mg). Board pearl: Avoid activating antidepressants (bupropion, SSRIs initially) if insomnia is primary complaint.",
     "category": "Pharmacology",
     "domain": 3,
     "domainName": "Diagnosis and Treatment"
@@ -264,7 +264,7 @@
       "Bupropion (Wellbutrin)"
     ],
     "correctAnswer": 3,
-    "rationale": "BUPROPION (Wellbutrin) is preferred for patients with SSRI-induced sexual dysfunction. Mechanism: norepinephrine-dopamine reuptake inhibitor (NDRI) - NO serotonergic effects that cause sexual dysfunction. Also weight-neutral. Alternatives: mirtazapine (may cause sedation/weight gain), adding buspirone, dose reduction. Bupropion contraindicated in eating disorders and seizure history.",
+    "rationale": "BUPROPION (Wellbutrin) is preferred for depression when SEXUAL DYSFUNCTION is a concern. Mechanism: Norepinephrine-dopamine reuptake inhibitor (NDRI) with NO significant serotonergic effects. SSRIs cause sexual dysfunction (decreased libido, anorgasmia, erectile dysfunction) via 5-HT2 receptor activation. Bupropion is weight-neutral and activating (good for fatigue/low energy). Also used for smoking cessation (Zyban) and as SSRI augmentation. Contraindications: seizure disorder, eating disorders, concurrent MAOIs. Board pearl: For patients who develop SSRI-induced sexual dysfunction, options are: reduce dose, switch to bupropion, add bupropion, or add buspirone.",
     "category": "Pharmacology",
     "domain": 3,
     "domainName": "Diagnosis and Treatment"
@@ -279,7 +279,7 @@
       "Lisinopril"
     ],
     "correctAnswer": 0,
-    "rationale": "PHENTOLAMINE is treatment for MAOI-induced HYPERTENSIVE CRISIS (tyramine reaction). Why phentolamine? It's an alpha-adrenergic blocker - directly counteracts the excessive norepinephrine release causing the hypertension. Why not metoprolol/labetalol? Beta-blockers can cause unopposed alpha stimulation, worsening hypertension. Lisinopril works too slowly. Board pearl: Tyramine crisis = severe headache, hypertension, diaphoresis → stroke risk.",
+    "rationale": "PHENTOLAMINE for MAOI HYPERTENSIVE CRISIS (tyramine reaction). Tyramine in aged foods → cannot be metabolized (MAO-A inhibited) → displaces norepinephrine from vesicles → massive sympathetic surge → SEVERE HYPERTENSION. Symptoms: explosive headache, stiff neck, nausea, vomiting, diaphoresis, palpitations. Can lead to stroke, MI, death. Treatment: Phentolamine (alpha-adrenergic blocker) directly counteracts norepinephrine. Why NOT beta-blockers (metoprolol)? Can cause unopposed alpha stimulation, worsening hypertension. Avoid: aged cheeses, cured meats, tap beer, soy sauce, sauerkraut. Board pearl: 2-week washout required before/after MAOI.",
     "category": "Pharmacology",
     "domain": 3,
     "domainName": "Diagnosis and Treatment"
@@ -294,7 +294,7 @@
       "Oxycodone"
     ],
     "correctAnswer": 2,
-    "rationale": "MEPERIDINE (Demerol) should be AVOIDED with SSRIs (sertraline). Why? Meperidine has serotonergic properties → combined with SSRI = SEROTONIN SYNDROME risk. Other opioids (morphine, hydrocodone, oxycodone) are safer because they don't significantly affect serotonin. Board pearl: Also avoid meperidine with MAOIs (even more dangerous). Tramadol also has serotonin syndrome risk with SSRIs.",
+    "rationale": "MEPERIDINE (Demerol) should be AVOIDED with SSRIs and MAOIs - HIGH risk of SEROTONIN SYNDROME. Meperidine has significant serotonergic properties unlike other opioids. SSRI + meperidine → serotonin syndrome. MAOI + meperidine → potentially fatal serotonin syndrome (most dangerous combination). Safe opioid alternatives: morphine, oxycodone, hydrocodone, fentanyl (minimal serotonin activity). Also avoid tramadol with SSRIs/MAOIs (tramadol has SNRI properties). Board pearl: If patient on SSRI needs surgery, ensure meperidine is NOT used for analgesia - communicate with surgical team.",
     "category": "Pharmacology",
     "domain": 3,
     "domainName": "Diagnosis and Treatment"
@@ -309,7 +309,7 @@
       "They block NMDA glutamate receptors"
     ],
     "correctAnswer": 2,
-    "rationale": "SSRIs block serotonin reuptake, increasing serotonin in the synapse. Teach patient: Takes 2–4 weeks to work; don't stop abruptly.",
+    "rationale": "TCA TOXICITY AND OVERDOSE: Tricyclic antidepressants have narrow therapeutic index - lethal in overdose (2-week supply can be fatal). Cardiac toxicity: QRS widening, arrhythmias. Anticholinergic toxicity: hyperthermia, urinary retention, ileus, delirium. Seizures. Treatment: sodium bicarbonate for QRS >100ms, supportive care, activated charcoal if early. TCAs rarely first-line due to lethality in overdose and side effects. Still used for: neuropathic pain, migraine prophylaxis, treatment-resistant depression. Board pearl: Never prescribe more than 1-week supply of TCA to suicidal patient.",
     "category": "Pharmacology",
     "domain": 3,
     "domainName": "Diagnosis and Treatment"
@@ -324,7 +324,7 @@
       "It is a monoamine oxidase inhibitor (MAOI)"
     ],
     "correctAnswer": 2,
-    "rationale": "Wellbutrin is an NDRI—blocks norepinephrine and dopamine reuptake. Activating effect, no sexual side effects. Teach patient: May increase energy; take morning dose to avoid insomnia.",
+    "rationale": "TRICYCLIC ANTIDEPRESSANT SIDE EFFECTS (remember: 'A TCA has side effects in THREES'): Anticholinergic (3): dry mouth, constipation, urinary retention. Cardiac (3): orthostatic hypotension, tachycardia, arrhythmias. CNS (3): sedation, seizures (lower threshold), weight gain. Most anticholinergic: amitriptyline. Least anticholinergic: desipramine, nortriptyline. TCAs contraindicated: recent MI, heart block, narrow-angle glaucoma, urinary retention. Board pearl: Nortriptyline has best side effect profile among TCAs - often preferred when TCA needed.",
     "category": "Pharmacology",
     "domain": 3,
     "domainName": "Diagnosis and Treatment"
@@ -339,7 +339,7 @@
       "Benzodiazepines only"
     ],
     "correctAnswer": 0,
-    "rationale": "Beta-blockers, steroids, interferon, and Accutane can cause depression. Teach patient: Report mood changes when starting any new medication. Screen mood before and during treatment.",
+    "rationale": "MONOAMINE OXIDASE INHIBITORS (MAOIs) - TYPES: Irreversible, non-selective: phenelzine (Nardil), tranylcypromine (Parnate) - require tyramine diet restrictions. Irreversible, selective MAO-B: selegiline oral (Parkinson's) - at low doses MAO-B selective, minimal diet restrictions. Transdermal selegiline (Emsam): at 6mg/24hr, minimal systemic absorption - no dietary restrictions at this dose; higher doses need diet restrictions. Reversible MAO-A: moclobemide (not US). Board pearl: Selegiline patch 6mg requires no dietary restrictions - unique among MAOIs.",
     "category": "Pharmacology",
     "domain": 3,
     "domainName": "Diagnosis and Treatment"
@@ -354,7 +354,7 @@
       "Antipsychotics"
     ],
     "correctAnswer": 0,
-    "rationale": "CORTICOSTEROIDS, ANTIDEPRESSANTS, ISONIAZID, DISULFIRAM can trigger MANIA in bipolar patients. Why these? (1) Corticosteroids increase catecholamines, (2) Antidepressants can flip patients into mania without mood stabilizer, (3) Isoniazid inhibits MAO → catecholamine excess, (4) Disulfiram inhibits dopamine beta-hydroxylase. Board pearl: When starting any of these in bipolar patient, monitor closely and consider prophylactic mood stabilizer adjustment.",
+    "rationale": "MEDICATIONS THAT CAN TRIGGER MANIA: (1) CORTICOSTEROIDS - increase catecholamines; (2) ANTIDEPRESSANTS - especially TCAs, less with SSRIs, but still risk without mood stabilizer; (3) ISONIAZID - inhibits MAO, increases catecholamines; (4) DISULFIRAM - inhibits dopamine beta-hydroxylase; (5) STIMULANTS - amphetamines, methylphenidate; (6) THYROID HORMONES - excessive doses; (7) LEVODOPA - dopamine precursor. When these medications are necessary in bipolar patient: monitor closely, consider prophylactic mood stabilizer adjustment. Board pearl: Always ask about substance use and medications when evaluating new-onset mania.",
     "category": "Pharmacology",
     "domain": 3,
     "domainName": "Diagnosis and Treatment"
@@ -369,7 +369,7 @@
       "Recurrence of depression"
     ],
     "correctAnswer": 2,
-    "rationale": "SSRI DISCONTINUATION SYNDROME: Flu-like symptoms, dizziness, 'brain zaps' (electric shock sensations), irritability, insomnia. Most common with PAROXETINE (shortest half-life). Prevention: Always taper SSRIs gradually over 2-4 weeks. Fluoxetine rarely causes this due to long half-life.",
+    "rationale": "ATYPICAL ANTIPSYCHOTIC SELECTION BY SIDE EFFECT PROFILE: High metabolic risk (weight, glucose, lipids): olanzapine, clozapine. Moderate metabolic: quetiapine, risperidone. Lower metabolic: aripiprazole, ziprasidone, lurasidone. High sedation: olanzapine, quetiapine, clozapine. Low sedation: aripiprazole, ziprasidone. High prolactin: risperidone, paliperidone. Low prolactin: aripiprazole (partial agonist). QTc risk: ziprasidone highest. EPS risk: risperidone > others (closer to typicals). Board pearl: Match antipsychotic to patient - consider weight, sedation needs, metabolic risk.",
     "category": "Pharmacology",
     "domain": 3,
     "domainName": "Diagnosis and Treatment"
@@ -384,7 +384,7 @@
       "Risperidone (Risperdal)"
     ],
     "correctAnswer": 2,
-    "rationale": "ZIPRASIDONE (Geodon) should be AVOIDED in patients with QTc prolongation - it has the HIGHEST QTc risk among atypical antipsychotics. Also avoid: thioridazine, IV haloperidol, droperidol. Safer alternatives for patients with QTc concerns: aripiprazole, lurasidone. Always get baseline ECG in patients with cardiac history. QTc >500ms or increase >60ms from baseline = discontinue medication.",
+    "rationale": "ZIPRASIDONE (Geodon) should be AVOIDED in patients with QTc prolongation - it has the HIGHEST QTc prolongation risk among atypical antipsychotics. Other high-risk agents: thioridazine, IV haloperidol, droperidol. QTc >500ms or increase >60ms from baseline = discontinue medication and do not rechallenge. Risk factors for Torsades de Pointes: female sex, hypokalemia, hypomagnesemia, bradycardia, congenital long QT, concurrent QTc-prolonging drugs. Safest options for patients with QTc concerns: aripiprazole, lurasidone. Board pearl: Always get baseline ECG in patients with cardiac history before antipsychotic.",
     "category": "Pharmacology",
     "domain": 3,
     "domainName": "Diagnosis and Treatment"
@@ -399,7 +399,7 @@
       "Lamotrigine"
     ],
     "correctAnswer": 2,
-    "rationale": "VALPROATE (Depakote) is excellent for breakthrough manic episodes on lithium. Why? Different mechanism (GABA enhancement, sodium channel blockade) - adds to lithium's effect. Good for mixed episodes, rapid cycling. Why not lamotrigine? Lamotrigine is better for bipolar DEPRESSION, has less antimanic efficacy. Board pearl: Can use lithium + valproate combination. Therapeutic valproate level: 50-125 mcg/mL.",
+    "rationale": "VALPROATE (Depakote) is effective for breakthrough manic episodes despite lithium therapy. Advantages: rapid loading possible, effective for mixed states and rapid cycling (where lithium may be less effective), different mechanism of action (GABA enhancement, sodium channel blockade). Can combine with lithium safely. Why not lamotrigine? Lamotrigine is primarily for bipolar DEPRESSION, has limited antimanic efficacy, and requires slow titration. Why not carbamazepine? Complex drug interactions, induces lithium metabolism. Board pearl: Valproate + lithium combination is evidence-based for lithium partial responders.",
     "category": "Pharmacology",
     "domain": 3,
     "domainName": "Diagnosis and Treatment"
@@ -414,7 +414,7 @@
       "COMT polymorphism"
     ],
     "correctAnswer": 0,
-    "rationale": "HLA-B*1502 screening is REQUIRED before starting CARBAMAZEPINE in patients of ASIAN ancestry. This allele increases risk of Stevens-Johnson Syndrome (SJS) and Toxic Epidermal Necrolysis (TEN) by 100-fold. If positive, do NOT use carbamazepine. Also screen HLA-A*3101 for Northern European ancestry. Alternative mood stabilizers: valproate, lamotrigine, lithium.",
+    "rationale": "CLOZAPINE is the ONLY antipsychotic proven effective for TREATMENT-RESISTANT SCHIZOPHRENIA (defined as failure of 2+ adequate antipsychotic trials). Requires REMS program due to agranulocytosis risk (~1%). ANC monitoring: weekly x 6 months, biweekly x 6 months, then monthly. Hold if ANC <1500 (general population) or <1000 (benign ethnic neutropenia). Other serious risks: myocarditis (first month - monitor for tachycardia, fever, chest pain), seizures (dose-related, especially >600mg), severe constipation (can be fatal), metabolic syndrome. Despite risks, clozapine REDUCES mortality in schizophrenia. Board pearl: Clozapine is underutilized - only 5% of eligible patients receive it.",
     "category": "Pharmacology",
     "domain": 3,
     "domainName": "Diagnosis and Treatment"
@@ -429,7 +429,7 @@
       "20-30 mg/kg/day"
     ],
     "correctAnswer": 3,
-    "rationale": "VALPROATE LOADING: 20-30 mg/kg/day for acute mania. Why this range? Achieves therapeutic level (85-125 mcg/mL) within 24-48 hours vs 5-7 days with standard titration. 10 mg/kg = too low, won't reach therapeutic level quickly. 40-50 mg/kg = too high, risk of toxicity. 5 mg/kg = way too low. Board pearl: Divide into 2-3 doses to reduce GI side effects. IV loading also option.",
+    "rationale": "VALPROATE LOADING: 20-30 mg/kg/day divided into doses achieves therapeutic levels rapidly for acute mania. Why this range? Lower doses (10 mg/kg) won't reach therapeutic level quickly. Higher doses (40-50 mg/kg) increase toxicity risk without benefit. Standard maintenance is 15-20 mg/kg/day. GI side effects are common with loading - can use IV route if severe. Check level after 2-3 days. Combine with antipsychotic for severe mania. Board pearl: Valproate is preferred over lithium for mixed episodes and rapid cycling.",
     "category": "Pharmacology",
     "domain": 3,
     "domainName": "Diagnosis and Treatment"
@@ -444,7 +444,7 @@
       "Calcium channel blockers and antibiotics"
     ],
     "correctAnswer": 1,
-    "rationale": "ACE INHIBITORS and NSAIDs can approximately DOUBLE lithium levels. NSAIDs reduce renal prostaglandins → decreased lithium clearance. ACEIs reduce GFR. Both increase lithium toxicity risk. Use acetaminophen instead of NSAIDs.",
+    "rationale": "ANTIPSYCHOTIC-INDUCED HYPERPROLACTINEMIA: Dopamine normally inhibits prolactin release. D2 blockade → prolactin elevation. Highest risk: risperidone, paliperidone (strong D2 binding). Symptoms: women - amenorrhea, galactorrhea, sexual dysfunction; men - gynecomastia, sexual dysfunction; both - osteoporosis long-term. Management: switch to prolactin-sparing agent (aripiprazole is partial D2 agonist, can lower prolactin), or add aripiprazole. Check prolactin if symptomatic. Board pearl: Aripiprazole can be added to reduce prolactin elevation from other antipsychotics.",
     "category": "Pharmacology",
     "domain": 3,
     "domainName": "Diagnosis and Treatment"
@@ -459,7 +459,7 @@
       "Decreasing renal clearance of lithium, raising levels"
     ],
     "correctAnswer": 3,
-    "rationale": "NSAIDs DECREASE RENAL CLEARANCE of lithium by inhibiting prostaglandin synthesis in kidneys. This reduces GFR and sodium excretion, leading to increased lithium reabsorption. Result: Higher lithium levels → toxicity risk. Monitor levels if NSAID use is necessary.",
+    "rationale": "ANTIPSYCHOTIC-INDUCED WEIGHT GAIN MANAGEMENT: Prevention is key - counsel on diet/exercise before starting. Highest weight gain: olanzapine (average 4-7 kg in first year), clozapine. If significant weight gain occurs: switch to lower-risk agent if clinically feasible, consider metformin addition (evidence for reducing weight gain), lifestyle intervention. Monitor: weight monthly x 3 months, then quarterly. BMI increase >1 unit warrants intervention. Board pearl: Metabolic effects are the main reason patients discontinue antipsychotics - address proactively.",
     "category": "Pharmacology",
     "domain": 3,
     "domainName": "Diagnosis and Treatment"
@@ -474,7 +474,7 @@
       "Flumazenil (Romazicon)"
     ],
     "correctAnswer": 3,
-    "rationale": "FLUMAZENIL (Romazicon) reverses BENZODIAZEPINE overdose. Mechanism: Competitive antagonist at GABA-A receptor. Why not naloxone? That's for opioids. Caution: Flumazenil can precipitate SEIZURES in chronic benzo users or patients on benzos for seizure control. Board pearl: Use cautiously; supportive care often sufficient since benzos alone rarely fatal.",
+    "rationale": "FLUMAZENIL (Romazicon) reverses BENZODIAZEPINE overdose. Mechanism: Competitive antagonist at GABA-A benzodiazepine binding site. Onset: 1-2 minutes IV. Duration: 45-90 minutes (shorter than most benzos - may need repeat dosing). CAUTION: Can precipitate SEIZURES in chronic benzodiazepine users or patients on benzos for seizure control (removing GABA inhibition). Also dangerous if co-ingested with TCAs (lowers seizure threshold). Often, supportive care alone is sufficient since isolated benzo overdose is rarely fatal. Board pearl: Benzo + opioid overdose - give naloxone first (respiratory depression is the killer).",
     "category": "Pharmacology",
     "domain": 3,
     "domainName": "Diagnosis and Treatment"
@@ -489,7 +489,7 @@
       "Naloxone (Narcan)"
     ],
     "correctAnswer": 3,
-    "rationale": "NALOXONE (Narcan) reverses OPIOID overdose. Classic triad: Pinpoint pupils + respiratory depression + decreased LOC = opioid overdose. Naloxone is a competitive opioid antagonist. Duration: 30-90 minutes (may need repeat dosing for long-acting opioids). Board pearl: IM naloxone for community use; consider starting at 0.4mg to avoid precipitated withdrawal.",
+    "rationale": "NALOXONE (Narcan) reverses OPIOID overdose. Classic triad: Pinpoint pupils + respiratory depression + decreased LOC = opioid overdose. Mechanism: Competitive opioid receptor antagonist at mu, kappa, and delta receptors. Onset: 2-5 minutes IV/IM, slightly longer IN. Duration: 30-90 minutes - may need repeat dosing for long-acting opioids (methadone, fentanyl). Can precipitate acute withdrawal in opioid-dependent patients (uncomfortable but not dangerous). Starting dose: 0.4-2mg (start low to avoid severe withdrawal). Board pearl: All patients who receive naloxone for overdose need extended observation - respiratory depression may recur when naloxone wears off.",
     "category": "Pharmacology",
     "domain": 3,
     "domainName": "Diagnosis and Treatment"
@@ -504,7 +504,7 @@
       "Benzodiazepines"
     ],
     "correctAnswer": 3,
-    "rationale": "BENZODIAZEPINES are FIRST-LINE for alcohol withdrawal. Why? Both alcohol and benzos work on GABA-A receptors - cross-tolerance allows benzos to prevent withdrawal complications. Alcohol withdrawal can be FATAL (seizures, DTs). Commonly used: chlordiazepoxide (long-acting), lorazepam (hepatic impairment), diazepam (rapid onset). Board pearl: Use CIWA protocol for symptom-triggered dosing.",
+    "rationale": "BENZODIAZEPINES are FIRST-LINE for ALCOHOL WITHDRAWAL - potentially life-saving. Both alcohol and benzodiazepines work at GABA-A receptor - cross-tolerance allows benzos to substitute and prevent withdrawal complications. Alcohol withdrawal can be FATAL (seizures, delirium tremens). Commonly used: Chlordiazepoxide (long-acting, less abuse potential), lorazepam (hepatic impairment), diazepam (rapid onset, long-acting metabolites). Dosing: Symptom-triggered (CIWA-based) is preferred over fixed-schedule. Thiamine 100mg before glucose (prevent Wernicke's). Board pearl: Alcohol and benzodiazepine withdrawal can kill; opioid withdrawal cannot (just very uncomfortable).",
     "category": "Pharmacology",
     "domain": 3,
     "domainName": "Diagnosis and Treatment"
@@ -519,7 +519,7 @@
       "Clonidine only"
     ],
     "correctAnswer": 1,
-    "rationale": "BUPRENORPHINE or METHADONE for opioid use disorder with withdrawal (COWS 13). Why not naltrexone? Patient must be fully withdrawn (COWS should be 0, 7-10 days abstinent) before starting naltrexone - it would precipitate severe withdrawal. Buprenorphine (partial agonist) or methadone (full agonist) treats withdrawal AND cravings. Board pearl: Wait for COWS >8-12 before starting buprenorphine.",
+    "rationale": "BUPRENORPHINE or METHADONE for opioid use disorder with active withdrawal (COWS ≥13). Why NOT naltrexone? Patient must be fully withdrawn (7-10 days opioid-free, COWS = 0) before starting naltrexone - it would precipitate severe withdrawal. Buprenorphine (partial mu agonist): Wait for COWS ≥8-12 before induction; can be prescribed office-based (DATA waiver). Methadone (full agonist): Can start anytime; requires daily observed dosing at OTP initially. Both reduce cravings, prevent withdrawal, and reduce illicit opioid use. Board pearl: Buprenorphine's ceiling effect makes it safer than methadone for overdose.",
     "category": "Pharmacology",
     "domain": 3,
     "domainName": "Diagnosis and Treatment"
@@ -534,7 +534,7 @@
       "Anticholinergic toxicity"
     ],
     "correctAnswer": 2,
-    "rationale": "NEUROLEPTIC MALIGNANT SYNDROME (NMS): Life-threatening reaction to dopamine antagonists (antipsychotics). Classic tetrad: (1) Fever (often >40°C), (2) LEAD-PIPE RIGIDITY, (3) Altered mental status, (4) Autonomic instability. Labs: elevated CK (often >1000), leukocytosis, metabolic acidosis. Key differentiator from serotonin syndrome: HYPOREFLEXIA and lead-pipe rigidity. Treatment: stop antipsychotic, supportive care, dantrolene, bromocriptine.",
+    "rationale": "NEUROLEPTIC MALIGNANT SYNDROME (NMS): Life-threatening reaction to dopamine antagonists. Classic tetrad: (1) Hyperthermia (often >40°C/104°F), (2) LEAD-PIPE RIGIDITY (not cogwheel), (3) Altered mental status, (4) Autonomic instability (tachycardia, labile BP, diaphoresis). Labs: Elevated CK (often >1000, can exceed 100,000), leukocytosis, metabolic acidosis, myoglobinuria. Onset: Days after starting/increasing antipsychotic. KEY DIFFERENTIATOR FROM SEROTONIN SYNDROME: NMS has HYPOREFLEXIA and lead-pipe rigidity; SS has HYPERREFLEXIA and clonus. Treatment: Stop antipsychotic, supportive care, dantrolene, bromocriptine. Mortality 10-20% if untreated.",
     "category": "Pharmacology",
     "domain": 3,
     "domainName": "Diagnosis and Treatment"
@@ -549,7 +549,7 @@
       "Elevated creatine kinase >10,000"
     ],
     "correctAnswer": 2,
-    "rationale": "HYPERREFLEXIA and CLONUS = SEROTONIN SYNDROME (not NMS). Key differentiator: SS has hyperreflexia/clonus; NMS has lead-pipe rigidity and HYPOreflexia. Both have fever, altered mental status, autonomic instability. SS onset: rapid (hours). NMS onset: gradual (days). SS caused by serotonergic drugs; NMS by dopamine antagonists. Board pearl: This is a classic board question!",
+    "rationale": "SEROTONIN SYNDROME vs NMS - CRITICAL BOARD DISTINCTION: Both have fever, altered mental status, autonomic instability. KEY DIFFERENCES: Serotonin syndrome has HYPERREFLEXIA, CLONUS, and MYOCLONUS (especially lower extremities); NMS has HYPOREFLEXIA and LEAD-PIPE RIGIDITY. SS onset: Rapid (within 24 hours of drug change). NMS onset: Gradual (days). SS causes: Serotonergic drugs (SSRIs + MAOIs, SSRIs + tramadol, SSRIs + triptans). NMS causes: Dopamine antagonists. SS treatment: Discontinue serotonergic agent, supportive care, cyproheptadine for severe cases. Board pearl: Clonus = serotonin syndrome; Rigidity = NMS.",
     "category": "Pharmacology",
     "domain": 3,
     "domainName": "Diagnosis and Treatment"
@@ -564,7 +564,7 @@
       "Perphenazine (Trilafon)"
     ],
     "correctAnswer": 2,
-    "rationale": "HALOPERIDOL (Haldol) = HIGHEST EPS risk among antipsychotics. First-generation (typical) antipsychotics block D2 receptors in nigrostriatal pathway causing EPS. Risk ranking: High-potency typicals (haloperidol, fluphenazine) > Low-potency typicals (chlorpromazine) > Second-generation atypicals. EPS includes: acute dystonia (hours-days), akathisia (days-weeks), parkinsonism (weeks), tardive dyskinesia (months-years). Treatment: Benztropine or diphenhydramine for acute dystonia; reduce dose or switch to atypical for other EPS.",
+    "rationale": "HALOPERIDOL (Haldol) has the HIGHEST EPS (extrapyramidal symptoms) risk among antipsychotics. Mechanism: High D2 receptor blockade in nigrostriatal pathway. EPS types by onset: Acute dystonia (hours-days) - muscle spasms, treat with benztropine or diphenhydramine; Akathisia (days-weeks) - restlessness, treat with propranolol or benzodiazepine; Parkinsonism (weeks) - bradykinesia, rigidity, tremor, reduce dose or add anticholinergic; Tardive dyskinesia (months-years) - involuntary movements, potentially irreversible. Risk ranking: High-potency typicals (haloperidol, fluphenazine) > Low-potency typicals (chlorpromazine) > SGAs. Board pearl: EPS risk is the main reason SGAs replaced typicals as first-line.",
     "category": "Pharmacology",
     "domain": 3,
     "domainName": "Diagnosis and Treatment"
@@ -579,7 +579,7 @@
       "Clozapine (Clozaril)"
     ],
     "correctAnswer": 2,
-    "rationale": "ZIPRASIDONE and LURASIDONE have LOWEST metabolic risk among atypical antipsychotics. Minimal weight gain, low diabetes/lipid risk. Ziprasidone: Take with food (500 calories). Lurasidone: Take with 350+ calories. Good choices for patients with metabolic concerns. Monitor QTc with ziprasidone.",
+    "rationale": "ACUTE DYSTONIA TREATMENT: Acute dystonia = sustained muscle contractions occurring HOURS TO DAYS after starting antipsychotic. Common sites: neck (torticollis), jaw (trismus), eyes (oculogyric crisis), back (opisthotonus). Can be frightening and painful. Treatment: IM BENZTROPINE (Cogentin) 1-2mg or IM DIPHENHYDRAMINE 25-50mg - relief within minutes. Follow with oral anticholinergic x 48-72 hours. Prevention: anticholinergic prophylaxis for high-risk patients (young males, high-potency typical antipsychotics). Board pearl: Young male + high-potency typical = highest acute dystonia risk.",
     "category": "Pharmacology",
     "domain": 3,
     "domainName": "Diagnosis and Treatment"
@@ -594,7 +594,7 @@
       "Anticholinergic toxicity"
     ],
     "correctAnswer": 2,
-    "rationale": "NEUROLEPTIC MALIGNANT SYNDROME (NMS) with RHABDOMYOLYSIS: CK >10,000 indicates severe muscle breakdown. This patient on clozapine shows classic NMS: obtunded (altered mental status), elevated CK (muscle rigidity/breakdown). Other NMS signs: fever >104°F, lead-pipe rigidity, autonomic instability. Treatment: stop antipsychotic, IV fluids, dantrolene, bromocriptine. ICU admission for monitoring.",
+    "rationale": "NMS WITH RHABDOMYOLYSIS: CK >10,000 (often >100,000) indicates severe muscle breakdown from rigidity. Rhabdomyolysis → myoglobin release → acute kidney injury. This patient on clozapine (or any antipsychotic) with obtunded mental status, elevated CK, and autonomic instability has NMS until proven otherwise. Treatment: (1) STOP antipsychotic immediately, (2) Aggressive IV fluid resuscitation to prevent renal failure, (3) Cooling measures, (4) Dantrolene (muscle relaxant) for rigidity, (5) Bromocriptine (dopamine agonist), (6) ICU admission. Board pearl: Any patient on antipsychotics with unexplained fever requires NMS workup.",
     "category": "Pharmacology",
     "domain": 3,
     "domainName": "Diagnosis and Treatment"
@@ -609,7 +609,7 @@
       "Severe depression (20-27); hospitalization may be needed"
     ],
     "correctAnswer": 1,
-    "rationale": "PHQ-9 (0-27): Depression screening. 0-4=minimal, 5-9=mild, 10-14=moderate, 15-19=mod-severe, 20-27=severe. Treat ≥10. CO-OCCURRING: Always screen for SUD (AUDIT/CAGE/DAST)—substances worsen depression scores. Use separate tools for each condition.",
+    "rationale": "AKATHISIA RECOGNITION AND TREATMENT: Akathisia = subjective inner restlessness + objective motor restlessness (pacing, inability to sit still, rocking). Onset: days to weeks after starting/increasing antipsychotic. Often MISDIAGNOSED as anxiety or agitation - if antipsychotic increased, akathisia worsens (vicious cycle). Associated with SUICIDAL IDEATION - take seriously. Treatment: reduce antipsychotic dose, switch agents, add PROPRANOLOL (first-line, 30-120mg/day), benzodiazepine, or mirtazapine. Board pearl: Always ask about akathisia when patient on antipsychotic reports anxiety or restlessness.",
     "category": "Assessment Scales & Screening",
     "domain": 2,
     "domainName": "Advanced Practice Skills"
@@ -624,7 +624,7 @@
       "Score 20 or higher"
     ],
     "correctAnswer": 1,
-    "rationale": "PHQ-9 ≥10 indicates MODERATE depression warranting treatment consideration. Scoring: 0-4 minimal, 5-9 mild, 10-14 moderate, 15-19 moderately severe, 20-27 severe. Why 10? Research shows this threshold has good sensitivity/specificity for major depression. Board pearl: Always assess question 9 (suicidal ideation) separately regardless of total score.",
+    "rationale": "PHQ-9 INTERPRETATION: Score ≥10 indicates MODERATE depression requiring treatment consideration. Scoring: 0-4 (minimal), 5-9 (mild), 10-14 (moderate), 15-19 (moderately severe), 20-27 (severe). The PHQ-9 maps directly to DSM-5 MDD criteria. Clinical action: Score ≥10 warrants further assessment and likely treatment initiation. Always assess Question 9 (suicidal ideation) separately regardless of total score. Board pearl: PHQ-9 is both screening AND monitoring tool - repeat to track treatment response.",
     "category": "Assessment Scales & Screening",
     "domain": 2,
     "domainName": "Advanced Practice Skills"
@@ -639,7 +639,7 @@
       "<20"
     ],
     "correctAnswer": 2,
-    "rationale": "MMSE score <24 suggests COGNITIVE IMPAIRMENT. Scoring: 30 = maximum. Mild impairment 20-24, moderate 10-20, severe <10. Adjust for education (lower cutoffs for less educated). MMSE less sensitive for MCI than MoCA. Tests: orientation, registration, attention, recall, language, visuospatial. Board pearl: MoCA ≤25 = impaired; SLUMS better for executive function.",
+    "rationale": "MMSE (Mini-Mental State Examination) INTERPRETATION: Total score 0-30. Cutoffs: ≥24 normal, 20-23 mild impairment, 10-19 moderate impairment, <10 severe impairment. Adjust for education level - less educated patients may score lower without impairment. Tests: orientation (10 pts), registration (3 pts), attention/calculation (5 pts), recall (3 pts), language (8 pts), visuospatial (1 pt). Limitations: Insensitive for mild cognitive impairment (MCI), ceiling effects in educated patients. Board pearl: MoCA is more sensitive for MCI - use MoCA if MMSE is normal but clinical suspicion remains.",
     "category": "Assessment Scales & Screening",
     "domain": 2,
     "domainName": "Advanced Practice Skills"
@@ -654,7 +654,7 @@
       "Score 24-30 is considered normal cognition"
     ],
     "correctAnswer": 3,
-    "rationale": "PHQ-9 (Patient Health Questionnaire-9): Score range 0-27. Cutoffs: 5-9 (mild), 10-14 (moderate), 15-19 (moderately severe), 20-27 (severe). Score ≥10 is clinical threshold for treatment consideration. Questions map to DSM-5 MDD criteria: anhedonia, depressed mood, sleep, energy, appetite, guilt, concentration, psychomotor changes, suicidal ideation. Question 9 (suicidal thoughts) requires direct assessment regardless of total score. Time frame: past 2 weeks.",
+    "rationale": "PHQ-9 CLINICAL APPLICATION: Developed from the PRIME-MD, the PHQ-9 is a self-administered tool assessing DSM-5 depression criteria over the past 2 weeks. Each item scored 0-3 (not at all to nearly every day). Score interpretation guides treatment: 5-9 (watchful waiting, supportive counseling), 10-14 (antidepressant or psychotherapy), 15+ (combination treatment recommended). Sensitivity 88%, specificity 88% for major depression at cutoff of 10. Board pearl: More sensitive than asking 'Are you depressed?'",
     "category": "Assessment Scales & Screening",
     "domain": 2,
     "domainName": "Advanced Practice Skills"
@@ -669,7 +669,7 @@
       "CIWA score greater than 15"
     ],
     "correctAnswer": 0,
-    "rationale": "CIWA-Ar (Clinical Institute Withdrawal Assessment for Alcohol, Revised) scoring: 0-9 (mild, may not need meds), 10-15 (moderate, consider PRN benzos), 16-20 (severe, scheduled benzos needed), >20 (very severe, high risk of seizures/DTs). Score >8-10 typically triggers pharmacologic intervention. Monitor q1-2h initially. Benzodiazepines are first-line treatment - commonly lorazepam, chlordiazepoxide, or diazepam.",
+    "rationale": "CIWA-Ar (Clinical Institute Withdrawal Assessment for Alcohol, Revised) guides alcohol withdrawal treatment. Scoring: 0-9 (minimal/no withdrawal - may not need pharmacotherapy), 10-15 (moderate - consider PRN benzodiazepines), 16-20 (severe - scheduled benzodiazepines required), >20 (very severe - high risk of seizures, DTs, consider ICU). Assesses 10 items: nausea/vomiting, tremor, sweating, anxiety, agitation, tactile/auditory/visual disturbances, headache, orientation. Monitor q1-2h initially. Board pearl: Symptom-triggered therapy (dosing based on CIWA) is safer than fixed-schedule dosing.",
     "category": "Assessment Scales & Screening",
     "domain": 2,
     "domainName": "Advanced Practice Skills"
@@ -684,7 +684,7 @@
       "COWS score greater than 15"
     ],
     "correctAnswer": 0,
-    "rationale": "COWS (Clinical Opiate Withdrawal Scale) scoring: 5-12 (mild), 13-24 (moderate), 25-36 (moderately severe), >36 (severe). For buprenorphine induction, patient should score ≥8-12 to avoid precipitated withdrawal. COWS assesses: resting pulse, sweating, restlessness, pupil size, bone/joint aches, runny nose, GI upset, tremor, yawning, anxiety, gooseflesh. Higher scores = safer to start buprenorphine.",
+    "rationale": "COWS (Clinical Opiate Withdrawal Scale) guides opioid withdrawal management and buprenorphine induction. Scoring: 5-12 (mild), 13-24 (moderate), 25-36 (moderately severe), >36 (severe). Assesses 11 items: pulse, sweating, restlessness, pupil size, bone/joint aches, runny nose, GI upset, tremor, yawning, anxiety, gooseflesh. CRITICAL: For buprenorphine induction, patient must score ≥8-12 (moderate withdrawal). Starting buprenorphine too early causes PRECIPITATED WITHDRAWAL because buprenorphine (partial agonist) displaces full agonist. Board pearl: Wait for objective withdrawal signs before buprenorphine initiation.",
     "category": "Assessment Scales & Screening",
     "domain": 2,
     "domainName": "Advanced Practice Skills"
@@ -699,7 +699,7 @@
       "Severe anxiety (15-21); urgent intervention needed"
     ],
     "correctAnswer": 2,
-    "rationale": "GAD-7 SCORING: 0-4=minimal, 5-9=mild, 10-14=moderate, 15-21=severe. Score of 11 = moderate anxiety = treatment indicated. Options: SSRIs/SNRIs first-line, buspirone, CBT. Avoid benzodiazepines for chronic anxiety. Always screen for co-occurring depression (PHQ-9) and substance use.",
+    "rationale": "C-SSRS (Columbia Suicide Severity Rating Scale) is the gold standard for suicide risk assessment. Assesses 5 types of suicidal ideation: (1) Wish to be dead, (2) Non-specific active suicidal thoughts, (3) Active ideation with any methods (not plan), (4) Active ideation with some intent to act, (5) Active ideation with specific plan and intent. Also assesses suicidal behavior: actual attempts, interrupted attempts, aborted attempts, preparatory acts. Any positive response requires clinical judgment regarding hospitalization vs. outpatient safety planning. Board pearl: C-SSRS distinguishes ideation severity - critical for disposition decisions.",
     "category": "Assessment Scales & Screening",
     "domain": 2,
     "domainName": "Advanced Practice Skills"
@@ -714,7 +714,7 @@
       "Severe depression (29-63)"
     ],
     "correctAnswer": 2,
-    "rationale": "BDI-II (0-63): Self-report depression scale. 0-13=minimal, 14-19=mild, 20-28=moderate, 29-63=severe. SCALES BY DISORDER: Depression=PHQ-9/HAM-D/BDI. Anxiety=GAD-7/HAM-A. Alcohol=AUDIT/CAGE. Drugs=DAST. Cognition=MoCA/MMSE. Always screen co-occurring SUD.",
+    "rationale": "SCREENING TOOLS COMPARISON - DEPRESSION: PHQ-9: 9 items, self-administered, maps to DSM criteria, scores 0-27, cutoff 10 for moderate depression. PHQ-2: first 2 questions (anhedonia, mood), screening only, if positive do full PHQ-9. BDI-II: 21 items, more comprehensive, used more in research. HAM-D: clinician-administered, 17 or 21 items, used to measure treatment response in trials. GDS (Geriatric Depression Scale): 15 or 30 items, designed for elderly, yes/no format, avoids somatic symptoms. Board pearl: PHQ-9 is most commonly used in primary care/psych practice.",
     "category": "Assessment Scales & Screening",
     "domain": 2,
     "domainName": "Advanced Practice Skills"
@@ -729,7 +729,7 @@
       "Very severe depression (≥25 only)"
     ],
     "correctAnswer": 2,
-    "rationale": "HAM-D 17-item (0-52): Clinician-rated depression scale. 0-7=remission, 8-13=mild, 14-18=moderate, 19-22=severe, ≥23=very severe. CO-OCCURRING: Screen for SUD separately—alcohol/drugs worsen HAM-D scores. Use AUDIT (alcohol) or DAST (drugs).",
+    "rationale": "SCREENING TOOLS - ALCOHOL USE: AUDIT (Alcohol Use Disorders Identification Test): 10 items, score ≥8 suggests hazardous drinking, ≥15-20 suggests dependence. AUDIT-C: first 3 questions only, quick screen. CAGE: 4 yes/no questions (Cut down, Annoyed, Guilty, Eye-opener) - ≥2 positive = likely problem drinking. Brief screen: 'How many times in past year have you had 5+ drinks (men) or 4+ drinks (women)?' SBIRT: Screening, Brief Intervention, Referral to Treatment framework. Board pearl: CAGE is quick but misses hazardous drinking; AUDIT is more sensitive.",
     "category": "Assessment Scales & Screening",
     "domain": 2,
     "domainName": "Advanced Practice Skills"
@@ -744,22 +744,22 @@
       "Document only a qualitative summary without the score"
     ],
     "correctAnswer": 0,
-    "rationale": "MMSE documentation: Record total score (X/30) AND specific domain deficits (orientation, registration, attention, recall, language). Tracks progression over time.",
+    "rationale": "MAJOR DEPRESSIVE DISORDER DSM-5 CRITERIA: ≥5 symptoms present during same 2-week period, representing change from previous functioning. MUST include at least one of: (1) Depressed mood OR (2) Anhedonia (loss of interest/pleasure). Other symptoms: significant weight/appetite change, insomnia or hypersomnia, psychomotor agitation/retardation, fatigue, worthlessness/guilt, concentration difficulty, suicidal ideation. Symptoms cause significant distress or functional impairment. Not attributable to substance or medical condition. No history of manic/hypomanic episode (would be bipolar). Board pearl: Use mnemonic SIG E CAPS - Sleep, Interest, Guilt, Energy, Concentration, Appetite, Psychomotor, Suicidality.",
     "category": "Assessment Scales & Screening",
     "domain": 2,
     "domainName": "Advanced Practice Skills"
   },
   {
     "id": 51,
-    "question": "While reviewing a patient's PHQ-9, the PMHNP notes the patient endorsed Question 9. What does this specific question assess?",
+    "question": "A patient completing the PHQ-9 endorses having thoughts that they would be better off dead or of hurting themselves. What is the PMHNP's most important next step?",
     "options": [
-      "Sleep disturbance",
-      "Appetite changes",
-      "Thoughts of self-harm or suicide",
-      "Difficulty concentrating"
+      "Document the finding and continue the visit",
+      "Conduct an immediate suicide risk assessment",
+      "Refer to psychiatry and reschedule",
+      "Start an antidepressant to address the depression"
     ],
-    "correctAnswer": 2,
-    "rationale": "PHQ-9 Question 9: 'Thoughts you would be better off dead or hurting yourself.' ANY positive response (score ≥1) requires immediate safety assessment. Do not skip.",
+    "correctAnswer": 1,
+    "rationale": "SUICIDE RISK ASSESSMENT is MANDATORY when patient endorses suicidal ideation on any screening tool. The PMHNP must immediately conduct a comprehensive suicide risk assessment including: (1) Suicidal ideation - frequency, intensity, duration; (2) Plan - specific method, availability of means; (3) Intent - desire to act on thoughts; (4) Protective factors - reasons for living, social support; (5) Risk factors - previous attempts, substance use, hopelessness. Do NOT just document and continue. Do NOT defer to psychiatry without same-day assessment. Board pearl: Any positive suicide screen = immediate action, same standard of care.",
     "category": "Assessment Scales & Screening",
     "domain": 2,
     "domainName": "Advanced Practice Skills"
@@ -774,7 +774,7 @@
       "Antipsychotic medication"
     ],
     "correctAnswer": 2,
-    "rationale": "CIWA-Ar 18 = MODERATE-SEVERE WITHDRAWAL. Requires SCHEDULED benzodiazepines (not just PRN) to prevent seizures and DTs. Long-acting preferred (diazepam, chlordiazepoxide) unless liver disease (use lorazepam). Monitor q1-2 hours. Seizure risk highest 24-48 hours after last drink.",
+    "rationale": "ALCOHOL WITHDRAWAL TREATMENT PROTOCOL: Assess severity with CIWA-Ar. Thiamine 100mg IV/IM BEFORE glucose (prevent Wernicke's). Benzodiazepines: symptom-triggered (CIWA-based) dosing is preferred. Common protocols: Chlordiazepoxide (long-acting, less abuse potential), Lorazepam (hepatic impairment), Diazepam (rapid onset, long-acting). CIWA ≥10: consider benzos. CIWA ≥20: high risk for seizures/DTs, ICU consideration. Adjuncts: IV fluids, electrolyte replacement, folate. Monitor: vital signs, CIWA q1-4h based on severity. Board pearl: Symptom-triggered dosing reduces total benzo dose and duration.",
     "category": "Assessment Scales & Screening",
     "domain": 2,
     "domainName": "Advanced Practice Skills"
@@ -789,7 +789,7 @@
       "Benzodiazepines for withdrawal"
     ],
     "correctAnswer": 2,
-    "rationale": "COWS 15 = MODERATE OPIOID WITHDRAWAL - appropriate to start medication-assisted treatment. Options: Buprenorphine (can prescribe in office, start when COWS 8-12+) or Methadone (requires OTP clinic). Starting buprenorphine too early causes precipitated withdrawal.",
+    "rationale": "MEDICATION-ASSISTED TREATMENT (MAT) FOR OPIOID USE DISORDER: Three FDA-approved medications: (1) BUPRENORPHINE (partial mu agonist): office-based with waiver, ceiling effect = safer, must wait for withdrawal before starting. (2) METHADONE (full agonist): opioid treatment program only for addiction (daily observed dosing initially), no ceiling effect, can start anytime. (3) NALTREXONE (antagonist): blocks opioid effects, no abuse potential, must be opioid-free 7-10 days first (or precipitated withdrawal). XR-naltrexone monthly injection improves adherence. Board pearl: All three MAT options reduce overdose deaths and illicit opioid use.",
     "category": "Assessment Scales & Screening",
     "domain": 2,
     "domainName": "Advanced Practice Skills"
@@ -804,7 +804,7 @@
       "27-30 indicates dementia"
     ],
     "correctAnswer": 0,
-    "rationale": "SLUMS (0-30): More sensitive than MMSE for MCI and executive dysfunction. MoCA also superior to MMSE. Use SLUMS or MoCA when: (1) suspecting early dementia, (2) educated patients, (3) need executive function assessment. SLUMS: 27-30=normal, 21-26=MCI, 1-20=dementia (≥HS education).",
+    "rationale": "SCHIZOPHRENIA DSM-5 CRITERIA: ≥2 of the following for significant portion of 1-month period: (1) Delusions, (2) Hallucinations, (3) Disorganized speech, (4) Grossly disorganized or catatonic behavior, (5) Negative symptoms (diminished expression, avolition). AT LEAST ONE must be delusions, hallucinations, or disorganized speech. Continuous signs of disturbance ≥6 months (including prodrome/residual). Significant functional impairment. Not attributable to substances or medical condition. Positive symptoms: hallucinations, delusions, disorganized thinking. Negative symptoms: flat affect, alogia, avolition, anhedonia, asociality. Board pearl: Negative symptoms are harder to treat than positive symptoms.",
     "category": "Assessment Scales & Screening",
     "domain": 2,
     "domainName": "Advanced Practice Skills"
@@ -819,7 +819,7 @@
       "Severe anxiety (≥25)"
     ],
     "correctAnswer": 2,
-    "rationale": "HAM-A (0-56): Clinician-rated anxiety. <17=mild, 18-24=moderate, ≥25=severe. SCALE SELECTION: GAD-7=self-report screening. HAM-A=clinician-rated severity/monitoring. CO-OCCURRING: Rule out substance-induced anxiety with AUDIT/DAST.",
+    "rationale": "CLONIDINE FOR OPIOID WITHDRAWAL: Alpha-2 adrenergic agonist reduces sympathetic hyperactivity of opioid withdrawal. Helps with: anxiety, agitation, muscle aches, sweating, runny nose, cramping. Does NOT help with: cravings, insomnia. Dosing: 0.1-0.3mg TID, titrate to effect and blood pressure tolerance. Side effects: hypotension, sedation, dry mouth. Not a substitute for MAT - provides symptom relief only. Often combined with other symptomatic treatments (loperamide for diarrhea, NSAIDs for pain). Board pearl: Clonidine for withdrawal symptoms, but buprenorphine/methadone for treatment of the disorder.",
     "category": "Assessment Scales & Screening",
     "domain": 2,
     "domainName": "Advanced Practice Skills"
@@ -834,7 +834,7 @@
       "4 months"
     ],
     "correctAnswer": 3,
-    "rationale": "Head lag resolves by 4 months. Test by pulling infant to sit—head should come with body. Persistent lag suggests hypotonia or developmental delay.",
+    "rationale": "INFANT SOCIAL SMILE: Emerges at 4-6 WEEKS, reliably present by 2 MONTHS. The social smile is in RESPONSE to human face/interaction, unlike earlier reflexive smiles during sleep. This is an important early social milestone indicating attachment development. Red flags: absence of social smile by 3 months warrants developmental evaluation. Other 2-month milestones: tracks past midline, coos, lifts head when prone. Board pearl: Social smile = 2 months; Stranger anxiety = 6-9 months; Separation anxiety = 8-18 months.",
     "category": "Developmental Theory & Lifespan",
     "domain": 4,
     "domainName": "Psychotherapy and Related Theories"
@@ -849,7 +849,7 @@
       "12 months"
     ],
     "correctAnswer": 0,
-    "rationale": "Moro reflex (startle response with arm extension) disappears by 4-6 months. Persistence beyond 6 months suggests cerebral palsy or neurological issue.",
+    "rationale": "MORO REFLEX (Startle Reflex) should disappear by 4-6 MONTHS. Present at birth - infant extends arms, opens hands, then brings arms together in embracing motion when startled or head drops back. Persistence beyond 6 months may indicate neurological abnormality (cerebral palsy, brain injury). Other primitive reflexes: Rooting (birth-4 months), Palmar grasp (birth-6 months), Babinski (birth-12-24 months), Stepping (birth-2 months). Board pearl: Primitive reflexes that persist beyond expected age suggest upper motor neuron pathology.",
     "category": "Developmental Theory & Lifespan",
     "domain": 4,
     "domainName": "Psychotherapy and Related Theories"
@@ -879,7 +879,7 @@
       "Industry vs. Inferiority"
     ],
     "correctAnswer": 0,
-    "rationale": "Erikson infancy (0-1): Trust vs. Mistrust. Consistent caregiver response builds trust—foundation for all future relationships. Teach parents: Respond to cries; you cannot spoil an infant.",
+    "rationale": "3-MONTH DEVELOPMENTAL MILESTONES: Motor - lifts head 45-90° when prone, hands open at rest, briefly holds objects placed in hand. Social - recognizes parents, social smile responsive. Language - coos, begins to laugh. Vision - follows 180°, begins to reach for objects. Red flags at 3 months: no social smile, not tracking, no head control, persistent fisting. These milestones inform developmental surveillance at well-child visits. Board pearl: Head control progresses: lifts head when prone (1-2 mo) → holds head steady when supported (3-4 mo) → no head lag when pulled to sit (5-6 mo).",
     "category": "Developmental Theory & Lifespan",
     "domain": 4,
     "domainName": "Psychotherapy and Related Theories"
@@ -894,7 +894,7 @@
       "Identity vs. Role Confusion"
     ],
     "correctAnswer": 0,
-    "rationale": "Erikson early childhood (1-3): Autonomy vs. Shame/Doubt. Child develops independence through toilet training, self-feeding, saying 'no.' Teach parents: Allow safe exploration; avoid shaming for accidents.",
+    "rationale": "6-MONTH DEVELOPMENTAL MILESTONES: Motor - sits with support progressing to briefly without, rolls both ways, transfers objects hand to hand, raking grasp. Social - stranger anxiety begins (peaks 8-9 months), responds to name. Language - babbles (consonant sounds 'ba', 'da'). Cognitive - object permanence beginning (looks for dropped object). Red flags: no rolling, no reaching, not babbling, no reciprocal smiles. Board pearl: Stranger anxiety at 6-9 months is NORMAL developmental milestone, not pathology.",
     "category": "Developmental Theory & Lifespan",
     "domain": 4,
     "domainName": "Psychotherapy and Related Theories"
@@ -909,7 +909,7 @@
       "Identity vs. Role Confusion"
     ],
     "correctAnswer": 3,
-    "rationale": "Erikson adolescence (12-18): Identity vs. Role Confusion. Teen forms personal identity through peer relationships and self-exploration. Teach parents: Some rebellion is normal; keep communication open.",
+    "rationale": "12-MONTH DEVELOPMENTAL MILESTONES: Motor - pulls to stand, cruises (walks holding furniture), may take independent steps, pincer grasp (thumb-index). Language - first words (1-3 words with meaning), understands 'no', follows simple commands. Social - separation anxiety peaks (8-18 months), plays pat-a-cake, waves bye-bye. Cognitive - object permanence established. Red flags: no babbling, not responding to name, no gestures (pointing, waving), not standing. Board pearl: If not walking by 18 months, evaluate - most walk by 15 months.",
     "category": "Developmental Theory & Lifespan",
     "domain": 4,
     "domainName": "Psychotherapy and Related Theories"
@@ -924,7 +924,7 @@
       "Identity vs. Role Confusion"
     ],
     "correctAnswer": 1,
-    "rationale": "Erikson middle adulthood (40-65): Generativity vs. Stagnation. Adults find meaning through parenting, mentoring, contributing to society. Stagnation leads to midlife crisis feelings.",
+    "rationale": "18-MONTH DEVELOPMENTAL MILESTONES: Motor - walks well independently, begins to run stiffly, stacks 2-4 blocks, scribbles. Language - 10-25 words, points to named body parts, follows 2-step commands. Social - parallel play, increased independence, temper tantrums common. Cognitive - uses objects appropriately (brush on hair). This is a key age for AUTISM SCREENING (M-CHAT). Red flags: no words, not pointing, no pretend play, regression in skills. Board pearl: M-CHAT screening for autism recommended at 18 and 24 months.",
     "category": "Developmental Theory & Lifespan",
     "domain": 4,
     "domainName": "Psychotherapy and Related Theories"
@@ -939,7 +939,7 @@
       "Formal Operational"
     ],
     "correctAnswer": 1,
-    "rationale": "PREOPERATIONAL stage (ages 2-7): Characterized by EGOCENTRISM (believes moon follows her), ANIMISM (stuffed animals have feelings), and magical thinking. Child cannot yet understand conservation or take others' perspectives. Board pearl: Piaget's stages: Sensorimotor (0-2), Preoperational (2-7), Concrete operational (7-11), Formal operational (11+).",
+    "rationale": "PIAGET PREOPERATIONAL STAGE (Ages 2-7): Characterized by EGOCENTRISM (cannot take another's perspective - believes moon follows her), ANIMISM (attributes life to inanimate objects - stuffed animals have feelings), MAGICAL THINKING, and CENTRATION (focuses on one aspect, cannot see whole). Cannot understand conservation (water volume stays same in different shaped containers). Language develops rapidly. Symbolic play. Cannot perform mental operations. Board pearl: Piaget's stages - Sensorimotor (0-2): object permanence; Preoperational (2-7): symbolic thinking, no conservation; Concrete operational (7-11): conservation, logical thinking about concrete; Formal operational (11+): abstract thinking.",
     "category": "Developmental Theory & Lifespan",
     "domain": 4,
     "domainName": "Psychotherapy and Related Theories"
@@ -954,7 +954,7 @@
       "Sensorimotor"
     ],
     "correctAnswer": 2,
-    "rationale": "CONCRETE OPERATIONAL stage (ages 7-11): Child understands CONSERVATION (water volume same in different containers), REVERSIBILITY, and logical thinking about concrete objects. Can classify, seriate. Cannot yet think abstractly or hypothetically. Board pearl: If a child understands conservation but can't think abstractly, they're in concrete operational stage.",
+    "rationale": "PIAGET CONCRETE OPERATIONAL STAGE (Ages 7-11): Child can now understand CONSERVATION (water volume same in different containers), REVERSIBILITY (can mentally reverse actions), and apply LOGICAL THINKING to concrete objects and events. Can classify, seriate (order by size), and understand cause-effect with physical objects. CANNOT yet think abstractly or hypothetically - that comes in formal operational stage. Board pearl: Classic conservation task - if child says 'same amount of water' regardless of container shape, they've achieved concrete operations.",
     "category": "Developmental Theory & Lifespan",
     "domain": 4,
     "domainName": "Psychotherapy and Related Theories"
@@ -969,7 +969,7 @@
       "Not expected until 18-24 months"
     ],
     "correctAnswer": 2,
-    "rationale": "Object permanence develops 8-12 months—infant understands objects exist even when hidden. This is why peek-a-boo becomes fun! Absence of this milestone suggests developmental delay.",
+    "rationale": "PIAGET FORMAL OPERATIONAL STAGE (Age 11+): Can think ABSTRACTLY and HYPOTHETICALLY. Develops: propositional thinking, deductive reasoning, metacognition (thinking about thinking), considers possibilities/futures, idealistic thinking. Adolescents can now: solve abstract math problems, consider hypothetical situations, understand metaphor and irony, engage in moral reasoning about abstract principles. Not all adults fully achieve formal operations for all types of problems. Board pearl: Formal operations = abstract + hypothetical thinking - distinguishes from concrete operational.",
     "category": "Developmental Theory & Lifespan",
     "domain": 4,
     "domainName": "Psychotherapy and Related Theories"
@@ -984,7 +984,7 @@
       "Latency stage"
     ],
     "correctAnswer": 2,
-    "rationale": "PHALLIC STAGE (ages 3-6): Oedipus complex (boys attracted to mother, see father as rival) and Electra complex (girls). Freud's psychosexual theory. Child becomes aware of gender differences. Resolution: identification with same-sex parent. Board pearl: Stages: Oral (0-1), Anal (1-3), Phallic (3-6), Latency (6-puberty), Genital (puberty+).",
+    "rationale": "FREUD'S PHALLIC STAGE (Ages 3-6): OEDIPUS COMPLEX (boys) - unconscious sexual attraction to mother, jealousy/rivalry with father. ELECTRA COMPLEX (girls) - attraction to father, rivalry with mother. Resolution occurs through IDENTIFICATION with same-sex parent - child adopts parent's values, gender role. Fixation at this stage theoretically leads to issues with authority, sexuality, gender identity. Board pearl: Freud's stages: Oral (0-1) - feeding; Anal (1-3) - toilet training; Phallic (3-6) - Oedipal; Latency (6-puberty) - dormant sexuality; Genital (puberty+) - mature sexuality.",
     "category": "Developmental Theory & Lifespan",
     "domain": 4,
     "domainName": "Psychotherapy and Related Theories"
@@ -999,7 +999,7 @@
       "Anal stage"
     ],
     "correctAnswer": 1,
-    "rationale": "LATENCY STAGE (ages 6-puberty): Sexual impulses are dormant/sublimated. Focus on academics, same-sex friendships, skill development. No significant psychosexual conflict. Child develops ego and social skills. Follows phallic stage, precedes genital stage. Board pearl: Important for distinguishing normal developmental focus from pathology.",
+    "rationale": "FREUD'S LATENCY STAGE (Ages 6-Puberty): Sexual impulses are DORMANT/SUBLIMATED into socially acceptable activities. Child focuses on school achievement, same-sex friendships, developing skills and competencies. Superego (conscience) strengthens. No significant psychosexual conflict during this period. Precedes genital stage. Board pearl: If asked about a school-age child focused on academics and same-sex peer relationships with no romantic interest, this is developmentally appropriate latency stage.",
     "category": "Developmental Theory & Lifespan",
     "domain": 4,
     "domainName": "Psychotherapy and Related Theories"
@@ -1014,7 +1014,7 @@
       "Identity vs. Role Confusion"
     ],
     "correctAnswer": 2,
-    "rationale": "ERIKSON'S PSYCHOSOCIAL STAGES - Older adults (65+): INTEGRITY vs DESPAIR. Successful resolution: wisdom, acceptance of life lived, peace with mortality. Unsuccessful: despair, regret, fear of death. Other key stages for boards: Infancy (Trust vs Mistrust), Toddler (Autonomy vs Shame), Preschool (Initiative vs Guilt), School age (Industry vs Inferiority), Adolescence (Identity vs Role Confusion), Young adult (Intimacy vs Isolation), Middle adult (Generativity vs Stagnation).",
+    "rationale": "ERIKSON'S INTEGRITY VS DESPAIR (Age 65+): Final psychosocial stage. Task: Review one's life and find meaning. Successful resolution: INTEGRITY - sense of fulfillment, acceptance of life as lived, wisdom, peace with approaching death. Unsuccessful resolution: DESPAIR - regret, bitterness, feeling life was wasted, fear of death. Board pearl: Erikson's stages to know - Trust vs Mistrust (infancy), Autonomy vs Shame (toddler), Initiative vs Guilt (preschool), Industry vs Inferiority (school age), Identity vs Role Confusion (adolescent), Intimacy vs Isolation (young adult), Generativity vs Stagnation (middle adult), Integrity vs Despair (older adult).",
     "category": "Developmental Theory & Lifespan",
     "domain": 4,
     "domainName": "Psychotherapy and Related Theories"
@@ -1029,7 +1029,7 @@
       "Crawling on hands and knees"
     ],
     "correctAnswer": 2,
-    "rationale": "4-MONTH MILESTONES: Holds head steady (since ~2 months), beginning to roll over (typically front-to-back first). NOT yet: sitting without support (6 months), crawling (8-10 months), walking (12 months). Board pearl: Red flags at 4 months: no head control, no social smile, no tracking objects.",
+    "rationale": "4-MONTH DEVELOPMENTAL MILESTONES: Motor - holds head steady, beginning to roll over (front-to-back first), brings hands to midline, reaches for objects. Social - social smile well-established, laughs, enjoys interaction. Language - coos, begins to babble. Vision - follows 180 degrees. NOT YET: sitting without support (6 months), crawling (8-10 months), walking (12 months). Red flags at 4 months: no head control, no social smile, not tracking objects, no response to sounds. Board pearl: Head control is achieved around 4 months - critical milestone to assess.",
     "category": "Developmental Theory & Lifespan",
     "domain": 4,
     "domainName": "Psychotherapy and Related Theories"
@@ -1059,7 +1059,7 @@
       "Supportive therapy"
     ],
     "correctAnswer": 1,
-    "rationale": "DIALECTICAL BEHAVIOR THERAPY (DBT) is the GOLD STANDARD treatment for BORDERLINE PERSONALITY DISORDER. Why DBT? It specifically targets BPD symptoms: emotion dysregulation, interpersonal chaos, impulsivity, suicidality. Four modules: (1) Mindfulness, (2) Distress Tolerance, (3) Emotion Regulation, (4) Interpersonal Effectiveness. Evidence shows DBT significantly reduces self-harm and hospitalizations. Board pearl: DBT combines CBT techniques with acceptance strategies.",
+    "rationale": "DIALECTICAL BEHAVIOR THERAPY (DBT) is the GOLD STANDARD for BORDERLINE PERSONALITY DISORDER (BPD). DBT specifically targets BPD symptoms: emotion dysregulation, interpersonal chaos, impulsivity, chronic suicidality, identity disturbance. Four core modules: (1) Mindfulness - present moment awareness, (2) Distress Tolerance - crisis survival skills without making things worse, (3) Emotion Regulation - understanding and managing emotions, (4) Interpersonal Effectiveness - assertiveness, maintaining relationships. Format: weekly individual therapy + weekly skills group. Evidence shows DBT significantly reduces self-harm, suicide attempts, and hospitalizations. Board pearl: No medication is FDA-approved for BPD - DBT is the treatment.",
     "category": "Psychotherapy & Treatment Modalities",
     "domain": 4,
     "domainName": "Psychotherapy and Related Theories"
@@ -1074,7 +1074,7 @@
       "Supportive therapy only"
     ],
     "correctAnswer": 0,
-    "rationale": "TRAUMA-FOCUSED CBT (including Prolonged Exposure, CPT, EMDR) is FIRST-LINE for PTSD. Why? These therapies directly address trauma memories and help extinguish fear response. Why not benzos? Benzodiazepines are NOT recommended - may worsen outcomes and interfere with extinction learning. SSRIs/SNRIs are first-line medications but therapy is preferred. Board pearl: Sertraline and paroxetine are FDA-approved for PTSD.",
+    "rationale": "PTSD FIRST-LINE TREATMENTS: PSYCHOTHERAPY is preferred - specifically trauma-focused therapies: Prolonged Exposure (PE), Cognitive Processing Therapy (CPT), and EMDR (Eye Movement Desensitization and Reprocessing). All have strong evidence. MEDICATIONS: SSRIs (sertraline, paroxetine are FDA-approved) and SNRIs (venlafaxine). Prazosin for trauma-related NIGHTMARES (blocks noradrenergic hyperarousal). BENZODIAZEPINES are NOT RECOMMENDED - may worsen outcomes by interfering with fear extinction learning. Board pearl: Trauma-focused therapy is preferred over medication alone; combination may be beneficial.",
     "category": "Psychotherapy & Treatment Modalities",
     "domain": 4,
     "domainName": "Psychotherapy and Related Theories"
@@ -1089,7 +1089,7 @@
       "The most cooperative family member"
     ],
     "correctAnswer": 0,
-    "rationale": "Identified patient = the 'symptom bearer'—the person whose problems bring family to therapy. Key concept: The whole family system contributes; one person often carries the dysfunction.",
+    "rationale": "SOCIAL ANXIETY DISORDER DSM-5 CRITERIA: Marked fear of social situations where scrutiny by others is possible. Fear of acting in way that will be negatively evaluated (embarrassment, rejection). Social situations almost always provoke fear. Fear is out of proportion to actual threat. Duration ≥6 months. Significant distress or functional impairment. Specify: performance only (fear limited to public speaking/performance). Rule out: substance effects, medical condition, other mental disorders. Board pearl: Performance-only subtype responds well to PRN beta-blockers; generalized type needs daily SSRI + therapy.",
     "category": "Psychotherapy & Treatment Modalities",
     "domain": 4,
     "domainName": "Psychotherapy and Related Theories"
@@ -1104,7 +1104,7 @@
       "Delusion"
     ],
     "correctAnswer": 1,
-    "rationale": "SSRIs are FIRST-LINE pharmacotherapy for PANIC DISORDER. Why? Good efficacy with better side effect profile than older medications (TCAs, MAOIs). Start at LOW dose (half usual starting dose) - panic patients are sensitive to activation. CBT (especially interoceptive exposure) is also first-line. Why not benzos? Useful short-term but risk of dependence. Board pearl: Takes 4-6 weeks for full SSRI effect.",
+    "rationale": "SSRIs are FIRST-LINE PHARMACOTHERAPY for PANIC DISORDER. Why SSRIs? Good efficacy, better side effect profile than TCAs/MAOIs, no dependence. CRITICAL: Start at HALF usual dose - panic patients are hypersensitive to somatic sensations and may experience activation as a panic trigger. Titrate slowly. Takes 4-6 weeks for full effect (warn patient). CBT (especially interoceptive exposure) is also first-line. Benzodiazepines: Useful short-term for acute relief but risk of dependence; avoid as monotherapy. Goal: eventually taper benzo while SSRI takes effect. Board pearl: 'Start low, go slow' with panic disorder - avoid activation.",
     "category": "Psychotherapy & Treatment Modalities",
     "domain": 4,
     "domainName": "Psychotherapy and Related Theories"
@@ -1119,7 +1119,7 @@
       "Dream analysis"
     ],
     "correctAnswer": 0,
-    "rationale": "DBT four modules: Mindfulness (present moment), Distress Tolerance (crisis survival), Emotion Regulation (managing feelings), Interpersonal Effectiveness (relationships). Teach patient: Practice daily for best results.",
+    "rationale": "PANIC ATTACK DSM-5 CRITERIA (not a disorder itself): Abrupt surge of intense fear reaching peak within MINUTES. ≥4 of 13 symptoms: palpitations, sweating, trembling, shortness of breath, choking feeling, chest pain, nausea, dizziness, chills/hot flashes, paresthesias, derealization/depersonalization, fear of losing control, fear of dying. Can occur in any anxiety disorder or even without disorder. PANIC DISORDER = recurrent unexpected panic attacks + persistent concern about more attacks OR maladaptive behavior change for ≥1 month. Board pearl: Panic ATTACK is a symptom; Panic DISORDER is the diagnosis.",
     "category": "Psychotherapy & Treatment Modalities",
     "domain": 4,
     "domainName": "Psychotherapy and Related Theories"
@@ -1134,7 +1134,7 @@
       "Neither occurs in therapy"
     ],
     "correctAnswer": 1,
-    "rationale": "SSRIs/SNRIs are FIRST-LINE pharmacotherapy for Generalized Anxiety Disorder. Why? Good efficacy, tolerable side effects, once-daily dosing, treat comorbid depression. Buspirone is alternative - no dependence risk but takes weeks to work. Benzos for short-term only (dependence risk). Board pearl: Duloxetine, venlafaxine also FDA-approved. Consider therapy (CBT) as first-line or adjunct.",
+    "rationale": "SSRIs/SNRIs are FIRST-LINE for GENERALIZED ANXIETY DISORDER (GAD). FDA-approved options: duloxetine, venlafaxine XR, escitalopram, paroxetine. SNRIs may have edge for comorbid pain. Takes 2-4 weeks for initial effect, full benefit at 8-12 weeks. Buspirone is alternative - 5-HT1A partial agonist, no dependence potential, but takes 2-4 weeks and must be dosed consistently (not PRN). Benzodiazepines: Short-term only due to dependence risk; useful while waiting for SSRI/SNRI to work. CBT is effective and can be combined with medication. Board pearl: GAD + depression is common - SSRIs/SNRIs treat both.",
     "category": "Psychotherapy & Treatment Modalities",
     "domain": 4,
     "domainName": "Psychotherapy and Related Theories"
@@ -1149,7 +1149,7 @@
       "Motivational interviewing"
     ],
     "correctAnswer": 3,
-    "rationale": "Motivational interviewing (MI) increases motivation for change using non-confrontational techniques. Key elements: express empathy, develop discrepancy, roll with resistance, support self-efficacy. Teach patient: You're in control of your change process.",
+    "rationale": "SPECIFIC PHOBIA DSM-5 CRITERIA: Marked fear about specific object or situation (flying, heights, animals, blood, injection). Phobic stimulus almost always provokes immediate fear response. Fear is out of proportion to actual danger. Phobic situation is avoided or endured with intense distress. Duration ≥6 months. Significant distress or functional impairment. Not better explained by other disorders. Treatment: EXPOSURE THERAPY is first-line and highly effective. Medications generally not needed; if severe, short-term benzo PRN for unavoidable exposure. Board pearl: Exposure therapy has highest success rate of any psychotherapy application.",
     "category": "Psychotherapy & Treatment Modalities",
     "domain": 4,
     "domainName": "Psychotherapy and Related Theories"
@@ -1164,7 +1164,7 @@
       "Electroconvulsive therapy"
     ],
     "correctAnswer": 0,
-    "rationale": "EMDR: Eye Movement Desensitization and Reprocessing. Uses bilateral stimulation (eye movements) to process traumatic memories. Evidence-based for PTSD. Teach patient: You control the pace; you can stop anytime.",
+    "rationale": "SEPARATION ANXIETY DISORDER DSM-5: Developmentally inappropriate and EXCESSIVE fear concerning separation from attachment figures. ≥3 symptoms for ≥4 weeks (children/adolescents) or ≥6 months (adults): distress with separation, worry about losing attachment figure, worry about events causing separation, reluctance to go out, reluctance to sleep away from home, nightmares about separation, physical symptoms with separation. Can occur in adults. Treatment: CBT, family therapy, SSRI if severe. Board pearl: Normal separation anxiety peaks 8-18 months and resolves; disorder is excessive and persistent.",
     "category": "Psychotherapy & Treatment Modalities",
     "domain": 4,
     "domainName": "Psychotherapy and Related Theories"
@@ -1179,7 +1179,7 @@
       "Dream interpretation"
     ],
     "correctAnswer": 1,
-    "rationale": "Exposure therapy gradually exposes patients to feared stimuli until anxiety decreases (habituation). Gold standard for phobias. Teach patient: Anxiety peaks then falls—stay with it until it drops.",
+    "rationale": "AGORAPHOBIA DSM-5 CRITERIA: Marked fear about ≥2 of 5 situations: public transportation, open spaces, enclosed spaces, standing in line/crowd, being outside home alone. Fear is that escape might be difficult or help unavailable if panic symptoms occur. Situations almost always provoke fear. Situations are avoided, require companion, or endured with intense fear. Fear is out of proportion, duration ≥6 months, significant impairment. Can occur with or without panic disorder. Treatment: CBT with exposure, SSRIs. Board pearl: Agoraphobia is fear of situations, not open spaces specifically.",
     "category": "Psychotherapy & Treatment Modalities",
     "domain": 4,
     "domainName": "Psychotherapy and Related Theories"
@@ -1194,7 +1194,7 @@
       "Exposure and Response Prevention (ERP)"
     ],
     "correctAnswer": 3,
-    "rationale": "SSRIs/SNRIs (particularly paroxetine, sertraline, venlafaxine) are FIRST-LINE for Social Anxiety Disorder. Why? Good evidence base, treat comorbid depression. Propranolol is for PERFORMANCE-ONLY anxiety (public speaking) - doesn't help generalized social anxiety. Benzos helpful short-term but dependence risk. Board pearl: CBT (exposure therapy) is highly effective. Many patients need both medication and therapy.",
+    "rationale": "SOCIAL ANXIETY DISORDER (Social Phobia) TREATMENT: First-line medications: SSRIs (paroxetine, sertraline) and SNRIs (venlafaxine). FDA-approved: paroxetine, sertraline, venlafaxine XR. CBT with exposure is highly effective. PERFORMANCE-ONLY subtype (stage fright, public speaking): Propranolol PRN 30-60 minutes before event - blocks peripheral symptoms (tremor, tachycardia). Propranolol does NOT work for generalized social anxiety. Benzodiazepines PRN can help but risk dependence if used frequently. Board pearl: Performance anxiety = beta-blocker PRN; generalized social anxiety = SSRI/SNRI daily + therapy.",
     "category": "Psychotherapy & Treatment Modalities",
     "domain": 4,
     "domainName": "Psychotherapy and Related Theories"
@@ -1209,7 +1209,7 @@
       "Institutional long-term care"
     ],
     "correctAnswer": 0,
-    "rationale": "Recovery model: patient empowerment, hope, person-centered care. Focus on meaningful life, not just symptom reduction. Teach patient: Recovery is possible—you define what it means for you.",
+    "rationale": "GENERALIZED ANXIETY DISORDER DSM-5 CRITERIA: Excessive anxiety and worry about various events occurring MORE DAYS THAN NOT for ≥6 MONTHS. Difficulty controlling worry. ≥3 of 6 symptoms (only 1 needed in children): restlessness/keyed up, easily fatigued, difficulty concentrating, irritability, muscle tension, sleep disturbance. Significant distress or functional impairment. Not due to substance or medical condition. Not better explained by another mental disorder. Board pearl: GAD = excessive worry about MULTIPLE things (not just one specific fear) for ≥6 months.",
     "category": "Psychotherapy & Treatment Modalities",
     "domain": 4,
     "domainName": "Psychotherapy and Related Theories"
@@ -1224,7 +1224,7 @@
       "Punishment-based behavioral approaches"
     ],
     "correctAnswer": 0,
-    "rationale": "Trauma-informed care: Safety, Trustworthiness, Peer support, Collaboration, Empowerment. Ask 'What happened to you?' not 'What's wrong with you?' Assumes trauma until proven otherwise.",
+    "rationale": "PTSD DSM-5 CRITERIA (Criterion A): Exposure to actual/threatened death, serious injury, or sexual violence via: (1) Direct experience, (2) Witnessing in person, (3) Learning of event to close family/friend, (4) Repeated exposure to aversive details (first responders). Note: media exposure doesn't count unless work-related. Then need symptoms in 4 clusters: intrusion, avoidance, negative cognitions/mood, arousal/reactivity. Duration >1 month. If <1 month = Acute Stress Disorder. Board pearl: PTSD requires life-threatening/sexual violence trauma - not all stressors qualify.",
     "category": "Psychotherapy & Treatment Modalities",
     "domain": 4,
     "domainName": "Psychotherapy and Related Theories"
@@ -1239,7 +1239,7 @@
       "Waiting 10 seconds after patient speaks before responding"
     ],
     "correctAnswer": 3,
-    "rationale": "10-second rule: wait 10 seconds after patient speaks before responding. Allows deeper processing and reflection. Therapeutic silence is powerful—don't rush to fill it.",
+    "rationale": "ADJUSTMENT DISORDER DSM-5: Emotional or behavioral symptoms within 3 MONTHS of identifiable stressor. Marked distress out of proportion to stressor OR significant functional impairment. Does not meet criteria for another mental disorder. Not normal bereavement. Symptoms resolve within 6 MONTHS of stressor ending. Specify: with depressed mood, anxiety, mixed, disturbance of conduct, mixed disturbance. Treatment: primarily psychotherapy (supportive, brief dynamic, CBT); medications rarely needed. Board pearl: Adjustment disorder is time-limited - if symptoms persist >6 months after stressor ends, reconsider diagnosis.",
     "category": "Psychotherapy & Treatment Modalities",
     "domain": 4,
     "domainName": "Psychotherapy and Related Theories"
@@ -1254,7 +1254,7 @@
       "Engaging in lifelong self-reflection and learning FROM the patient about their culture"
     ],
     "correctAnswer": 3,
-    "rationale": "Cultural humility: lifelong self-reflection and learning FROM patients about their culture. Different from competence—you can never fully 'know' another's culture. Ask: 'Help me understand your beliefs.'",
+    "rationale": "OBSESSIVE-COMPULSIVE DISORDER DSM-5: Obsessions = recurrent, persistent, unwanted thoughts/urges/images that cause anxiety. Person attempts to ignore/suppress or neutralize with compulsions. Compulsions = repetitive behaviors or mental acts person feels driven to perform in response to obsession or rigid rules. Behaviors aimed at reducing distress or preventing feared event, but not realistically connected. Time-consuming (>1 hour/day) OR significant distress/impairment. Insight specifier: good, fair, poor, absent. Board pearl: OCD obsessions are ego-dystonic (unwanted, distressing) vs. OCPD traits which are ego-syntonic.",
     "category": "Psychotherapy & Treatment Modalities",
     "domain": 4,
     "domainName": "Psychotherapy and Related Theories"
@@ -1269,7 +1269,7 @@
       "Family therapy only"
     ],
     "correctAnswer": 2,
-    "rationale": "CBT WITH EXPOSURE AND RESPONSE PREVENTION (ERP) is FIRST-LINE for OCD. Why? ERP has the strongest evidence base - patient is exposed to anxiety trigger and prevented from performing compulsive ritual. This extinguishes the anxiety response over time. Medications (SSRIs at HIGH doses) are adjunct. Why not other therapies? Psychodynamic, supportive therapy lack evidence for OCD. Board pearl: OCD requires higher SSRI doses than depression (e.g., fluoxetine 60-80mg).",
+    "rationale": "TARASOFF DUTY TO WARN/PROTECT: When a patient makes a CREDIBLE, SPECIFIC threat against an IDENTIFIABLE victim, the clinician has a legal DUTY TO PROTECT that victim. Options vary by state but generally include: (1) Warn the intended victim directly, (2) Notify law enforcement, (3) Hospitalize the patient if criteria met. Does NOT apply to: vague threats, threats without identifiable victim, threats against self (different protocols). Document your assessment thoroughly. Breaking confidentiality is REQUIRED - not optional - when Tarasoff applies. Board pearl: Specific threat + identifiable victim = duty to protect. Balance maintaining therapeutic alliance while fulfilling legal obligation.",
     "category": "Psychotherapy & Treatment Modalities",
     "domain": 4,
     "domainName": "Psychotherapy and Related Theories"
@@ -1284,7 +1284,7 @@
       "Cerebellum"
     ],
     "correctAnswer": 2,
-    "rationale": "PREFRONTAL CORTEX (PFC) REGIONS: (1) DORSOLATERAL PFC=executive function, working memory, planning. (2) ORBITOFRONTAL=impulse control, social behavior. (3) VENTROMEDIAL=emotion regulation, decision-making. (4) ANTERIOR CINGULATE=error detection, motivation. PFC fully matures age 25. Damaged in TBI, atrophied in schizophrenia. ADHD=underactive PFC.",
+    "rationale": "HOARDING DISORDER DSM-5: Persistent difficulty discarding possessions regardless of actual value. Perceived need to save items AND distress with discarding. Accumulation of possessions that clutters living areas and compromises intended use. Significant distress or functional impairment. Not due to another medical condition or mental disorder. Specify if: excessive acquisition, insight level. Treatment: specialized CBT for hoarding (not standard OCD treatment), home visits often needed. Board pearl: Hoarding is separate from OCD in DSM-5; requires different treatment approach.",
     "category": "Neuroscience & Pathophysiology",
     "domain": 1,
     "domainName": "Scientific Foundation"
@@ -1299,7 +1299,7 @@
       "Thalamus"
     ],
     "correctAnswer": 1,
-    "rationale": "AMYGDALA: Emotional center in LIMBIC SYSTEM (primitive brain). Fear/threat detection, fight-or-flight. HYPERACTIVE in anxiety/PTSD/phobias. HYPOACTIVE in psychopathy. Connected to hippocampus (memory) and PFC (regulation). Exposure therapy 'retrains' amygdala response. Located in temporal lobe medially.",
+    "rationale": "BODY DYSMORPHIC DISORDER DSM-5: Preoccupation with ≥1 perceived defects in physical appearance that are NOT observable or appear SLIGHT to others. Repetitive behaviors (mirror checking, skin picking, reassurance seeking) OR mental acts (comparing appearance) in response. Significant distress or functional impairment. Not better explained by eating disorder concerns with weight/body fat. Insight specifier. High rate of suicidal ideation. Treatment: SSRIs (high doses), CBT. Board pearl: These patients often seek cosmetic surgery, which rarely helps - refer for psychiatric treatment instead.",
     "category": "Neuroscience & Pathophysiology",
     "domain": 1,
     "domainName": "Scientific Foundation"
@@ -1314,7 +1314,7 @@
       "Hippocampus"
     ],
     "correctAnswer": 3,
-    "rationale": "HIPPOCAMPUS: Memory formation in TEMPORAL LOBE. Part of LIMBIC SYSTEM. SHORT-TERM→LONG-TERM memory consolidation. SHRINKS with: chronic stress, cortisol, PTSD, Alzheimer's, chronic alcohol. BOARD TIP: 'Hippo'=memory. Connected to amygdala (emotional memories).",
+    "rationale": "INFORMED CONSENT REQUIREMENTS: Patient must receive information about: (1) Diagnosis, (2) Nature and purpose of proposed treatment, (3) Risks and benefits of treatment, (4) Alternative treatments and their risks/benefits, (5) Risks of no treatment. Patient must have CAPACITY - ability to understand information, appreciate consequences, reason about options, communicate a choice. Consent must be VOLUNTARY - no coercion. Document the discussion. For minors: parent/guardian consent required with some exceptions (emergency, emancipated minor, specific situations like STI treatment). Board pearl: Capacity is decision-specific and time-specific - patient may have capacity for some decisions but not others.",
     "category": "Neuroscience & Pathophysiology",
     "domain": 1,
     "domainName": "Scientific Foundation"
@@ -1329,7 +1329,7 @@
       "Balance"
     ],
     "correctAnswer": 1,
-    "rationale": "FRONTAL LOBE: BROCA'S AREA (inferior frontal gyrus)=speech PRODUCTION. Damage=BROCA'S APHASIA (non-fluent, telegraphic speech, preserved comprehension). 'Broca=Broken speech.' Motor cortex=voluntary movement. Personality/behavior regulation. Phineas Gage case=frontal damage→personality change.",
+    "rationale": "SOMATIC SYMPTOM DISORDER DSM-5: ≥1 somatic symptom that is distressing or disrupts daily life. Excessive thoughts, feelings, behaviors related to symptoms: disproportionate thoughts about seriousness, high anxiety about symptoms, excessive time/energy devoted to symptoms. State is persistent (typically >6 months). Symptoms don't need to be medically unexplained - focus is on excessive response. Treatment: regular scheduled visits (not symptom-driven), validate suffering, minimize unnecessary tests, CBT. Board pearl: Focus is on disproportionate response to symptoms, not whether symptoms are 'real.'",
     "category": "Neuroscience & Pathophysiology",
     "domain": 1,
     "domainName": "Scientific Foundation"
@@ -1344,7 +1344,7 @@
       "Wernicke's area"
     ],
     "correctAnswer": 3,
-    "rationale": "TEMPORAL LOBE: WERNICKE'S AREA (posterior superior temporal)=speech COMPREHENSION. Damage=WERNICKE'S APHASIA (fluent but meaningless speech, 'word salad,' poor comprehension). 'Wernicke=Word comprehension.' Hippocampus=memory. Auditory cortex=hearing. Seizures cause déjà vu, olfactory hallucinations.",
+    "rationale": "INVOLUNTARY PSYCHIATRIC HOLD CRITERIA: Patient must be (1) Danger to self (suicidal ideation with intent/plan), (2) Danger to others (homicidal ideation with intent, identifiable victim), OR (3) Gravely disabled (unable to provide for basic needs - food, shelter, clothing - due to mental illness). Duration varies by state (typically 72 hours for initial hold). Requires mental illness as cause. Patient retains rights: informed of rights, right to attorney, right to hearing. This is EMERGENCY detention, not long-term commitment (requires court process). Board pearl: 'Danger to self, others, or gravely disabled' - know this criteria cold.",
     "category": "Neuroscience & Pathophysiology",
     "domain": 1,
     "domainName": "Scientific Foundation"
@@ -1359,7 +1359,7 @@
       "Motor control"
     ],
     "correctAnswer": 2,
-    "rationale": "PARIETAL LOBE: Sensory processing, spatial awareness, proprioception. RIGHT PARIETAL damage=HEMISPATIAL NEGLECT (ignores left side of body/world). Involved in clock drawing (visuospatial). GERSTMANN SYNDROME: finger agnosia, agraphia, acalculia, left-right confusion.",
+    "rationale": "FACTITIOUS DISORDER DSM-5: Falsification of medical or psychological signs/symptoms OR induction of injury/disease. Presents self as ill, impaired, or injured (or another person if 'imposed on another'/Munchausen by proxy). Deceptive behavior is evident even without obvious external rewards. Not better explained by another disorder. Key: internal motivation (sick role), no external incentive. Vs. Malingering: external incentive (financial, avoiding work, obtaining drugs). Treatment: gentle confrontation, maintain therapeutic relationship. Board pearl: Factitious = wants sick role; Malingering = wants external reward.",
     "category": "Neuroscience & Pathophysiology",
     "domain": 1,
     "domainName": "Scientific Foundation"
@@ -1374,7 +1374,7 @@
       "Memory"
     ],
     "correctAnswer": 0,
-    "rationale": "OCCIPITAL LOBE: Visual processing (primary visual cortex). Damage=CORTICAL BLINDNESS (eyes work but brain can't interpret). CHARLES BONNET SYNDROME=visual hallucinations in blind/low vision patients. Occipital seizures cause visual auras, flashing lights.",
+    "rationale": "CULTURAL FORMULATION IN DSM-5: Diagnosis must account for cultural context. What's considered pathological in one culture may be normative in another. Components of cultural assessment: (1) Cultural identity of patient, (2) Cultural conceptualizations of distress (culture-bound syndromes), (3) Psychosocial stressors and cultural features of vulnerability/resilience, (4) Cultural features of relationship between patient and clinician, (5) Overall cultural assessment for diagnosis and care. Example: Hearing deceased relative's voice may be normal bereavement in some cultures, not psychosis. Board pearl: 'A culturally expected response to a stressor is not a mental disorder.'",
     "category": "Neuroscience & Pathophysiology",
     "domain": 1,
     "domainName": "Scientific Foundation"
@@ -1389,7 +1389,7 @@
       "Frontal lobe"
     ],
     "correctAnswer": 2,
-    "rationale": "CEREBELLUM + ALCOHOL: Acute intoxication affects cerebellum→ataxia, slurred speech. CHRONIC ALCOHOL EFFECTS: Cerebellar degeneration, Wernicke's encephalopathy (thiamine), Korsakoff's (memory), peripheral neuropathy. INTOXICATION=CNS depression. WITHDRAWAL=CNS hyperexcitability (seizures, DTs). Opposite presentations.",
+    "rationale": "ANOREXIA NERVOSA DSM-5: (1) Restriction of energy intake leading to SIGNIFICANTLY LOW body weight for age, sex, developmental trajectory. (2) Intense fear of gaining weight or persistent behavior interfering with weight gain. (3) Disturbance in body image OR undue influence of weight on self-evaluation OR lack of recognition of seriousness. Specify: Restricting type vs. Binge-eating/purging type. Severity based on BMI. Medical complications: bradycardia, hypothermia, electrolyte abnormalities, amenorrhea, osteoporosis. Board pearl: No psychiatric medication is FDA-approved for anorexia - weight restoration is primary treatment.",
     "category": "Neuroscience & Pathophysiology",
     "domain": 1,
     "domainName": "Scientific Foundation"
@@ -1404,7 +1404,7 @@
       "Glutamate"
     ],
     "correctAnswer": 1,
-    "rationale": "PARKINSON'S: SUBSTANTIA NIGRA (midbrain) dopamine neuron degeneration. Part of BASAL GANGLIA circuit. Triad: tremor, rigidity, bradykinesia. DOPAMINE PATHWAY: Substantia nigra→striatum (nigrostriatal). Antipsychotics worsen PD (block dopamine). Lewy bodies=protein aggregates.",
+    "rationale": "BULIMIA NERVOSA DSM-5: (1) Recurrent binge eating episodes (discrete period, large amount, lack of control). (2) Recurrent inappropriate compensatory behaviors (vomiting, laxatives, diuretics, fasting, excessive exercise). (3) Both occur on average ≥1x/week for 3 months. (4) Self-evaluation unduly influenced by body shape/weight. (5) Does not occur exclusively during anorexia. Severity: based on compensatory behavior frequency. Treatment: CBT-E is first-line, fluoxetine 60mg FDA-approved. Board pearl: Bulimia = normal or higher weight with binge-purge; Anorexia binge-purge type = underweight with binge-purge.",
     "category": "Neuroscience & Pathophysiology",
     "domain": 1,
     "domainName": "Scientific Foundation"
@@ -1419,7 +1419,7 @@
       "Norepinephrine"
     ],
     "correctAnswer": 2,
-    "rationale": "ALZHEIMER'S: ACETYLCHOLINE deficiency from nucleus basalis of Meynert degeneration. HIPPOCAMPUS atrophies first (memory loss). Amyloid plaques + tau tangles. Treat: cholinesterase inhibitors (donepezil, rivastigmine). NMDA antagonist memantine for moderate-severe. Early PFC involvement=executive dysfunction.",
+    "rationale": "BINGE EATING DISORDER DSM-5: Recurrent binge episodes (large amount, loss of control). Associated with ≥3 of: eating rapidly, eating until uncomfortably full, eating large amounts when not hungry, eating alone due to embarrassment, feeling disgusted/guilty afterward. Marked distress about binging. Occurs ≥1x/week for 3 months. NO compensatory behaviors (distinguishes from bulimia). Treatment: CBT, interpersonal therapy. FDA-approved: lisdexamfetamine (Vyvanse). Board pearl: Most common eating disorder; often comorbid with obesity, depression.",
     "category": "Neuroscience & Pathophysiology",
     "domain": 1,
     "domainName": "Scientific Foundation"
@@ -1434,7 +1434,7 @@
       "2 weeks"
     ],
     "correctAnswer": 3,
-    "rationale": "MDD requires minimum 2 weeks of symptoms. Must have depressed mood OR anhedonia PLUS 4 additional criteria (SIGECAPS). Board tip: 2 weeks = MDD, 2 years = dysthymia.",
+    "rationale": "ADHD DSM-5 CRITERIA: ≥6 symptoms (or ≥5 for adults ≥17) of inattention AND/OR hyperactivity-impulsivity for ≥6 months. Symptoms present BEFORE AGE 12 (key criterion). Symptoms in ≥2 settings. Clear evidence of functional impairment. Not explained by another disorder. Presentations: combined, predominantly inattentive, predominantly hyperactive-impulsive. Adult ADHD: often inattentive symptoms predominate, hyperactivity 'internalized' as restlessness. Board pearl: 'Before age 12' and 'two settings' are commonly tested - adult onset is not ADHD.",
     "category": "Diagnostic Criteria (DSM-5)",
     "domain": 3,
     "domainName": "Diagnosis and Treatment"
@@ -1449,7 +1449,7 @@
       "12 months"
     ],
     "correctAnswer": 2,
-    "rationale": "GAD requires 6 MONTHS of excessive, difficult-to-control worry about multiple areas of life, plus 3+ physical symptoms: restlessness, fatigue, difficulty concentrating, irritability, muscle tension, sleep disturbance. First-line: SSRIs/SNRIs + CBT. Avoid benzodiazepines long-term.",
+    "rationale": "ADHD MEDICATION SELECTION: STIMULANTS are first-line (70-80% response). Methylphenidate (Ritalin, Concerta): blocks dopamine/norepinephrine reuptake. Amphetamines (Adderall, Vyvanse): release dopamine/norepinephrine. Vyvanse is prodrug (less abuse potential). NON-STIMULANTS: Atomoxetine (SNRI, takes weeks, no abuse potential), guanfacine/clonidine (alpha-2 agonists, help hyperactivity/impulsivity). Stimulant side effects: decreased appetite, insomnia, headache, irritability. Contraindications: concurrent MAOIs, symptomatic cardiovascular disease. Board pearl: Start stimulant at low dose, titrate based on response/side effects.",
     "category": "Diagnostic Criteria (DSM-5)",
     "domain": 3,
     "domainName": "Diagnosis and Treatment"
@@ -1464,7 +1464,7 @@
       "6 months"
     ],
     "correctAnswer": 2,
-    "rationale": "PTSD requires minimum 1 month of symptoms (intrusion, avoidance, negative cognitions, hyperarousal). Under 1 month = Acute Stress Disorder. Teach patient: Symptoms under 1 month may resolve without treatment.",
+    "rationale": "AUTISM SPECTRUM DISORDER DSM-5: (A) Persistent deficits in social communication/interaction: deficits in social-emotional reciprocity, nonverbal communication, developing/maintaining relationships. (B) Restricted, repetitive behaviors (≥2 of): stereotyped movements/speech, insistence on sameness, restricted interests, sensory hyper/hypo-reactivity. (C) Symptoms present in early developmental period. (D) Symptoms cause significant impairment. Severity levels 1-3 based on support needs. No longer separate Asperger's - all under ASD umbrella. Board pearl: ASD requires BOTH social deficits AND restricted/repetitive behaviors.",
     "category": "Diagnostic Criteria (DSM-5)",
     "domain": 3,
     "domainName": "Diagnosis and Treatment"
@@ -1479,7 +1479,7 @@
       "3 months"
     ],
     "correctAnswer": 3,
-    "rationale": "ADJUSTMENT DISORDER: Symptoms must develop within 3 MONTHS of identifiable stressor. Response is out of proportion to stressor OR causes significant impairment. Resolves within 6 months of stressor ending. Subtypes: with depressed mood, with anxiety, with mixed anxiety/depression.",
+    "rationale": "INTELLECTUAL DISABILITY DSM-5: (A) Deficits in intellectual functions confirmed by clinical assessment AND standardized testing (IQ ~70 or below, ±5). (B) Deficits in adaptive functioning in conceptual, social, practical domains. (C) Onset during developmental period. Severity based on adaptive functioning, not IQ: Mild (85%), Moderate (10%), Severe (4%), Profound (1%). Adaptive domains: Conceptual (academic, reasoning), Social (relationships, communication), Practical (self-care, job). Board pearl: Severity is based on ADAPTIVE functioning, not IQ score alone.",
     "category": "Diagnostic Criteria (DSM-5)",
     "domain": 3,
     "domainName": "Diagnosis and Treatment"
@@ -1494,7 +1494,7 @@
       "Adjustment Disorder"
     ],
     "correctAnswer": 0,
-    "rationale": "PERSISTENT DEPRESSIVE DISORDER (Dysthymia): 2+ years of depressed mood more days than not, never symptom-free for >2 months. Plus 2+ of: appetite change, sleep change, low energy, low self-esteem, poor concentration, hopelessness. Can have 'double depression' (dysthymia + MDD episodes).",
+    "rationale": "MAJOR NEUROCOGNITIVE DISORDER (Dementia) DSM-5: Evidence of SIGNIFICANT cognitive decline from previous level in ≥1 domain: complex attention, executive function, learning/memory, language, perceptual-motor, social cognition. Deficits interfere with independence in everyday activities. Not occurring exclusively during delirium. Not better explained by another mental disorder. Specify etiology: Alzheimer's, vascular, Lewy body, frontotemporal, Parkinson's, etc. Mild NCD = modest decline, preserved independence. Board pearl: Major NCD = needs assistance with daily activities; Mild NCD = independent but struggles.",
     "category": "Diagnostic Criteria (DSM-5)",
     "domain": 3,
     "domainName": "Diagnosis and Treatment"
@@ -1509,7 +1509,7 @@
       "No distinguishing features"
     ],
     "correctAnswer": 1,
-    "rationale": "Key difference: Adjustment Disorder requires identifiable stressor and onset within 3 months. MDD has no required stressor and can arise without trigger. Both may have similar symptoms, but etiology differs.",
+    "rationale": "DELIRIUM DSM-5: (A) Disturbance in attention AND awareness. (B) Develops over SHORT period (hours-days), fluctuates during day. (C) Additional cognitive disturbance (memory, orientation, language, perception). (D) Not explained by preexisting neurocognitive disorder or coma. (E) Evidence of physiological cause (substance, medical condition, multiple etiologies). Hyperactive vs. hypoactive (often missed) vs. mixed. PREVENTION is key in high-risk (elderly, post-surgical). Treatment: treat underlying cause, supportive care, low-dose antipsychotic if needed for agitation. Board pearl: Delirium is acute, fluctuates; dementia is chronic, stable throughout day.",
     "category": "Diagnostic Criteria (DSM-5)",
     "domain": 3,
     "domainName": "Diagnosis and Treatment"
@@ -1524,7 +1524,7 @@
       "Delirium is irreversible; dementia is reversible"
     ],
     "correctAnswer": 1,
-    "rationale": "Delirium: ACUTE onset, fluctuating consciousness, often REVERSIBLE (find and treat cause). Dementia: GRADUAL onset, progressive, generally IRREVERSIBLE. Teach family: Sudden confusion = delirium = medical emergency.",
+    "rationale": "ALCOHOL USE DISORDER DSM-5: ≥2 criteria in 12-month period: larger amounts/longer than intended, persistent desire to cut down, time spent obtaining/using/recovering, craving, failure to fulfill role obligations, continued use despite social problems, activities given up, use in hazardous situations, continued despite physical/psychological problems, tolerance, withdrawal. Severity: Mild (2-3), Moderate (4-5), Severe (6+). Board pearl: AUD is a spectrum - mild can be treated outpatient with brief intervention; severe may need intensive treatment.",
     "category": "Diagnostic Criteria (DSM-5)",
     "domain": 3,
     "domainName": "Diagnosis and Treatment"
@@ -1539,7 +1539,7 @@
       "Apathy without other symptoms"
     ],
     "correctAnswer": 0,
-    "rationale": "Delirium hallmark: INATTENTION (can't focus) and FLUCTUATING consciousness (worse at night = 'sundowning'). Acute onset. Reversible if cause found. Common causes: infection, medications, dehydration.",
+    "rationale": "OPIOID USE DISORDER DSM-5: Same 11-criteria structure as alcohol use disorder. Key additions for opioids: physical dependence (tolerance, withdrawal) expected with appropriate medical use, so diagnose OUD only if problematic use pattern present (craving, failure to fulfill obligations, hazardous use, etc.). Specify: on maintenance therapy, in controlled environment, remission status. Withdrawal: dysphoria, nausea, muscle aches, lacrimation, rhinorrhea, pupil dilation, piloerection, diarrhea, yawning, fever, insomnia. Board pearl: Physical dependence alone (from chronic pain treatment) is NOT OUD.",
     "category": "Diagnostic Criteria (DSM-5)",
     "domain": 3,
     "domainName": "Diagnosis and Treatment"
@@ -1554,7 +1554,7 @@
       "Sudden agitation"
     ],
     "correctAnswer": 1,
-    "rationale": "Dementia hallmark: MEMORY IMPAIRMENT (especially recent memory first). Gradual, progressive. Multiple domains affected (language, executive function, visuospatial). Teach family: Patient often unaware of deficits.",
+    "rationale": "BORDERLINE PERSONALITY DISORDER DSM-5: ≥5 of 9 criteria: frantic efforts to avoid abandonment, unstable intense relationships (idealization-devaluation), identity disturbance, impulsivity (≥2 areas), recurrent suicidal behavior/self-harm, affective instability, chronic emptiness, inappropriate intense anger, transient paranoid ideation or dissociation. Pervasive pattern from early adulthood, in various contexts. High comorbidity with mood disorders, substance use, eating disorders. 10% suicide completion rate. Treatment: DBT is gold standard, no FDA-approved medications. Board pearl: Abandonment fears and splitting (black-white thinking) are hallmark features.",
     "category": "Diagnostic Criteria (DSM-5)",
     "domain": 3,
     "domainName": "Diagnosis and Treatment"
@@ -1569,7 +1569,7 @@
       "None of the above"
     ],
     "correctAnswer": 0,
-    "rationale": "CLUSTER A (Odd/Eccentric): Paranoid, Schizoid, Schizotypal. Mnemonic: 'MAD'—Mistrustful (Paranoid), Aloof (Schizoid), Disorganized thinking (Schizotypal). Genetic link to schizophrenia. Rarely seek treatment. Low-dose antipsychotics may help schizotypal perceptual disturbances.",
+    "rationale": "ANTISOCIAL PERSONALITY DISORDER DSM-5: ≥3 of 7: failure to conform to social norms (repeated unlawful behavior), deceitfulness, impulsivity, irritability/aggressiveness, reckless disregard for safety, consistent irresponsibility, lack of remorse. Pattern since age 15. Age ≥18 for diagnosis. Evidence of CONDUCT DISORDER before age 15 (required). Not occurring exclusively during schizophrenia or bipolar. Treatment: very difficult; CBT for specific behaviors; no FDA-approved medications. Board pearl: Must have CONDUCT DISORDER before age 15 - this differentiates from adult-onset criminal behavior.",
     "category": "Diagnostic Criteria (DSM-5)",
     "domain": 3,
     "domainName": "Diagnosis and Treatment"
@@ -1584,7 +1584,7 @@
       "None of the above"
     ],
     "correctAnswer": 0,
-    "rationale": "CLUSTER B (Dramatic/Emotional): Antisocial, Borderline, Histrionic, Narcissistic. Mnemonic: 'BAD'—Behavioral acting out, Attention-seeking, Dramatic. Most treatment-seeking cluster. DBT gold standard for BPD. High ER utilization. Set firm boundaries.",
+    "rationale": "NARCISSISTIC PERSONALITY DISORDER DSM-5: ≥5 of 9: grandiose sense of self-importance, preoccupation with fantasies of unlimited success/power/beauty, believes self 'special' and only understood by high-status people, requires excessive admiration, sense of entitlement, interpersonally exploitative, lacks empathy, envious of others/believes others envious, arrogant behaviors. Underlying fragile self-esteem. Treatment: psychotherapy (challenging due to lack of insight). Board pearl: Grandiosity masks fragile self-esteem - criticism is poorly tolerated.",
     "category": "Diagnostic Criteria (DSM-5)",
     "domain": 3,
     "domainName": "Diagnosis and Treatment"
@@ -1599,7 +1599,7 @@
       "None of the above"
     ],
     "correctAnswer": 2,
-    "rationale": "CLUSTER C (Anxious/Fearful): Avoidant, Dependent, OCPD. Mnemonic: 'SAD'—Scared (Avoidant), Attached (Dependent), Demanding perfection (OCPD). BEST PROGNOSIS of all clusters—respond well to CBT and SSRIs. Avoidant WANTS connection (unlike Schizoid). OCPD is ego-syntonic (patient sees no problem).",
+    "rationale": "CLUSTER A PERSONALITY DISORDERS (Odd/Eccentric): PARANOID - pervasive distrust, suspects exploitation, reluctant to confide, reads threats into benign remarks, bears grudges, perceives attacks on character, suspicious of partner fidelity. SCHIZOID - detachment from social relationships, limited emotional expression, solitary activities, little interest in sexual experiences, few close relationships. SCHIZOTYPAL - cognitive/perceptual distortions, odd beliefs (magical thinking), unusual perceptions, odd speech/appearance, suspiciousness, inappropriate affect, few close relationships. Board pearl: Schizotypal has psychotic-like symptoms but not frank psychosis - may be on schizophrenia spectrum.",
     "category": "Diagnostic Criteria (DSM-5)",
     "domain": 3,
     "domainName": "Diagnosis and Treatment"
@@ -1614,7 +1614,7 @@
       "History of childhood trauma or sexual abuse"
     ],
     "correctAnswer": 3,
-    "rationale": "BORDERLINE PD and TRAUMA: 70-80% of BPD patients report childhood sexual/physical abuse or neglect. Trauma history is crucial for understanding BPD development and guiding trauma-informed treatment. DBT specifically addresses emotion dysregulation stemming from invalidating environments.",
+    "rationale": "CLUSTER C PERSONALITY DISORDERS (Anxious/Fearful): AVOIDANT - social inhibition, feelings of inadequacy, hypersensitivity to negative evaluation; desires relationships but avoids due to fear of rejection. DEPENDENT - excessive need to be taken care of, difficulty making decisions, needs reassurance, difficulty expressing disagreement, goes to excessive lengths to obtain support, feels helpless when alone. OBSESSIVE-COMPULSIVE PD - preoccupation with orderliness, perfectionism, control; at expense of flexibility, efficiency, relationships. Inflexible about morals, hoards, reluctant to delegate. Board pearl: OCPD is ego-syntonic (traits feel right); OCD is ego-dystonic (obsessions are unwanted).",
     "category": "Diagnostic Criteria (DSM-5)",
     "domain": 3,
     "domainName": "Diagnosis and Treatment"
@@ -1629,7 +1629,7 @@
       "Stimulant use disorder"
     ],
     "correctAnswer": 2,
-    "rationale": "ANTISOCIAL PD + SUBSTANCE USE: Alcohol use disorder is MOST commonly comorbid (40-50% of ASPD). High rates of polysubstance abuse. Impulsivity drives both conditions. Poor treatment prognosis. Address SUD first for any chance at behavioral change. Naltrexone may help alcohol cravings.",
+    "rationale": "PERSONALITY DISORDER GENERAL CRITERIA DSM-5: (A) Enduring pattern of inner experience and behavior that deviates markedly from cultural expectations in ≥2 areas: cognition, affectivity, interpersonal functioning, impulse control. (B) Pattern is inflexible and pervasive across situations. (C) Leads to distress or impairment. (D) Pattern is stable, long duration, traceable to adolescence/early adulthood. (E) Not better explained by another mental disorder. (F) Not due to substance or medical condition. Cannot diagnose in children; say 'traits consistent with' until pattern established. Board pearl: Pervasive and inflexible since adolescence/young adulthood - not situational.",
     "category": "Diagnostic Criteria (DSM-5)",
     "domain": 3,
     "domainName": "Diagnosis and Treatment"
@@ -1644,7 +1644,7 @@
       "Agoraphobia"
     ],
     "correctAnswer": 1,
-    "rationale": "PANIC ATTACK: Abrupt surge of intense fear peaking within MINUTES, with 4+ symptoms: palpitations, sweating, trembling, shortness of breath, chest pain, nausea, dizziness, chills/heat, numbness, derealization, fear of losing control, fear of dying. Rule out cardiac causes first. Treat: SSRIs + CBT.",
+    "rationale": "PANIC ATTACK: Abrupt surge of intense fear peaking within MINUTES, with 4+ symptoms: palpitations, sweating, trembling, shortness of breath, chest pain, nausea, dizziness, chills/heat, numbness, derealization, fear of losing control, fear of dying. Rule out cardiac causes first. Treat: SSRIs + CBT. Board pearl: SSRIs are first-line for depression and most anxiety disorders.",
     "category": "Diagnostic Criteria (DSM-5)",
     "domain": 3,
     "domainName": "Diagnosis and Treatment"
@@ -1674,7 +1674,7 @@
       "Generalized worry"
     ],
     "correctAnswer": 0,
-    "rationale": "Social anxiety disorder: fear of being judged/scrutinized in social situations leading to avoidance. Performance-only type exists. Teach patient: This is more than shyness; it's treatable with CBT and/or SSRIs.",
+    "rationale": "Social anxiety disorder: fear of being judged/scrutinized in social situations leading to avoidance. Performance-only type exists. Teach patient: This is more than shyness; it's treatable with CBT and/or SSRIs. Board pearl: SSRIs are first-line for depression and most anxiety disorders.",
     "category": "Diagnostic Criteria (DSM-5)",
     "domain": 3,
     "domainName": "Diagnosis and Treatment"
@@ -2214,7 +2214,7 @@
       "Assess risks vs. benefits of each medication; consider safer alternatives"
     ],
     "correctAnswer": 3,
-    "rationale": "Pregnancy: weigh untreated illness vs. medication risks. Untreated depression/psychosis also harms fetus. Get pregnancy test before starting ANY psych med in reproductive-age women. SSRIs generally safest.",
+    "rationale": "Pregnancy: weigh untreated illness vs. medication risks. Untreated depression/psychosis also harms fetus. Get pregnancy test before starting ANY psych med in reproductive-age women. SSRIs generally safest. Board pearl: SSRIs are first-line for depression and most anxiety disorders.",
     "category": "Cultural Competence",
     "domain": 5,
     "domainName": "Ethical and Legal Principles"
@@ -2229,7 +2229,7 @@
       "Valproic acid"
     ],
     "correctAnswer": 1,
-    "rationale": "LAMOTRIGINE (Lamictal) is the SAFEST mood stabilizer in pregnancy. Teratogenicity risk ranking: Valproate (HIGHEST - neural tube defects, contraindicated) > Carbamazepine > Lithium (Ebstein's anomaly) > Lamotrigine (LOWEST). Board pearl: If pregnant bipolar patient needs mood stabilizer, lamotrigine is first choice. Valproate is absolutely contraindicated in pregnancy and women of childbearing potential without reliable contraception.",
+    "rationale": "LAMOTRIGINE is the SAFEST mood stabilizer in PREGNANCY. Teratogenicity risk ranking: Valproate (HIGHEST RISK - neural tube defects 5-10%, contraindicated) > Carbamazepine (facial abnormalities, neural tube defects) > Lithium (Ebstein's anomaly ~1/1000, was thought higher) > Lamotrigine (LOWEST RISK, minimal teratogenicity). For pregnant bipolar patient or woman planning pregnancy: lamotrigine is preferred. If lithium is essential and working well, can continue with shared decision-making, fetal echo at 16-20 weeks, level monitoring. Board pearl: Valproate is absolutely CONTRAINDICATED in pregnancy and women of childbearing potential without reliable contraception.",
     "category": "Cultural Competence",
     "domain": 5,
     "domainName": "Ethical and Legal Principles"
@@ -2244,7 +2244,7 @@
       "Carbamazepine"
     ],
     "correctAnswer": 2,
-    "rationale": "LAMOTRIGINE (Lamictal) = SAFEST mood stabilizer in pregnancy. Lower teratogenicity than lithium, valproate, carbamazepine. Preferred for bipolar during pregnancy. Important: Levels decrease during pregnancy due to increased metabolism - monitor and adjust dose. Still give folic acid supplementation.",
+    "rationale": "MOOD STABILIZER PREGNANCY SAFETY: LAMOTRIGINE is safest choice. Lithium: Category D, Ebstein's anomaly risk ~1/1000 (10x baseline but still low absolute risk); if continuing, monitor levels frequently (blood volume changes), fetal echo at 16-20 weeks, stop before delivery (rebound toxicity). Valproate: CONTRAINDICATED - neural tube defects (5-10%), lower IQ in offspring, Category X. Carbamazepine: facial abnormalities, developmental delays. Antipsychotics: relatively safe, consider if mood stabilizer not adequate. Board pearl: Never start valproate in woman of childbearing potential without discussing contraception.",
     "category": "Cultural Competence",
     "domain": 5,
     "domainName": "Ethical and Legal Principles"
@@ -2259,7 +2259,7 @@
       "Academic performance review only"
     ],
     "correctAnswer": 0,
-    "rationale": "PSYCHIATRIC MEDICATIONS IN PREGNANCY - Risk categories: SAFEST: Lamotrigine (mood stabilizer), most SSRIs (sertraline preferred - most data). MODERATE RISK: Lithium (Ebstein's anomaly 1/1000 vs 1/20000 baseline). CONTRAINDICATED: Valproate (neural tube defects, lower IQ), Carbamazepine (facial abnormalities). Benzodiazepines: avoid first trimester (cleft palate), third trimester (floppy infant syndrome). General principle: untreated maternal mental illness also poses risks - weigh benefits vs risks individually.",
+    "rationale": "BIPOLAR I vs BIPOLAR II: Bipolar I requires at least ONE MANIC EPISODE (≥7 days of elevated/irritable mood + ≥3 symptoms OR any duration if hospitalized). Bipolar II requires at least one HYPOMANIC EPISODE (≥4 days, same symptoms but less severe, no hospitalization, no psychosis) + at least one major depressive episode. Key distinction: Mania = severe impairment, may need hospitalization, may have psychotic features. Hypomania = noticeable change but functioning maintained, no psychosis, no hospitalization. Board pearl: One manic episode = Bipolar I forever, even if depressions predominate.",
     "category": "Cultural Competence",
     "domain": 5,
     "domainName": "Ethical and Legal Principles"
@@ -2289,7 +2289,7 @@
       "Beta-blockers (propranolol)"
     ],
     "correctAnswer": 1,
-    "rationale": "SSRIs first-line for pediatric anxiety (sertraline, fluoxetine FDA-approved). Also use CBT. Teach parents: Takes 4-6 weeks to work; watch for activation (increased anxiety, agitation) early on.",
+    "rationale": "LAMOTRIGINE TITRATION: SLOW titration is CRITICAL to prevent Stevens-Johnson Syndrome (SJS) and Toxic Epidermal Necrolysis (TEN). Standard titration: 25 mg daily x 2 weeks → 50 mg daily x 2 weeks → 100 mg daily x 1 week → target 200 mg/day. If on valproate (inhibits lamotrigine metabolism): start 25 mg every OTHER day x 2 weeks, then slower increases. Any rash during titration = STOP immediately and evaluate. Rash risk highest in first 8 weeks. Board pearl: Lamotrigine is the ONLY mood stabilizer that primarily treats bipolar DEPRESSION (not mania).",
     "category": "Cultural Competence",
     "domain": 5,
     "domainName": "Ethical and Legal Principles"
@@ -2304,7 +2304,7 @@
       "SSRIs"
     ],
     "correctAnswer": 3,
-    "rationale": "SSRIs first-line for pediatric depression (fluoxetine, escitalopram FDA-approved). BLACK BOX WARNING: Monitor for suicidal ideation, especially first weeks. Weekly visits initially.",
+    "rationale": "SSRIs first-line for pediatric depression (fluoxetine, escitalopram FDA-approved). BLACK BOX WARNING: Monitor for suicidal ideation, especially first weeks. Weekly visits initially. Board pearl: SSRIs are first-line for depression and most anxiety disorders.",
     "category": "Cultural Competence",
     "domain": 5,
     "domainName": "Ethical and Legal Principles"
@@ -2619,7 +2619,7 @@
       "Block dopamine and norepinephrine reuptake"
     ],
     "correctAnswer": 2,
-    "rationale": "SSRIs: SELECTIVELY inhibit serotonin reuptake → more serotonin in synapse. Examples: fluoxetine, sertraline, escitalopram. First-line for depression/anxiety. Teach patient: Takes 2-4 weeks to work.",
+    "rationale": "SSRIs: SELECTIVELY inhibit serotonin reuptake → more serotonin in synapse. Examples: fluoxetine, sertraline, escitalopram. First-line for depression/anxiety. Teach patient: Takes 2-4 weeks to work. Board pearl: SSRIs are first-line for depression and most anxiety disorders.",
     "category": "Antidepressants - Pharmacology",
     "domain": 3,
     "domainName": "Diagnosis and Treatment"
@@ -2709,7 +2709,7 @@
       "Sudden decrease in serotonin availability after brain adaptation to higher levels"
     ],
     "correctAnswer": 3,
-    "rationale": "SSRI discontinuation = sudden serotonin depletion. Brain adapted to high serotonin levels. Symptoms: insomnia, flu-like feelings, brain zaps. Teach patient: NEVER stop SSRIs abruptly—always taper.",
+    "rationale": "SSRI discontinuation = sudden serotonin depletion. Brain adapted to high serotonin levels. Symptoms: insomnia, flu-like feelings, brain zaps. Teach patient: NEVER stop SSRIs abruptly—always taper. Board pearl: SSRIs are first-line for depression and most anxiety disorders.",
     "category": "Antidepressants - Adverse Effects",
     "domain": 3,
     "domainName": "Diagnosis and Treatment"
@@ -2724,7 +2724,7 @@
       "Hyperthermia and muscle rigidity"
     ],
     "correctAnswer": 1,
-    "rationale": "SSRI discontinuation symptoms (FINISH): Flu-like, Insomnia, Nausea, Imbalance, Sensory disturbances (brain zaps), Hyperarousal. Usually starts 2-4 days after stopping. Worst with paroxetine (short half-life).",
+    "rationale": "SSRI discontinuation symptoms (FINISH): Flu-like, Insomnia, Nausea, Imbalance, Sensory disturbances (brain zaps), Hyperarousal. Usually starts 2-4 days after stopping. Worst with paroxetine (short half-life). Board pearl: SSRIs are first-line for depression and most anxiety disorders.",
     "category": "Antidepressants - Adverse Effects",
     "domain": 3,
     "domainName": "Diagnosis and Treatment"
@@ -2739,7 +2739,7 @@
       "Anticholinergic toxicity"
     ],
     "correctAnswer": 1,
-    "rationale": "SSRI DISCONTINUATION SYNDROME: Flu-like symptoms, brain zaps (electric shock sensations), nausea, dizziness, insomnia, irritability, crying spells. Starts 2-4 days after stopping. NOT serotonin syndrome (which has hyperthermia, hyperreflexia). Treatment: Restart SSRI and taper slowly over 2-4 weeks.",
+    "rationale": "SSRI DISCONTINUATION SYNDROME: Flu-like symptoms, brain zaps (electric shock sensations), nausea, dizziness, insomnia, irritability, crying spells. Starts 2-4 days after stopping. NOT serotonin syndrome (which has hyperthermia, hyperreflexia). Treatment: Restart SSRI and taper slowly over 2-4 weeks. Board pearl: SSRIs are first-line for depression and most anxiety disorders.",
     "category": "Antidepressants - Adverse Effects",
     "domain": 3,
     "domainName": "Diagnosis and Treatment"
@@ -2814,7 +2814,7 @@
       "L-tryptophan has no serotonergic activity"
     ],
     "correctAnswer": 1,
-    "rationale": "L-tryptophan is a serotonin precursor—high risk for serotonin syndrome when combined with SSRIs/MAOIs. Other high-risk combinations: SSRI + MAOI, SSRI + linezolid, SSRI + St. John's Wort.",
+    "rationale": "L-tryptophan is a serotonin precursor—high risk for serotonin syndrome when combined with SSRIs/MAOIs. Other high-risk combinations: SSRI + MAOI, SSRI + linezolid, SSRI + St. John's Wort. Board pearl: SSRIs are first-line for depression and most anxiety disorders.",
     "category": "Serotonin Syndrome",
     "domain": 3,
     "domainName": "Diagnosis and Treatment"
@@ -2844,7 +2844,7 @@
       "Meperidine (Demerol)"
     ],
     "correctAnswer": 3,
-    "rationale": "Meperidine (Demerol) inhibits serotonin reuptake—can cause serotonin syndrome with MAOIs or SSRIs. CONTRAINDICATED with MAOIs. Use morphine or fentanyl instead in patients on serotonergic drugs.",
+    "rationale": "Meperidine (Demerol) inhibits serotonin reuptake—can cause serotonin syndrome with MAOIs or SSRIs. CONTRAINDICATED with MAOIs. Use morphine or fentanyl instead in patients on serotonergic drugs. Board pearl: SSRIs are first-line for depression and most anxiety disorders.",
     "category": "Serotonin Syndrome",
     "domain": 3,
     "domainName": "Diagnosis and Treatment"
@@ -2859,7 +2859,7 @@
       "Hypothyroidism"
     ],
     "correctAnswer": 3,
-    "rationale": "Lithium causes HYPOTHYROIDISM (up to 20% of patients)—inhibits thyroid hormone release. Monitor TSH every 6 months. Treat with levothyroxine; DON'T stop lithium if it's working. Weight gain is common.",
+    "rationale": "Lithium causes HYPOTHYROIDISM (up to 20% of patients)—inhibits thyroid hormone release. Monitor TSH every 6 months. Treat with levothyroxine; DON'T stop lithium if it's working. Weight gain is common. Board pearl: Lithium has the narrowest therapeutic index of psychiatric medications.",
     "category": "Lithium - Side Effects",
     "domain": 3,
     "domainName": "Diagnosis and Treatment"
@@ -2874,7 +2874,7 @@
       "Recognize this as a common side effect; may improve with beta-blocker or dose adjustment"
     ],
     "correctAnswer": 3,
-    "rationale": "Lithium CNS effects: fine hand tremor (most common—may improve with beta-blocker), cognitive dulling ('lithium fog'), fatigue, headache. Tremor worsens with higher levels. Dose-related side effects.",
+    "rationale": "Lithium CNS effects: fine hand tremor (most common—may improve with beta-blocker), cognitive dulling ('lithium fog'), fatigue, headache. Tremor worsens with higher levels. Dose-related side effects. Board pearl: Lithium has the narrowest therapeutic index of psychiatric medications.",
     "category": "Lithium - Side Effects",
     "domain": 3,
     "domainName": "Diagnosis and Treatment"
@@ -2889,7 +2889,7 @@
       "Acne and psoriasis exacerbation are known dermatological side effects of lithium"
     ],
     "correctAnswer": 3,
-    "rationale": "Lithium skin effects: acne, psoriasis exacerbation, maculopapular rash, hair loss. Can worsen existing psoriasis significantly. Dermatology referral if severe. Usually not reason to stop lithium.",
+    "rationale": "Lithium skin effects: acne, psoriasis exacerbation, maculopapular rash, hair loss. Can worsen existing psoriasis significantly. Dermatology referral if severe. Usually not reason to stop lithium. Board pearl: Lithium has the narrowest therapeutic index of psychiatric medications.",
     "category": "Lithium - Side Effects",
     "domain": 3,
     "domainName": "Diagnosis and Treatment"
@@ -2904,7 +2904,7 @@
       "Take with food; consider extended-release formulation; GI symptoms common early in treatment"
     ],
     "correctAnswer": 3,
-    "rationale": "Lithium GI effects: nausea, diarrhea, stomach cramps, vomiting—especially early in treatment. Taking with food helps. Extended-release formulations reduce GI upset. Severe GI symptoms = check level (toxicity sign).",
+    "rationale": "Lithium GI effects: nausea, diarrhea, stomach cramps, vomiting—especially early in treatment. Taking with food helps. Extended-release formulations reduce GI upset. Severe GI symptoms = check level (toxicity sign). Board pearl: Lithium has the narrowest therapeutic index of psychiatric medications.",
     "category": "Lithium - Side Effects",
     "domain": 3,
     "domainName": "Diagnosis and Treatment"
@@ -2919,7 +2919,7 @@
       "Indication for immediate lithium discontinuation"
     ],
     "correctAnswer": 0,
-    "rationale": "Lithium renal effects: nephrogenic diabetes insipidus (polyuria/polydipsia—up to 40% of patients), chronic interstitial nephritis with long-term use. Monitor creatinine/BUN every 6 months. Adequate hydration essential.",
+    "rationale": "Lithium renal effects: nephrogenic diabetes insipidus (polyuria/polydipsia—up to 40% of patients), chronic interstitial nephritis with long-term use. Monitor creatinine/BUN every 6 months. Adequate hydration essential. Board pearl: Lithium has the narrowest therapeutic index of psychiatric medications.",
     "category": "Lithium - Side Effects",
     "domain": 3,
     "domainName": "Diagnosis and Treatment"
@@ -2934,7 +2934,7 @@
       "Lithium does not affect the heart"
     ],
     "correctAnswer": 0,
-    "rationale": "Lithium cardiac effects: benign T-wave flattening/inversion (common, usually not clinically significant), rare arrhythmias. Get baseline EKG in patients >40 or with cardiac history. Usually safe for heart.",
+    "rationale": "Lithium cardiac effects: benign T-wave flattening/inversion (common, usually not clinically significant), rare arrhythmias. Get baseline EKG in patients >40 or with cardiac history. Usually safe for heart. Board pearl: Lithium has the narrowest therapeutic index of psychiatric medications.",
     "category": "Lithium - Side Effects",
     "domain": 3,
     "domainName": "Diagnosis and Treatment"
@@ -2949,7 +2949,7 @@
       "Lithium causes neutropenia, not leukocytosis"
     ],
     "correctAnswer": 1,
-    "rationale": "Lithium causes LEUKOCYTOSIS (elevated WBC)—benign increase in neutrophils. NOT a sign of infection. Can actually be used therapeutically to raise WBC in clozapine-induced neutropenia.",
+    "rationale": "Lithium causes LEUKOCYTOSIS (elevated WBC)—benign increase in neutrophils. NOT a sign of infection. Can actually be used therapeutically to raise WBC in clozapine-induced neutropenia. Board pearl: Lithium has the narrowest therapeutic index of psychiatric medications.",
     "category": "Lithium - Side Effects",
     "domain": 3,
     "domainName": "Diagnosis and Treatment"
@@ -2994,7 +2994,7 @@
       "Neither medication"
     ],
     "correctAnswer": 1,
-    "rationale": "Interferon is the culprit—known to cause depression. Escitalopram treats depression (SSRI). If patient on antidepressant and still depressed, look for depression-causing medications like interferon.",
+    "rationale": "Interferon is the culprit—known to cause depression. Escitalopram treats depression (SSRI). If patient on antidepressant and still depressed, look for depression-causing medications like interferon. Board pearl: SSRIs are first-line for depression and most anxiety disorders.",
     "category": "Medications - Psychiatric Side Effects",
     "domain": 3,
     "domainName": "Diagnosis and Treatment"
@@ -3016,15 +3016,15 @@
   },
   {
     "id": 202,
-    "question": "A patient with bipolar disorder is prescribed prednisone for an asthma exacerbation. The PMHNP should counsel the patient about which psychiatric risk?",
+    "question": "A patient with bipolar disorder requires prednisone for an acute asthma exacerbation. What should the PMHNP counsel the patient about?",
     "options": [
       "Corticosteroids may trigger manic episodes",
-      "Corticosteroids cause permanent cognitive impairment",
       "Corticosteroids have no psychiatric effects",
-      "Corticosteroids only affect mood if injected"
+      "Only injectable steroids affect mood",
+      "Prednisone will help stabilize mood"
     ],
     "correctAnswer": 0,
-    "rationale": "CORTICOSTEROIDS can trigger MANIC EPISODES in patients with bipolar disorder. Mechanism: increase catecholamine activity. Risk is dose-dependent - higher with systemic steroids (prednisone, dexamethasone) than inhaled/nasal. Board pearl: When a bipolar patient needs steroids, (1) use lowest effective dose, (2) monitor closely for mood changes, (3) consider prophylactic mood stabilizer adjustment. Even short courses can precipitate mania. Symptoms typically resolve when steroids stopped.",
+    "rationale": "CORTICOSTEROIDS CAN TRIGGER MANIA in patients with bipolar disorder. Mechanism: corticosteroids increase catecholamine activity. Risk is dose-dependent - higher with systemic steroids (prednisone, dexamethasone) than topical/inhaled (though still possible). Also can cause steroid psychosis, depression, anxiety. When prescribing steroids to bipolar patient: (1) Use lowest effective dose, (2) Use shortest duration, (3) Monitor closely for mood changes, (4) Consider prophylactic mood stabilizer adjustment. Symptoms typically resolve when steroids discontinued. Board pearl: Other medications that can trigger mania: antidepressants (without mood stabilizer), stimulants, thyroid hormones.",
     "category": "Medications - Psychiatric Side Effects",
     "domain": 3,
     "domainName": "Diagnosis and Treatment"
@@ -3039,7 +3039,7 @@
       "2.0-3.0 mEq/L"
     ],
     "correctAnswer": 0,
-    "rationale": "LITHIUM THERAPEUTIC LEVEL: 0.6-1.2 mEq/L for maintenance. Why this range? Below 0.6 = subtherapeutic (inadequate mood stabilization). Above 1.2 = toxicity risk. For ACUTE mania, can target 0.8-1.2 mEq/L. For maintenance, 0.6-1.0 mEq/L often sufficient. Elderly: 0.4-0.8 mEq/L. Board pearl: Always draw TROUGH level (12 hours post-dose). Toxicity: tremor, ataxia, confusion, seizures.",
+    "rationale": "LITHIUM MAINTENANCE LEVEL: 0.6-1.2 mEq/L. Draw TROUGH level 12 hours after last dose. Acute mania target: 0.8-1.2 mEq/L (higher end). Maintenance target: 0.6-1.0 mEq/L. Elderly: 0.4-0.8 mEq/L. Toxicity begins >1.5 mEq/L: fine tremor becomes coarse, GI upset, ataxia, confusion. Severe toxicity (>2.0): seizures, coma, death. Monitoring schedule: weekly until stable, then every 1-3 months. Also monitor: renal function (creatinine, BUN), thyroid (TSH), calcium (hyperparathyroidism). Board pearl: Lithium has the narrowest therapeutic index of any psych med.",
     "category": "Mood Stabilizers - Therapeutic Levels",
     "domain": 3,
     "domainName": "Diagnosis and Treatment"
@@ -3054,7 +3054,7 @@
       "Weight loss and insomnia"
     ],
     "correctAnswer": 1,
-    "rationale": "Lithium common side effects: nausea, fine hand tremor, polyuria (increased urination), polydipsia (increased thirst), weight gain, hypothyroidism, cognitive dulling. Teach patient: Drink 8-10 glasses water daily, maintain consistent salt intake. Tremor may improve with beta-blockers.",
+    "rationale": "Lithium common side effects: nausea, fine hand tremor, polyuria (increased urination), polydipsia (increased thirst), weight gain, hypothyroidism, cognitive dulling. Teach patient: Drink 8-10 glasses water daily, maintain consistent salt intake. Tremor may improve with beta-blockers. Board pearl: Lithium has the narrowest therapeutic index of psychiatric medications.",
     "category": "Mood Stabilizers - Side Effects",
     "domain": 3,
     "domainName": "Diagnosis and Treatment"
@@ -3069,7 +3069,7 @@
       "Slurred speech, confusion, severe GI symptoms, and ataxia"
     ],
     "correctAnswer": 3,
-    "rationale": "Lithium TOXICITY (>1.5 mEq/L): slurred speech, confusion, ataxia, coarse tremor, severe GI symptoms, cardiac arrhythmias, seizures. STOP lithium immediately. Dialysis for severe toxicity. Teach patient: Vomiting + confusion = ER immediately.",
+    "rationale": "Lithium TOXICITY (>1.5 mEq/L): slurred speech, confusion, ataxia, coarse tremor, severe GI symptoms, cardiac arrhythmias, seizures. STOP lithium immediately. Dialysis for severe toxicity. Teach patient: Vomiting + confusion = ER immediately. Board pearl: Lithium has the narrowest therapeutic index of psychiatric medications.",
     "category": "Mood Stabilizers - Toxicity",
     "domain": 3,
     "domainName": "Diagnosis and Treatment"
@@ -3084,7 +3084,7 @@
       "Lithium is only dangerous during delivery"
     ],
     "correctAnswer": 1,
-    "rationale": "LITHIUM and pregnancy: Category D. First trimester exposure increases risk of EBSTEIN'S ANOMALY (tricuspid valve malformation) from 1/20,000 to 1/1,000. Risk is highest weeks 2-6 of gestation. Management: If possible, taper lithium before conception or during first trimester. If must continue, use lowest effective dose, check levels frequently (q2-4 weeks), obtain fetal echocardiogram at 16-20 weeks. NOT safe in early pregnancy - counsel patient on risks vs benefits of continuing.",
+    "rationale": "LITHIUM IN PREGNANCY - EBSTEIN'S ANOMALY: First trimester lithium exposure increases risk of Ebstein's anomaly (tricuspid valve malformation) from 1/20,000 baseline to approximately 1/1,000. Risk is highest weeks 2-6 of gestation (cardiac development). This is still relatively low absolute risk - previously thought much higher. Management options: (1) Taper lithium before conception if possible, (2) If stable and high recurrence risk, may continue with monitoring, (3) Use alternative if available. If continuing: frequent lithium levels (blood volume changes), fetal echocardiogram at 16-20 weeks. Lithium is NOT absolutely contraindicated - it's a risk-benefit discussion. Board pearl: Valproate is far more teratogenic than lithium.",
     "category": "Mood Stabilizers - Safety",
     "domain": 3,
     "domainName": "Diagnosis and Treatment"
@@ -3099,7 +3099,7 @@
       "Only affect lithium when taken together"
     ],
     "correctAnswer": 2,
-    "rationale": "ACE INHIBITORS + LITHIUM = DANGEROUS interaction. ACE inhibitors decrease renal lithium clearance, can DOUBLE lithium levels causing toxicity. Same risk with ARBs. Other drugs that increase lithium: NSAIDs, thiazide diuretics (not loop diuretics), metronidazole. Drugs that decrease lithium: caffeine, theophylline, acetazolamide. When starting ACE inhibitor in patient on lithium: reduce lithium dose by 25-50%, check level in 5-7 days, monitor for toxicity (tremor, ataxia, confusion, GI symptoms).",
+    "rationale": "ACE INHIBITORS + LITHIUM = DANGEROUS COMBINATION. ACE inhibitors (lisinopril, enalapril) decrease renal lithium clearance → lithium levels can DOUBLE → TOXICITY. Mechanism: ACE inhibitors cause sodium depletion and decreased GFR; lithium is reabsorbed with sodium in proximal tubule. Also dangerous: NSAIDs (reduce renal blood flow), thiazide diuretics (sodium depletion), dehydration. When ACE inhibitor is started in patient on lithium: reduce lithium dose by 25-50%, check level in 5-7 days, monitor for toxicity (tremor, ataxia, confusion, GI symptoms). Board pearl: Loop diuretics are safer with lithium than thiazides.",
     "category": "Mood Stabilizers - Drug Interactions",
     "domain": 3,
     "domainName": "Diagnosis and Treatment"
@@ -3114,7 +3114,7 @@
       "20-30 mcg/mL"
     ],
     "correctAnswer": 2,
-    "rationale": "CARBAMAZEPINE THERAPEUTIC LEVEL: 6-12 mcg/mL. Why this range? Below 6 = likely subtherapeutic for seizures/mood. Above 12 = toxicity risk (diplopia, ataxia, nystagmus). Important: Auto-induction occurs - carbamazepine induces its own metabolism, so levels may DROP after 2-4 weeks even at same dose. Recheck levels. Board pearl: Also monitor CBC (agranulocytosis) and sodium (SIADH → hyponatremia).",
+    "rationale": "CARBAMAZEPINE THERAPEUTIC LEVEL: 6-12 mcg/mL. Below 6 = likely subtherapeutic. Above 12 = toxicity risk (diplopia, ataxia, nystagmus, drowsiness). Important: AUTO-INDUCTION occurs - carbamazepine induces CYP3A4 which metabolizes itself. Levels may DROP 20-30% after 2-4 weeks at same dose. Recheck levels at 2-4 weeks and adjust dose accordingly. Monitoring: CBC (agranulocytosis, aplastic anemia - rare but serious), LFTs, sodium (SIADH → hyponatremia). Board pearl: HLA-B*1502 screening required in Asian patients before starting (Stevens-Johnson syndrome risk).",
     "category": "Mood Stabilizers - Therapeutic Levels",
     "domain": 3,
     "domainName": "Diagnosis and Treatment"
@@ -3129,7 +3129,7 @@
       "Constipation only"
     ],
     "correctAnswer": 0,
-    "rationale": "CARBAMAZEPINE COMMON SIDE EFFECTS: sedation, dizziness, ataxia, diplopia (double vision), nausea, headache, and blurred vision. These are dose-related and often improve over time. Carbamazepine does NOT cause severe hypertension - it can actually cause SIADH leading to hyponatremia. Serious but rare: agranulocytosis, aplastic anemia, SJS/TEN. Weight loss and hyperactivity are not associated with carbamazepine.",
+    "rationale": "COMMON CARBAMAZEPINE SIDE EFFECTS: sedation, dizziness, ataxia, diplopia (double vision), nausea, headache, blurred vision. These are DOSE-RELATED and often improve with time or dose adjustment. Carbamazepine does NOT typically cause severe hypertension - in fact, it can cause SIADH leading to HYPONATREMIA (low sodium). Rare but serious effects: agranulocytosis, aplastic anemia (monitor CBC), Stevens-Johnson syndrome/TEN (especially in HLA-B*1502+ patients), hepatotoxicity. Board pearl: Diplopia (double vision) is a classic carbamazepine side effect - often signals levels too high.",
     "category": "Mood Stabilizers - Side Effects",
     "domain": 3,
     "domainName": "Diagnosis and Treatment"
@@ -3189,7 +3189,7 @@
       "Valproate has no effect on mania"
     ],
     "correctAnswer": 0,
-    "rationale": "VALPROATE (Depakote) is MORE effective than lithium for RAPID CYCLING bipolar (≥4 episodes/year). Also effective for mixed episodes. Lithium works best for classic euphoric mania. Therapeutic level: 50-125 mcg/mL. Monitor: LFTs, CBC, platelets. Teratogenic - avoid in pregnancy.",
+    "rationale": "VALPROATE (Depakote) is MORE effective than lithium for RAPID CYCLING bipolar (≥4 episodes/year). Also effective for mixed episodes. Lithium works best for classic euphoric mania. Therapeutic level: 50-125 mcg/mL. Monitor: LFTs, CBC, platelets. Teratogenic - avoid in pregnancy. Board pearl: Lithium has the narrowest therapeutic index of psychiatric medications.",
     "category": "Mood Stabilizers - Indications",
     "domain": 3,
     "domainName": "Diagnosis and Treatment"
@@ -3204,7 +3204,7 @@
       "150-250 mcg/mL"
     ],
     "correctAnswer": 1,
-    "rationale": "VALPROATE THERAPEUTIC LEVEL: 50-125 mcg/mL. Why this range? Below 50 = likely subtherapeutic. Above 125 = toxicity risk (tremor, sedation, thrombocytopenia). For acute mania, target 85-125 mcg/mL. For maintenance, 50-100 mcg/mL often adequate. Draw trough level. Board pearl: Monitor LFTs (hepatotoxicity), CBC with platelets, ammonia if confused. CONTRAINDICATED in pregnancy.",
+    "rationale": "VALPROATE THERAPEUTIC LEVEL: 50-125 mcg/mL. For acute mania, target higher end (85-125 mcg/mL). For maintenance, 50-100 mcg/mL often adequate. Draw trough level. Monitoring required: LFTs (hepatotoxicity - highest risk in children <2 with polypharmacy), CBC with platelets (thrombocytopenia), ammonia if confusion (hyperammonemic encephalopathy). Black box warnings: hepatotoxicity, pancreatitis, teratogenicity (neural tube defects - CONTRAINDICATED in pregnancy). Common side effects: weight gain, tremor, alopecia, GI upset. Board pearl: Women of childbearing potential need reliable contraception or alternative mood stabilizer.",
     "category": "Mood Stabilizers - Therapeutic Levels",
     "domain": 3,
     "domainName": "Diagnosis and Treatment"
@@ -3249,7 +3249,7 @@
       "40 mg/kg"
     ],
     "correctAnswer": 1,
-    "rationale": "VALPROATE LOADING DOSE: 20 mg/kg for acute mania. Why 20 mg/kg specifically? This achieves therapeutic level (50-125 mcg/mL) rapidly - within 24-48 hours vs 5-7 days with gradual titration. Useful in acute mania, status epilepticus. Can give oral or IV. Board pearl: After loading, maintenance dose is typically 250-500mg BID-TID. Check level 2-3 days after loading.",
+    "rationale": "VALPROATE LOADING DOSE: 20 mg/kg for acute mania. Achieves therapeutic level (50-125 mcg/mL) within 24-48 hours versus 5-7 days with gradual titration. Useful when rapid mood stabilization needed. Can give oral or IV. May divide into 2-3 doses to reduce GI side effects. After loading, transition to maintenance dosing (typically 250-500mg BID-TID). Check level 2-3 days after loading. Loading dose also used for status epilepticus. Board pearl: Divalproex ER allows once-daily dosing and has fewer GI side effects than immediate-release.",
     "category": "Mood Stabilizers - Dosing",
     "domain": 3,
     "domainName": "Diagnosis and Treatment"
@@ -3264,7 +3264,7 @@
       "21-26 (MCI)"
     ],
     "correctAnswer": 3,
-    "rationale": "SLUMS SCORING: 21-26 indicates MILD COGNITIVE IMPAIRMENT (MCI) in high school educated patients. Why 21-26? SLUMS (0-30 scale): 27-30 = normal, 21-26 = MCI, <21 = dementia. For less than high school education: 25-30 normal, 20-24 MCI, <20 dementia. Board pearl: SLUMS is more sensitive than MMSE for detecting MCI. Tests executive function, visuospatial skills, memory.",
+    "rationale": "SLUMS AND MoCA FOR COGNITIVE SCREENING: Both more sensitive than MMSE for detecting Mild Cognitive Impairment (MCI). MoCA scoring: 0-30, ≥26 normal (add 1 point if ≤12 years education), <26 indicates impairment. SLUMS scoring: 27-30 normal, 21-26 MCI, <21 dementia (adjust for education). MoCA tests: visuospatial/executive (5 pts), naming (3 pts), attention (6 pts), language (3 pts), abstraction (2 pts), delayed recall (5 pts), orientation (6 pts). Board pearl: SLUMS tests executive function better; both superior to MMSE for early detection.",
     "category": "Mental Status Assessment",
     "domain": 2,
     "domainName": "Advanced Practice Skills"
@@ -3339,7 +3339,7 @@
       "Severe anxiety (≥25)"
     ],
     "correctAnswer": 2,
-    "rationale": "HAM-A (0-56): <17=mild, 18-24=moderate, ≥25=severe. Clinician-rated. 14 items (psychic + somatic). Used to monitor anxiety treatment response.",
+    "rationale": "MEMANTINE (Namenda) is an NMDA receptor antagonist used for MODERATE to SEVERE Alzheimer's disease. Mechanism: Blocks excessive glutamate signaling that causes excitotoxicity and neuronal damage. Often combined with cholinesterase inhibitors (donepezil). Cholinesterase inhibitors alone are for mild-moderate AD. Common side effects: dizziness, headache, constipation. Does NOT slow disease progression - provides modest symptomatic improvement. Board pearl: Memantine = moderate-severe AD; Cholinesterase inhibitors (donepezil, rivastigmine, galantamine) = mild-moderate AD.",
     "category": "Anxiety Assessment",
     "domain": 2,
     "domainName": "Advanced Practice Skills"
@@ -3414,7 +3414,7 @@
       "Discontinue all treatment"
     ],
     "correctAnswer": 0,
-    "rationale": "Treatment-resistant depression: after 3 adequate SSRI trials fail, augment with lithium, atypical antipsychotic, or switch to different class. Consider TMS, ECT, or ketamine/esketamine. Avoid continuing same class that failed.",
+    "rationale": "Treatment-resistant depression: after 3 adequate SSRI trials fail, augment with lithium, atypical antipsychotic, or switch to different class. Consider TMS, ECT, or ketamine/esketamine. Avoid continuing same class that failed. Board pearl: SSRIs are first-line for depression and most anxiety disorders.",
     "category": "Treatment Guidelines",
     "domain": 3,
     "domainName": "Diagnosis and Treatment"
@@ -3429,7 +3429,7 @@
       "Financial management is not part of functional assessment"
     ],
     "correctAnswer": 1,
-    "rationale": "IADL (Instrumental Activities of Daily Living) impairment is HIGHLY CLINICALLY SIGNIFICANT. Managing finances/checkbook is often the FIRST IADL affected in cognitive decline - it's the most sensitive indicator. IADLs (finances, medications, shopping, cooking, transportation) are affected BEFORE ADLs (bathing, dressing, toileting). A 78-year-old who can no longer manage her checkbook requires further cognitive evaluation. This is NOT normal aging.",
+    "rationale": "IADL (Instrumental Activities of Daily Living) impairment is HIGHLY CLINICALLY SIGNIFICANT and often the EARLIEST sign of cognitive decline. Managing finances/checkbook is typically the FIRST IADL affected in dementia - it requires executive function, calculation, sequencing. IADLs include: managing finances, medication management, shopping, cooking, housekeeping, transportation, using telephone. These are affected BEFORE basic ADLs (bathing, dressing, toileting, transferring, eating). A 78-year-old who can no longer manage her checkbook needs cognitive evaluation - this is NOT normal aging. Board pearl: IADL impairment often precedes ADL impairment and may be first sign family notices.",
     "category": "Geriatric Assessment",
     "domain": 2,
     "domainName": "Advanced Practice Skills"
@@ -3639,7 +3639,7 @@
       "Indication to increase lithium dose"
     ],
     "correctAnswer": 1,
-    "rationale": "Lithium renal monitoring: proteinuria (protein in urine) indicates nephropathy. Monitor BUN, creatinine, urinalysis every 6 months. Lithium causes nephrogenic diabetes insipidus (polyuria) and chronic kidney disease with long-term use.",
+    "rationale": "Lithium renal monitoring: proteinuria (protein in urine) indicates nephropathy. Monitor BUN, creatinine, urinalysis every 6 months. Lithium causes nephrogenic diabetes insipidus (polyuria) and chronic kidney disease with long-term use. Board pearl: Lithium has the narrowest therapeutic index of psychiatric medications.",
     "category": "Lithium Monitoring",
     "domain": 3,
     "domainName": "Diagnosis and Treatment"
@@ -3654,7 +3654,7 @@
       "Leads to weight loss"
     ],
     "correctAnswer": 1,
-    "rationale": "Amitriptyline (TCA) in elderly: AVOID per Beers Criteria. Strong anticholinergic effects: constipation, urinary retention, dry mouth, confusion, falls. Safer alternatives: SSRIs, SNRIs. Teach patient: Report constipation, confusion.",
+    "rationale": "Amitriptyline (TCA) in elderly: AVOID per Beers Criteria. Strong anticholinergic effects: constipation, urinary retention, dry mouth, confusion, falls. Safer alternatives: SSRIs, SNRIs. Teach patient: Report constipation, confusion. Board pearl: SSRIs are first-line for depression and most anxiety disorders.",
     "category": "Geriatric Pharmacology",
     "domain": 3,
     "domainName": "Diagnosis and Treatment"
@@ -3699,7 +3699,7 @@
       "Supportive therapy alone"
     ],
     "correctAnswer": 0,
-    "rationale": "PERSONALITY DISORDER TREATMENT: NO FDA-approved medications for any PD. Meds target SYMPTOMS: SSRIs (depression, anxiety, impulsivity), mood stabilizers (impulsivity, aggression), low-dose antipsychotics (psychotic-like symptoms, dissociation). AVOID BENZOS in Cluster B (disinhibition). Therapy is primary treatment.",
+    "rationale": "PERSONALITY DISORDER TREATMENT: NO FDA-approved medications for any PD. Meds target SYMPTOMS: SSRIs (depression, anxiety, impulsivity), mood stabilizers (impulsivity, aggression), low-dose antipsychotics (psychotic-like symptoms, dissociation). AVOID BENZOS in Cluster B (disinhibition). Therapy is primary treatment. Board pearl: SSRIs are first-line for depression and most anxiety disorders.",
     "category": "Psychotherapy",
     "domain": 4,
     "domainName": "Psychotherapy and Related Theories"
@@ -3879,7 +3879,7 @@
       "Tardive dyskinesia"
     ],
     "correctAnswer": 3,
-    "rationale": "TARDIVE DYSKINESIA (TD) is the concern after dystonia and akathisia with antipsychotic use. TD develops after months-years of D2 blockade (unlike acute dystonia/akathisia which occur early). Presents as involuntary choreoathetoid movements of face, tongue, jaw, trunk, extremities. Risk factors: older age, female, longer duration, higher doses, first-gen antipsychotics. May be irreversible - monitor with AIMS scale.",
+    "rationale": "TARDIVE DYSKINESIA (TD) develops after MONTHS TO YEARS of antipsychotic exposure (unlike acute EPS which occurs early). TD presents as involuntary CHOREOATHETOID movements of face, tongue, jaw (lip smacking, tongue protrusion, chewing), trunk, and extremities. Risk factors: older age, female sex, longer duration of treatment, higher cumulative doses, first-generation antipsychotics. TD may be IRREVERSIBLE. Prevention: use lowest effective dose, monitor with AIMS scale every 6-12 months. Treatment: reduce/discontinue causative agent (may worsen initially), switch to clozapine (lowest TD risk), FDA-approved VMAT2 inhibitors: valbenazine (Ingrezza), deutetrabenazine (Austedo). Board pearl: TD is the most concerning long-term antipsychotic side effect.",
     "category": "Antipsychotic Side Effects",
     "domain": 3,
     "domainName": "Diagnosis and Treatment"
@@ -3894,7 +3894,7 @@
       "Dystonia and pseudoparkinsonism"
     ],
     "correctAnswer": 2,
-    "rationale": "EXTRAPYRAMIDAL SYMPTOMS (EPS) do NOT include hypothermia and bradycardia. EPS include: (1) Acute dystonia (hours-days): muscle spasms, oculogyric crisis, (2) Akathisia (days-weeks): restlessness, (3) Parkinsonism (weeks): bradykinesia, rigidity, tremor, (4) Tardive dyskinesia (months-years): involuntary movements. Hypothermia/bradycardia suggest other conditions like NMS (which has HYPERthermia) or overdose.",
+    "rationale": "EXTRAPYRAMIDAL SYMPTOMS (EPS) include: (1) ACUTE DYSTONIA - sustained muscle contractions, oculogyric crisis, onset hours-days; (2) AKATHISIA - subjective and objective restlessness, onset days-weeks; (3) PARKINSONISM - bradykinesia, rigidity, tremor, shuffling gait, onset weeks; (4) TARDIVE DYSKINESIA - involuntary movements, onset months-years. EPS are caused by dopamine blockade in nigrostriatal pathway. HYPOTHERMIA and BRADYCARDIA are NOT EPS - these suggest other conditions. NMS has HYPERthermia. Overdose may cause hypothermia/bradycardia. Board pearl: Know the timeline - acute dystonia (hours), akathisia (days), parkinsonism (weeks), TD (months-years).",
     "category": "Antipsychotic Side Effects",
     "domain": 3,
     "domainName": "Diagnosis and Treatment"
@@ -3984,7 +3984,7 @@
       "SSRIs for severe cases"
     ],
     "correctAnswer": 0,
-    "rationale": "Phobic anxiety: discourage benzodiazepine use long-term. First-line: CBT with exposure therapy, SSRIs. Benzos provide quick relief but prevent habituation and cause dependence. Use short-term if needed for specific events.",
+    "rationale": "Phobic anxiety: discourage benzodiazepine use long-term. First-line: CBT with exposure therapy, SSRIs. Benzos provide quick relief but prevent habituation and cause dependence. Use short-term if needed for specific events. Board pearl: SSRIs are first-line for depression and most anxiety disorders.",
     "category": "Anxiety Disorders",
     "domain": 3,
     "domainName": "Diagnosis and Treatment"
@@ -4044,7 +4044,7 @@
       "Erythromycin INHIBITS CYP3A4, raising carbamazepine levels to toxic range"
     ],
     "correctAnswer": 3,
-    "rationale": "CARBAMAZEPINE is a potent CYP3A4 INDUCER - decreases levels of many drugs including: OCPs (contraceptive failure), warfarin, valproate, lamotrigine, atypical antipsychotics. Also auto-induces own metabolism. CYP3A4 INHIBITORS increase carbamazepine levels causing toxicity: erythromycin, clarithromycin, ketoconazole, grapefruit juice, cimetidine. Carbamazepine toxicity: diplopia, ataxia, nystagmus, drowsiness. HLA-B*1502 screening required in Asian patients (risk of SJS/TEN).",
+    "rationale": "CARBAMAZEPINE IS A POTENT CYP3A4 INDUCER - it INCREASES metabolism of many drugs, causing DECREASED drug levels and potential treatment failure. Affected drugs: oral contraceptives (CONTRACEPTIVE FAILURE - use alternative birth control), warfarin (decreased anticoagulation), lamotrigine, valproate, atypical antipsychotics (quetiapine, lurasidone, aripiprazole), benzodiazepines. Carbamazepine also auto-induces its own metabolism - levels may drop after 2-4 weeks. Conversely, CYP3A4 INHIBITORS increase carbamazepine levels causing toxicity. Board pearl: Inducers take 1-2 weeks for full effect; inhibitors act within days.",
     "category": "Drug Interactions",
     "domain": 3,
     "domainName": "Diagnosis and Treatment"
@@ -4434,7 +4434,7 @@
       "Hyperlipidemia"
     ],
     "correctAnswer": 2,
-    "rationale": "SSRIs in elderly: HYPONATREMIA (SIADH) is major concern. Symptoms: confusion, falls, seizures. Check sodium at baseline and 2 weeks. Higher risk with: age >65, female, diuretics, low body weight.",
+    "rationale": "SSRIs in elderly: HYPONATREMIA (SIADH) is major concern. Symptoms: confusion, falls, seizures. Check sodium at baseline and 2 weeks. Higher risk with: age >65, female, diuretics, low body weight. Board pearl: SSRIs are first-line for depression and most anxiety disorders.",
     "category": "Geriatric Pharmacology",
     "domain": 3,
     "domainName": "Diagnosis and Treatment"
@@ -4569,7 +4569,7 @@
       "Lipid panel"
     ],
     "correctAnswer": 1,
-    "rationale": "SSRIs can cause SIADH (Syndrome of Inappropriate Antidiuretic Hormone) leading to HYPONATREMIA, especially in ELDERLY patients. Risk factors: age >65, female sex, concurrent diuretics, low baseline sodium. Symptoms of hyponatremia: confusion, falls, seizures. Check sodium at baseline and 2-4 weeks after starting SSRI in elderly. Citalopram also requires ECG monitoring for QTc prolongation at doses >20mg in elderly. SSRIs do NOT cause bone marrow suppression or require CBC monitoring.",
+    "rationale": "SSRIs in ELDERLY patients require SODIUM monitoring. SSRIs can cause SIADH (Syndrome of Inappropriate Antidiuretic Hormone) leading to HYPONATREMIA, especially in patients >65 years. Risk factors: advanced age, female sex, concurrent diuretics, low baseline sodium, medical comorbidities. Symptoms of hyponatremia: confusion (may be mistaken for dementia), falls, lethargy, headache, seizures. Check sodium at baseline and 2-4 weeks after starting SSRI in elderly patients. Also monitor for: falls (SSRIs can increase fall risk), GI bleeding (especially with NSAIDs). Board pearl: Elderly patient on SSRI who becomes confused - check sodium level.",
     "category": "Laboratory Monitoring",
     "domain": 3,
     "domainName": "Diagnosis and Treatment"
@@ -4899,7 +4899,7 @@
       "Add an additional SSRI"
     ],
     "correctAnswer": 1,
-    "rationale": "SSRI side effects at 3 weeks: evaluate type/severity. Common early side effects (nausea, headache) often resolve. Sexual dysfunction may require switch. Don't discontinue abruptly—taper if changing. Consider drug interactions affecting metabolism.",
+    "rationale": "SSRI side effects at 3 weeks: evaluate type/severity. Common early side effects (nausea, headache) often resolve. Sexual dysfunction may require switch. Don't discontinue abruptly—taper if changing. Consider drug interactions affecting metabolism. Board pearl: SSRIs are first-line for depression and most anxiety disorders.",
     "category": "Medication Management",
     "domain": 3,
     "domainName": "Diagnosis and Treatment"
@@ -4914,7 +4914,7 @@
       "Oppositional Defiant Disorder"
     ],
     "correctAnswer": 0,
-    "rationale": "Adjustment disorder: emotional/behavioral symptoms in response to identifiable stressor, within 3 months. Symptoms resolve within 6 months of stressor ending. Less severe than MDD. Supportive therapy first-line; SSRIs if needed.",
+    "rationale": "Adjustment disorder: emotional/behavioral symptoms in response to identifiable stressor, within 3 months. Symptoms resolve within 6 months of stressor ending. Less severe than MDD. Supportive therapy first-line; SSRIs if needed. Board pearl: SSRIs are first-line for depression and most anxiety disorders.",
     "category": "Child Psychiatry Diagnosis",
     "domain": 3,
     "domainName": "Diagnosis and Treatment"
@@ -5109,7 +5109,7 @@
       "Variable thyroid effects"
     ],
     "correctAnswer": 0,
-    "rationale": "Lithium causes HYPOTHYROIDISM: TSH is INCREASED (high TSH = hypothyroid). Lithium inhibits thyroid hormone synthesis and release. Monitor TSH every 6 months. May need levothyroxine supplementation.",
+    "rationale": "Lithium causes HYPOTHYROIDISM: TSH is INCREASED (high TSH = hypothyroid). Lithium inhibits thyroid hormone synthesis and release. Monitor TSH every 6 months. May need levothyroxine supplementation. Board pearl: Lithium has the narrowest therapeutic index of psychiatric medications.",
     "category": "Lithium Monitoring",
     "domain": 3,
     "domainName": "Diagnosis and Treatment"
@@ -5184,7 +5184,7 @@
       "Thyroid function tests"
     ],
     "correctAnswer": 1,
-    "rationale": "Women of childbearing age on LITHIUM: FIRST test before any medication changes is PREGNANCY TEST. Lithium is teratogenic (Category D) - causes Ebstein's anomaly. Must know pregnancy status before continuing, adjusting, or discontinuing. If pregnant: discuss risks, consider switching to lamotrigine, or if lithium essential, minimize dose and monitor closely with fetal echo at 16-20 weeks.",
+    "rationale": "Women of childbearing age on LITHIUM: FIRST test before any medication changes is PREGNANCY TEST. Lithium is teratogenic (Category D) - causes Ebstein's anomaly. Must know pregnancy status before continuing, adjusting, or discontinuing. If pregnant: discuss risks, consider switching to lamotrigine, or if lithium essential, minimize dose and monitor closely with fetal echo at 16-20 weeks. Board pearl: Lithium has the narrowest therapeutic index of psychiatric medications.",
     "category": "Lithium Monitoring",
     "domain": 3,
     "domainName": "Diagnosis and Treatment"
@@ -5364,7 +5364,7 @@
       "Not a personality disorder"
     ],
     "correctAnswer": 1,
-    "rationale": "CLUSTER C includes AVOIDANT PD: Wants social connection but fears rejection/criticism. Different from Schizoid (doesn't want connection). PMHNP: Responds well to SSRIs + CBT/exposure. May have comorbid social anxiety disorder. Gradual exposure therapy helpful. Better prognosis than Cluster A/B.",
+    "rationale": "CLUSTER C includes AVOIDANT PD: Wants social connection but fears rejection/criticism. Different from Schizoid (doesn't want connection). PMHNP: Responds well to SSRIs + CBT/exposure. May have comorbid social anxiety disorder. Gradual exposure therapy helpful. Better prognosis than Cluster A/B. Board pearl: SSRIs are first-line for depression and most anxiety disorders.",
     "category": "Personality Disorders",
     "domain": 3,
     "domainName": "Diagnosis and Treatment"
@@ -5379,7 +5379,7 @@
       "DISCONTINUE clozapine"
     ],
     "correctAnswer": 3,
-    "rationale": "Clozapine ANC monitoring: if ANC <1500, hold clozapine. If ANC <1000, discontinue. Weekly monitoring first 6 months, then biweekly for 6 months, then monthly. REMS program required. Risk of agranulocytosis (~1%).",
+    "rationale": "Clozapine ANC monitoring: if ANC <1500, hold clozapine. If ANC <1000, discontinue. Weekly monitoring first 6 months, then biweekly for 6 months, then monthly. REMS program required. Risk of agranulocytosis (~1%). Board pearl: Clozapine is underutilized despite being the only proven treatment for refractory schizophrenia.",
     "category": "Clozapine Monitoring",
     "domain": 3,
     "domainName": "Diagnosis and Treatment"
@@ -5439,7 +5439,7 @@
       "Calcium supplements without exercise"
     ],
     "correctAnswer": 1,
-    "rationale": "Osteoporosis management: weight-bearing EXERCISE, decrease caffeine (increases calcium excretion), adequate calcium/vitamin D, bisphosphonates if indicated. Relevant for patients on SSRIs (bone density concerns) or antipsychotics.",
+    "rationale": "Osteoporosis management: weight-bearing EXERCISE, decrease caffeine (increases calcium excretion), adequate calcium/vitamin D, bisphosphonates if indicated. Relevant for patients on SSRIs (bone density concerns) or antipsychotics. Board pearl: SSRIs are first-line for depression and most anxiety disorders.",
     "category": "Osteoporosis Management",
     "domain": 3,
     "domainName": "Diagnosis and Treatment"
@@ -5454,7 +5454,7 @@
       "No lifestyle changes needed"
     ],
     "correctAnswer": 0,
-    "rationale": "Elderly + SSRI education: exercise benefits mood and bone health. Reduce caffeine (can worsen anxiety, affects bone density). Monitor for hyponatremia, falls. Different from discontinuation syndrome (which needs taper education).",
+    "rationale": "Elderly + SSRI education: exercise benefits mood and bone health. Reduce caffeine (can worsen anxiety, affects bone density). Monitor for hyponatremia, falls. Different from discontinuation syndrome (which needs taper education). Board pearl: SSRIs are first-line for depression and most anxiety disorders.",
     "category": "Geriatric Pharmacology",
     "domain": 3,
     "domainName": "Diagnosis and Treatment"
@@ -5694,7 +5694,7 @@
       "D. Ignore the disclosure"
     ],
     "correctAnswer": 0,
-    "rationale": "MINOR CONFIDENTIALITY - Sexual orientation: Maintain confidentiality unless there is a safety concern. Sexual orientation is protected health information. The minor's right to privacy must be balanced against any duty to inform parents. Assess: Is the family environment safe? Is there abuse risk if disclosed? In most states, sexual orientation alone is NOT a reason to break confidentiality with a minor.",
+    "rationale": "MINOR CONFIDENTIALITY - SEXUAL ORIENTATION: Maintain confidentiality unless there is a SAFETY concern. Sexual orientation is protected health information. The minor's right to privacy must be balanced against potential harm from disclosure. Assess: Is the home environment safe? Would disclosure lead to abuse, rejection, homelessness? In most states, sexual orientation alone is NOT a reason to break confidentiality. Exceptions: if minor is being abused, is suicidal, or is engaging in risky behavior requiring intervention. Document your assessment of safety. Board pearl: Breach confidentiality only for safety - not to inform parents of orientation.",
     "category": "Ethics",
     "domain": 5,
     "domainName": "Ethical and Legal Principles"
@@ -5874,7 +5874,7 @@
       "Increased risk of serotonin syndrome"
     ],
     "correctAnswer": 0,
-    "rationale": "SSRI + PPI (omeprazole): PPIs inhibit CYP2C19 → can increase SSRI levels (citalopram, escitalopram). PHARMACOKINETIC interaction. Monitor for increased side effects. CYP2C19 poor metabolizers (~3% Caucasians, 15-20% Asians) already have higher levels.",
+    "rationale": "SSRI + PPI (omeprazole): PPIs inhibit CYP2C19 → can increase SSRI levels (citalopram, escitalopram). PHARMACOKINETIC interaction. Monitor for increased side effects. CYP2C19 poor metabolizers (~3% Caucasians, 15-20% Asians) already have higher levels. Board pearl: SSRIs are first-line for depression and most anxiety disorders.",
     "category": "Pharmacology",
     "domain": 3,
     "domainName": "Diagnosis and Treatment"
@@ -5889,7 +5889,7 @@
       "Medication non-compliance"
     ],
     "correctAnswer": 1,
-    "rationale": "Lithium nephrotoxicity: 4+ proteinuria indicates renal damage. Lithium causes nephrogenic diabetes insipidus, chronic kidney disease. Monitor BUN, creatinine, urinalysis. May need nephrology referral.",
+    "rationale": "Lithium nephrotoxicity: 4+ proteinuria indicates renal damage. Lithium causes nephrogenic diabetes insipidus, chronic kidney disease. Monitor BUN, creatinine, urinalysis. May need nephrology referral. Board pearl: Lithium has the narrowest therapeutic index of psychiatric medications.",
     "category": "Pharmacology",
     "domain": 3,
     "domainName": "Diagnosis and Treatment"
@@ -5904,7 +5904,7 @@
       "Isotretinoin"
     ],
     "correctAnswer": 3,
-    "rationale": "ISOTRETINOIN (Accutane) is absolutely CONTRAINDICATED in pregnancy - Category X, highly teratogenic. Causes severe birth defects including craniofacial, cardiac, and CNS abnormalities. Requires iPLEDGE program with two forms of contraception. Sertraline is relatively safe in pregnancy (preferred SSRI). If patient becomes pregnant on isotretinoin, discontinue IMMEDIATELY and refer to high-risk OB.",
+    "rationale": "ISOTRETINOIN (Accutane) is absolutely CONTRAINDICATED in pregnancy - Category X, highly teratogenic. Causes severe birth defects: craniofacial abnormalities, cardiac defects, CNS malformations, thymus abnormalities. Requires iPLEDGE REMS program: two forms of contraception, two negative pregnancy tests before starting, monthly pregnancy tests, 30-day prescription limits. If patient becomes pregnant while on isotretinoin: discontinue IMMEDIATELY, refer to high-risk OB. Sertraline is relatively safe in pregnancy (preferred SSRI). Board pearl: iPLEDGE program exists specifically because isotretinoin teratogenicity is so severe.",
     "category": "Pharmacology",
     "domain": 3,
     "domainName": "Diagnosis and Treatment"
@@ -5919,7 +5919,7 @@
       "Leukocytosis"
     ],
     "correctAnswer": 0,
-    "rationale": "SEROTONIN SYNDROME distinguishing features: CLONUS and HYPERREFLEXIA (especially lower extremity). Triad: (1) Mental status changes, (2) Autonomic instability (hyperthermia, diaphoresis, tachycardia), (3) Neuromuscular hyperactivity (HYPERREFLEXIA, clonus, tremor, rigidity). Key differentiator from NMS: Serotonin syndrome has hyperreflexia/clonus; NMS has lead-pipe rigidity and HYPOreflexia.",
+    "rationale": "SEROTONIN SYNDROME KEY FINDING: CLONUS and HYPERREFLEXIA (especially lower extremity clonus). Triad: (1) Altered mental status (agitation, confusion), (2) Autonomic instability (hyperthermia, diaphoresis, tachycardia, BP changes), (3) Neuromuscular hyperactivity (HYPERREFLEXIA, clonus, tremor, myoclonus, rigidity). Clonus is rhythmic, involuntary muscle contractions - test at ankle. Hyperreflexia = exaggerated deep tendon reflexes. This DISTINGUISHES from NMS which has HYPOreflexia and lead-pipe rigidity. Onset rapid (within 24 hours of serotonergic drug change). Causes: SSRI + MAOI (most dangerous), SSRI + tramadol, SSRI + triptan. Board pearl: Clonus = serotonin syndrome.",
     "category": "Pharmacology",
     "domain": 3,
     "domainName": "Diagnosis and Treatment"
@@ -6084,7 +6084,7 @@
       "WEIGHT-BEARING EXERCISE and smoking cessation"
     ],
     "correctAnswer": 3,
-    "rationale": "Osteoporosis prevention: WEIGHT-BEARING EXERCISE + lifestyle changes (stop smoking, limit alcohol/caffeine). Also: calcium 1200mg + vitamin D 800-1000 IU daily. Relevant for patients on SSRIs, steroids, antipsychotics.",
+    "rationale": "Osteoporosis prevention: WEIGHT-BEARING EXERCISE + lifestyle changes (stop smoking, limit alcohol/caffeine). Also: calcium 1200mg + vitamin D 800-1000 IU daily. Relevant for patients on SSRIs, steroids, antipsychotics. Board pearl: SSRIs are first-line for depression and most anxiety disorders.",
     "category": "Health Promotion",
     "domain": 5,
     "domainName": "Ethical and Legal Principles"
@@ -6204,7 +6204,7 @@
       "LAMOTRIGINE"
     ],
     "correctAnswer": 3,
-    "rationale": "Weight-neutral mood stabilizer: LAMICTAL (lamotrigine). May cause slight weight LOSS. Lithium, Depakote, Zyprexa cause significant weight gain. For weight-concerned patients, lamotrigine is good choice. Monitor for SJS rash.",
+    "rationale": "Weight-neutral mood stabilizer: LAMICTAL (lamotrigine). May cause slight weight LOSS. Lithium, Depakote, Zyprexa cause significant weight gain. For weight-concerned patients, lamotrigine is good choice. Monitor for SJS rash. Board pearl: Lithium has the narrowest therapeutic index of psychiatric medications.",
     "category": "Pharmacology",
     "domain": 3,
     "domainName": "Diagnosis and Treatment"
@@ -6234,7 +6234,7 @@
       "Alprazolam"
     ],
     "correctAnswer": 1,
-    "rationale": "LORAZEPAM (Ativan) is preferred for alcohol withdrawal in patients with HEPATIC IMPAIRMENT. Reason: Lorazepam is metabolized by glucuronidation (Phase II) - NOT affected by liver disease. Other benzos (diazepam, chlordiazepoxide) use oxidative (Phase I) metabolism which is impaired in liver disease. Also prefer oxazepam. Avoid long-acting benzos in liver failure due to accumulation risk.",
+    "rationale": "LORAZEPAM (Ativan) is preferred for alcohol withdrawal in HEPATIC IMPAIRMENT. Mechanism: Lorazepam is metabolized by glucuronidation (Phase II conjugation), NOT oxidation (Phase I). Phase I metabolism is significantly impaired in liver disease; Phase II is relatively preserved. Other benzos (diazepam, chlordiazepoxide) rely on oxidative (Phase I) metabolism → accumulation in liver disease → prolonged sedation, increased encephalopathy risk. Oxazepam and temazepam are also safe in liver disease (glucuronidation). Board pearl: 'LOT' drugs (Lorazepam, Oxazepam, Temazepam) are safe in liver disease - no active metabolites.",
     "category": "Substance Use",
     "domain": 3,
     "domainName": "Diagnosis and Treatment"
@@ -6249,7 +6249,7 @@
       "Antipsychotics only"
     ],
     "correctAnswer": 2,
-    "rationale": "ALCOHOL WITHDRAWAL TIMELINE: 6-12h: tremor, anxiety, headache, GI upset, palpitations. 12-24h: withdrawal seizures (peak 24h, usually generalized tonic-clonic). 24-48h: alcoholic hallucinosis (visual hallucinations with clear sensorium). 48-96h: DELIRIUM TREMENS (DTs) - confusion, agitation, fever, autonomic instability, hallucinations, mortality 5-15% untreated. CIWA-Ar score guides treatment: <10 (may not need meds), 10-15 (PRN benzos), >15 (scheduled benzos). Benzodiazepines are first-line for all stages.",
+    "rationale": "ALCOHOL WITHDRAWAL TIMELINE: 6-12 hours: tremor, anxiety, headache, GI upset, diaphoresis, palpitations. 12-24 hours: WITHDRAWAL SEIZURES (peak at 24 hours, typically generalized tonic-clonic, often single but can cluster). 24-48 hours: Alcoholic hallucinosis (visual hallucinations with CLEAR SENSORIUM - patient knows hallucinations aren't real). 48-96 hours: DELIRIUM TREMENS (DTs) - confusion, agitation, SEVERE autonomic instability, fever, hallucinations (tactile common), mortality 5-15% untreated. CIWA-Ar guides treatment: <10 (monitor), 10-15 (PRN benzos), ≥16 (scheduled benzos). Board pearl: DTs have highest mortality - prevention with adequate benzodiazepine is key.",
     "category": "Substance Use",
     "domain": 3,
     "domainName": "Diagnosis and Treatment"
@@ -6519,7 +6519,7 @@
       "DECREASE lithium dose"
     ],
     "correctAnswer": 3,
-    "rationale": "Lithium + NSAIDs (Indocin/Meloxicam): NSAIDs INCREASE lithium levels by decreasing renal clearance. DECREASE lithium dose or use Tylenol instead. All NSAIDs interact: ibuprofen, naproxen, indomethacin, meloxicam.",
+    "rationale": "Lithium + NSAIDs (Indocin/Meloxicam): NSAIDs INCREASE lithium levels by decreasing renal clearance. DECREASE lithium dose or use Tylenol instead. All NSAIDs interact: ibuprofen, naproxen, indomethacin, meloxicam. Board pearl: Lithium has the narrowest therapeutic index of psychiatric medications.",
     "category": "Pharmacology",
     "domain": 3,
     "domainName": "Diagnosis and Treatment"
@@ -6984,7 +6984,7 @@
       "BENZODIAZEPINES"
     ],
     "correctAnswer": 3,
-    "rationale": "Kava Kava—avoid: BENZODIAZEPINES. Additive CNS depression, sedation. Both affect GABA. Also hepatotoxicity risk. Avoid alcohol and other sedatives. SSRIs and antipsychotics less concerning.",
+    "rationale": "Kava Kava—avoid: BENZODIAZEPINES. Additive CNS depression, sedation. Both affect GABA. Also hepatotoxicity risk. Avoid alcohol and other sedatives. SSRIs and antipsychotics less concerning. Board pearl: SSRIs are first-line for depression and most anxiety disorders.",
     "category": "Pharmacology",
     "domain": 3,
     "domainName": "Diagnosis and Treatment"
@@ -7059,7 +7059,7 @@
       "No change needed"
     ],
     "correctAnswer": 1,
-    "rationale": "Lithium + NSAIDs: DECREASE LITHIUM dose. NSAIDs (Indocin, Mobic, ibuprofen) reduce renal clearance → increased lithium levels → toxicity risk. Use Tylenol for pain. Monitor lithium levels closely.",
+    "rationale": "Lithium + NSAIDs: DECREASE LITHIUM dose. NSAIDs (Indocin, Mobic, ibuprofen) reduce renal clearance → increased lithium levels → toxicity risk. Use Tylenol for pain. Monitor lithium levels closely. Board pearl: Lithium has the narrowest therapeutic index of psychiatric medications.",
     "category": "Pharmacology",
     "domain": 3,
     "domainName": "Diagnosis and Treatment"
@@ -7284,7 +7284,7 @@
       "Olanzapine"
     ],
     "correctAnswer": 2,
-    "rationale": "Weight-neutral mood stabilizer: LAMICTAL (lamotrigine). Doesn't cause weight gain, may cause slight loss. Good for bipolar depression. Other options (lithium, Depakote, atypicals) cause weight gain.",
+    "rationale": "Weight-neutral mood stabilizer: LAMICTAL (lamotrigine). Doesn't cause weight gain, may cause slight loss. Good for bipolar depression. Other options (lithium, Depakote, atypicals) cause weight gain. Board pearl: Lithium has the narrowest therapeutic index of psychiatric medications.",
     "category": "Pharmacology",
     "domain": 3,
     "domainName": "Diagnosis and Treatment"
@@ -7314,7 +7314,7 @@
       "Weight-bearing exercise and smoking cessation"
     ],
     "correctAnswer": 3,
-    "rationale": "Osteoporosis prevention: WEIGHT-BEARING EXERCISE + STOP SMOKING. Also: calcium 1200mg, vitamin D 800-1000 IU daily. Limit alcohol and caffeine. Relevant for patients on SSRIs, steroids, antipsychotics.",
+    "rationale": "Osteoporosis prevention: WEIGHT-BEARING EXERCISE + STOP SMOKING. Also: calcium 1200mg, vitamin D 800-1000 IU daily. Limit alcohol and caffeine. Relevant for patients on SSRIs, steroids, antipsychotics. Board pearl: SSRIs are first-line for depression and most anxiety disorders.",
     "category": "Pharmacology",
     "domain": 3,
     "domainName": "Diagnosis and Treatment"
@@ -7449,7 +7449,7 @@
       "Buspirone"
     ],
     "correctAnswer": 0,
-    "rationale": "Social anxiety first-line: SSRIs or SNRIs. Paroxetine, sertraline FDA-approved. Beta-blockers for performance anxiety only (not generalized SAD). Benzos not first-line (dependence risk). CBT also effective.",
+    "rationale": "Social anxiety first-line: SSRIs or SNRIs. Paroxetine, sertraline FDA-approved. Beta-blockers for performance anxiety only (not generalized SAD). Benzos not first-line (dependence risk). CBT also effective. Board pearl: SSRIs are first-line for depression and most anxiety disorders.",
     "category": "Pharmacology",
     "domain": 3,
     "domainName": "Diagnosis and Treatment"
